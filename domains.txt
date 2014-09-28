@@ -1,3 +1,4 @@
+
 (\/)?\d\d\d\.TLD
 201[0-9]-sztarajanlata\.TLD
 6500creditcard\.com
@@ -281,6 +282,7 @@ magic[\w-]+belt\.TLD
 magiccam([\w-]+)?\.TLD
 magnetmail1\.net
 magyarorszaglegolcsobbaruhaza\.TLD
+mail\.info
 maileco\.info
 mailjet\.com
 mailole\.info
