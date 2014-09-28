@@ -441,7 +441,6 @@ tvtermek\.com
 twoo(cdn|mail)?\.com
 ugatasstoppolo\.com
 ukbusinessdata\.uk.com
-ukbusinessdata\.uk.com
 unsubscribdeme\.us
 usesemail\.info
 vaboomz\.com
