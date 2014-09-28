@@ -1,7 +1,6 @@
 [\/\ ]\d\d\d\.TLD
-201[0-9]-sztarajanlata\.TLD
+sztarajanlata\.TLD
 6500creditcard\.com
-a-email\.info
 above\.com
 actonsoftware\.com
 adria[\w-]+.TLD

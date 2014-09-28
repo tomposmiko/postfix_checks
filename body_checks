@@ -11,8 +11,7 @@
 /affermail\.info([\/\,\ ])?/ DISCARD DROP: affermail\.info
 /affiliate-ajanlatok\.(com|net)([\/\,\ ])?/ DISCARD DROP: affiliate-ajanlatok\.(com|net)
 /agcswelpjv\.us([\/\,\ ])?/ DISCARD DROP: agcswelpjv\.us
-/agerast\.com([\/\,\ ])?/ DISCARD DROP: agerast\.com
-/agestar\.com([\/\,\ ])?/ DISCARD DROP: agestar\.com
+/age(rast|star)\.com([\/\,\ ])?/ DISCARD DROP: agerast\.com
 /akarokegyilyet\.hu([\/\,\ ])?/ DISCARD DROP: akarokegyilyet\.hu
 /akcioink\.hu([\/\,\ ])?/ DISCARD DROP: akcioink\.hu
 /alap-ado\.com([\/\,\ ])?/ DISCARD DROP: alap-ado\.com
