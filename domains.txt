@@ -1,5 +1,4 @@
-
-(\/)?\d\d\d\.TLD
+[\/\ ]\d\d\d\.TLD
 201[0-9]-sztarajanlata\.TLD
 6500creditcard\.com
 a-email\.info
