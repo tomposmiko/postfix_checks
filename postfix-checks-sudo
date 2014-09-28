@@ -1,0 +1,1 @@
+postfix-cronner ALL=NOPASSWD: /usr/sbin/postfix reload
