@@ -1,4 +1,4 @@
-/(\/)?\d\d\d\.(com|net)([\/\,\ ])?/ DISCARD DROP: (\/)?\d\d\d\.(com|net)
+/[\/\ ]\d\d\d\.(com|net)([\/\,\ ])?/ DISCARD DROP: [\/\ ]\d\d\d\.(com|net)
 /201[0-9]-sztarajanlata\.(com|net)([\/\,\ ])?/ DISCARD DROP: 201[0-9]-sztarajanlata\.(com|net)
 /6500creditcard\.com([\/\,\ ])?/ DISCARD DROP: 6500creditcard\.com
 /a-email\.info([\/\,\ ])?/ DISCARD DROP: a-email\.info
