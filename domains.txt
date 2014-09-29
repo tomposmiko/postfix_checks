@@ -468,7 +468,7 @@ ertesites\.com
 eurjob\.org
 haszon\.hu
 hatekony[\w-]+kovetes\.TLD
-hitel[\w-]+.TLD
+[^w]hitel[\w-]+.TLD
 horkolasnak-vege\.com
 horkolsz\.com
 hyaluron[\w-]+.TLD
