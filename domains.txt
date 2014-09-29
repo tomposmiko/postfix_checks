@@ -1,484 +1,476 @@
-6500creditcard\.com
+[@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]\d\d\d\.TLD
+[@\/\.\ ]actonsoftware\.com
+[@\/\.\ ]adria[\w-]+.TLD
+[@\/\.\ ]advanceyourcomputerskills\.com
+[@\/\.\ ]advantagemedia\.com
+[@\/\.\ ]aexp\.com
+[@\/\.\ ]affermail\.info
+[@\/\.\ ]affiliate-ajanlatok\.TLD
+[@\/\.\ ]agcswelpjv\.us
+[@\/\.\ ]age(star|rast)\.com
+[@\/\.\ ]akarokegyilyet\.hu
+[@\/\.\ ]alap-ado\.com
+[@\/\.\ ]alap\.net
+[@\/\.\ ]alarm(-)?box\.net
+[@\/\.\ ]alternativa\.fr
+[@\/\.\ ]altervista\.org
+[@\/\.\ ]alumnidirector\.com
+[@\/\.\ ]amazonlocal\.com
+[@\/\.\ ]amtelmail\.hu
+[@\/\.\ ]anhuaalbums\.com
+[@\/\.\ ]animal(-)?alarm([\w-]+)?\.TLD
+[@\/\.\ ]anpdm\.com
+[@\/\.\ ]anyagi(-)?megoldas\.com
+[@\/\.\ ]aol\.jp
+[@\/\.\ ]aotemantv\.com
+[@\/\.\ ]armastusedm\.com
+[@\/\.\ ]aronalul\.TLD
+[@\/\.\ ]aruhaz([\w-]+)?\.TLD
+[@\/\.\ ]asiansourcinggift\.com
+[@\/\.\ ]atmprk\.com
+[@\/\.\ ]aurorabiomed\.com
+[@\/\.\ ]awymqo\.com
+[@\/\.\ ]aya-fineguns\.com
+[@\/\.\ ]baivan\.com
+[@\/\.\ ]banjia-2000\.com
+[@\/\.\ ]barkacsgepek\.com
+[@\/\.\ ]bccresearch\.com
+[@\/\.\ ]beats-design\.com
+[@\/\.\ ]bestdealz-mail\.com
+[@\/\.\ ]beykozrotary\.org
+[@\/\.\ ]bichengpcb\.com
+[@\/\.\ ]bilingdepp\.net
+[@\/\.\ ]bill\.com
+[@\/\.\ ]biofingerprint\.com
+[@\/\.\ ]biz2promo\.com
+[@\/\.\ ]biztonsagban\.TLD
+[@\/\.\ ]blackservice\.hu
+[@\/\.\ ]blindbar\.hu
+[@\/\.\ ]bluehornet\.com
+[@\/\.\ ]bonusmini\.com
+[@\/\.\ ]bonuszshop\.com
+[@\/\.\ ]bove\.com
+[@\/\.\ ]brandingxperts\.net
+[@\/\.\ ]bruinsfansedge\.com
+[@\/\.\ ]bsuperior-webonline\.us
+[@\/\.\ ]burncalories([\w-]+)?\.com
+[@\/\.\ ]business-review-webinars\.com.com
+[@\/\.\ ]businesswatchnetwork\.com
+[@\/\.\ ]camarela\.org
+[@\/\.\ ]capital-email\.info
+[@\/\.\ ]careerbuildereu\.com
+[@\/\.\ ]carrollsirishgifts\.com
+[@\/\.\ ]cegescucc\.com
+[@\/\.\ ]cellodevelopers\.net
+[@\/\.\ ]ceosalesevents\.com
+[@\/\.\ ]cesltd\.com
+[@\/\.\ ]chemspeceurope\.com
+[@\/\.\ ]chihotelsandresorts\.com
+[@\/\.\ ]cisesemail\.info
+[@\/\.\ ]clearslide\.com.com
+[@\/\.\ ]clearslidemail\.com
+[@\/\.\ ]click\.org
+[@\/\.\ ]clickshop\.hu
+[@\/\.\ ]clicksurecpa\.com
+[@\/\.\ ]climatisation-lg\.com
 [@\/\.\ ]cn\.com
+[@\/\.\ ]cnbiodegradable\.com
+[@\/\.\ ]cnchunyun\.com
+[@\/\.\ ]cnmetalchemicals\.com
+[@\/\.\ ]cnultrasonic\.com
+[@\/\.\ ]completeeasydiet\.com
+[@\/\.\ ]component\.hu
+[@\/\.\ ]conforg\.hu
+[@\/\.\ ]conservativecontacts\.com
+[@\/\.\ ]constantcontact\.com
+[@\/\.\ ]constient\.com
+[@\/\.\ ]consultant\.com
+[@\/\.\ ]contractormortgagesuk\.com
+[@\/\.\ ]coremailing\.org
+[@\/\.\ ]cosmocyte\.com
+[@\/\.\ ]creatingapp\.biz
+[@\/\.\ ]csakittszabadvasarolni\.com
+[@\/\.\ ]csakmafelaron\.com
+[@\/\.\ ]cubby\.com
+[@\/\.\ ]cvent\.com
+[@\/\.\ ]cybercoders\.com
+[@\/\.\ ]cyprus-scaffolding\.com
+[@\/\.\ ]d-so\.cn
+[@\/\.\ ]damcogroup\.com
+[@\/\.\ ]dandb\.com
+[@\/\.\ ]datingbyte\.com
+[@\/\.\ ]davidmorganstudios\.com
+[@\/\.\ ]dayihose\.com
+[@\/\.\ ]dealproresearch\.com
+[@\/\.\ ]dedical\.info
+[@\/\.\ ]deedingemail\.info
+[@\/\.\ ]distribio\.com
 [@\/\.\ ]do.com
+[@\/\.\ ]doctoracas\.ru
+[@\/\.\ ]doideras\.com
+[@\/\.\ ]easun-group\.com
+[@\/\.\ ]echomail\.com
+[@\/\.\ ]economycarrentals\.com
+[@\/\.\ ]ecovapor-tips\.TLD
+[@\/\.\ ]edmbing\.com
+[@\/\.\ ]ekvident\.hu
+[@\/\.\ ]elasticemail\.com
+[@\/\.\ ]eletmodhirek\.com
+[@\/\.\ ]email-guru\.net
+[@\/\.\ ]emi02\.com
+[@\/\.\ ]emtipper\.net
+[@\/\.\ ]enterprisegroup\.hu
+[@\/\.\ ]eri021\.com
+[@\/\.\ ]esqrealty\.net
+[@\/\.\ ]ethicalseoprovider\.com
+[@\/\.\ ]eur-business\.com
+[@\/\.\ ]europe\.com
+[@\/\.\ ]europscareer\.com
+[@\/\.\ ]europsjob\.com
+[@\/\.\ ]evergage\.com
+[@\/\.\ ]execreps\.com
+[@\/\.\ ]exelect\.hu
+[@\/\.\ ]exhibitorconnect\.com
+[@\/\.\ ]extra-car-dock\.com
+[@\/\.\ ]extra-car-dock\.com
+[@\/\.\ ]exualepton\.info
+[@\/\.\ ]fabrikett\.hu
+[@\/\.\ ]faxcorp\.co
+[@\/\.\ ]fblx\.net
+[@\/\.\ ]filtress\.com
+[@\/\.\ ]fissmail\.us
+[@\/\.\ ]fitnessleadsfast\.com
+[@\/\.\ ]floguntiet\.info
+[@\/\.\ ]foalingemail\.info
+[@\/\.\ ]fotodiassisi\.com
+[@\/\.\ ]fredengiforex\.ru
+[@\/\.\ ]free-email\.info
+[@\/\.\ ]fresh-ad\.ru
+[@\/\.\ ]fudo\.hu
+[@\/\.\ ]fullpower([\w-]+)?\.com
+[@\/\.\ ]futureevent\.hu
+[@\/\.\ ]gabonfmonline\.com
+[@\/\.\ ]gantservices\.com
+[@\/\.\ ]genecust\.eu
+[@\/\.\ ]getinterenetmarketingbuzz\.us
+[@\/\.\ ]getresponse\.com
+[@\/\.\ ]giga-akciok\.com
+[@\/\.\ ]glce\.eu
+[@\/\.\ ]globaloptics\.cn
+[@\/\.\ ]globalstone\.hu
+[@\/\.\ ]gnt-impex\.hu
+[@\/\.\ ]go(-)?sport([\w-]+)?\.TLD
+[@\/\.\ ]goaomendubo\.com
+[@\/\.\ ]google\.ru
+[@\/\.\ ]greenlight\.23net.hu
+[@\/\.\ ]gte-cn\.com
+[@\/\.\ ]gwallgmbh\.com
+[@\/\.\ ]half-x\.com
+[@\/\.\ ]hamuesgyemant\.hu
+[@\/\.\ ]harper-beck\.com
+[@\/\.\ ]harperbeckagency\.com
+[@\/\.\ ]healthyshinyhair-tips\.com
+[@\/\.\ ]highwaysemail\.info
+[@\/\.\ ]himaddie\.com
+[@\/\.\ ]hitech-expo\.com
+[@\/\.\ ]hoteljobs\.hu
+[@\/\.\ ]hr-controlling\.com
+[@\/\.\ ]hshoesbuy\.com
+[@\/\.\ ]huersen198\.com
+[@\/\.\ ]humanpower\.web.id
+[@\/\.\ ]husveti-kaszalas\.com
+[@\/\.\ ]i-winway\.com
+[@\/\.\ ]iddst\.com
+[@\/\.\ ]idevnews\.com
+[@\/\.\ ]ieurope\.com
+[@\/\.\ ]ihealthcommons\.org
+[@\/\.\ ]ilovebj\.cn
+[@\/\.\ ]inbox\.lv
+[@\/\.\ ]incdating\.com
+[@\/\.\ ]incomebroadcast\.net
+[@\/\.\ ]increaseorganicsales\.in
+[@\/\.\ ]incytemarketing\.com
+[@\/\.\ ]indialabexpo\.com
+[@\/\.\ ]indianengineering\.net
+[@\/\.\ ]indigors\.com
+[@\/\.\ ]info-atbetresort\.eu
+[@\/\.\ ]inotex\.com
+[@\/\.\ ]install-new-watchnow\.us
+[@\/\.\ ]interemail\.info
+[@\/\.\ ]internetespenz\.TLD
+[@\/\.\ ]internetmarketingbuzz\.biz
+[@\/\.\ ]intro-mail\.info
+[@\/\.\ ]irs\.gov
+[@\/\.\ ]irtaglobal\.com
+[@\/\.\ ]iscnewsletter\.TLD
+[@\/\.\ ]itdatalicense\.com
+[@\/\.\ ]ithang\.ru
+[@\/\.\ ]jaffassociati\.it
+[@\/\.\ ]jbhouseware\.com
+[@\/\.\ ]jerriwohlacafa\.us
+[@\/\.\ ]jesuninfo\.com
+[@\/\.\ ]jiguang-led\.com
+[@\/\.\ ]jinbohao\.com
+[@\/\.\ ]jinglecorp\.com
+[@\/\.\ ]jinjang\.hu
+[@\/\.\ ]job-n-talent\.com
+[@\/\.\ ]jofogas\.net
+[@\/\.\ ]jtcmsci\.com
+[@\/\.\ ]jumdo\.com
+[@\/\.\ ]karincamucizesi\.com
+[@\/\.\ ]kedvezmenyeso\.TLD
+[@\/\.\ ]kerbeeketchup\.com
+[@\/\.\ ]kerekparor\.TLD
+[@\/\.\ ]kevin-fassbender\.com
+[@\/\.\ ]kkvprojektek\.com
+[@\/\.\ ]knowledgematrixinc\.TLD
+[@\/\.\ ]kolcson([\w-]+)?\.com
+[@\/\.\ ]konyhaicuccok\.com
+[@\/\.\ ]ladybird\.hu
+[@\/\.\ ]latp\.by
+[@\/\.\ ]leadformix\.com
+[@\/\.\ ]leadscloud\.TLD
+[@\/\.\ ]leasecorp\.com
+[@\/\.\ ]ledccy\.com
+[@\/\.\ ]levele\.net
+[@\/\.\ ]lifeplusz\.hu
+[@\/\.\ ]liteurl\.dk
+[@\/\.\ ]livenaturals\.hu
+[@\/\.\ ]lukaszewitz\.de
+[@\/\.\ ]luxurybagsoutletmall\.com
+[@\/\.\ ]ma-minden-felaron\.com
+[@\/\.\ ]magic([\w-]+)?(belt|cam)([\w-]+)\.TLD
+[@\/\.\ ]magnetmail1\.net
+[@\/\.\ ]magyarorszaglegolcsobbaruhaza\.TLD
+[@\/\.\ ]maileco\.info
+[@\/\.\ ]mailjet\.com
+[@\/\.\ ]mailole\.info
+[@\/\.\ ]managr(-)?amax(-)?hu\.TLD
+[@\/\.\ ]marketacquisition\.com
+[@\/\.\ ]maxwhite([\w-]+)?\.com
+[@\/\.\ ]mcsv\.net
+[@\/\.\ ]mdxtsauls\.us
+[@\/\.\ ]mediacenter\.hu
+[@\/\.\ ]mega-akciok\.net
+[@\/\.\ ]megtakaritas([\w-]+)?\.TLD
+[@\/\.\ ]mendax\.hu
+[@\/\.\ ]michelle-cash-money\.com
+[@\/\.\ ]minibird\.jp
+[@\/\.\ ]mkt5826\.com
+[@\/\.\ ]mmsend\.com
+[@\/\.\ ]mobiltelo\.hu
+[@\/\.\ ]mobilx\.hu
+[@\/\.\ ]mobilxcloud\.hu
+[@\/\.\ ]moliton\.hu
+[@\/\.\ ]momotel\.hu
+[@\/\.\ ]mooningemail\.info
+[@\/\.\ ]munka-hu\.com
+[@\/\.\ ]munkaugyilevelek\.hu
+[@\/\.\ ]mus\.ae
+[@\/\.\ ]musiczaclub\.com
+[@\/\.\ ]muszeroldal\.hu
+[@\/\.\ ]mynews1\.com
+[@\/\.\ ]mynews1mobileapp\.info
+[@\/\.\ ]mypinpointe\.com
+[@\/\.\ ]mywebsite\.com
+[@\/\.\ ]nadorogahmira\.com
+[@\/\.\ ]nathansay\.com
+[@\/\.\ ]naturalmedicina\.ru
+[@\/\.\ ]neryungri\.ru
+[@\/\.\ ]net\.mx
+[@\/\.\ ]netiq\.com
+[@\/\.\ ]new1\.com
+[@\/\.\ ]newwebsample\.info
 [@\/\.\ ]nfo\.hu
+[@\/\.\ ]nide-international\.com
+[@\/\.\ ]night(-)?glass([\w-]+)?\.net
+[@\/\.\ ]nlgrid\.com
+[@\/\.\ ]northboundsolutions\.com
+[@\/\.\ ]nospammer\.net
+[@\/\.\ ]notetech\.com
+[@\/\.\ ]nveststroi\.net
+[@\/\.\ ]oc\.org
+[@\/\.\ ]odlex\.com
+[@\/\.\ ]off[3e]r([\w-]+)?\.us
+[@\/\.\ ]olivosmedia\.com
+[@\/\.\ ]olobag2\.com
+[@\/\.\ ]omicsonline\.us
+[@\/\.\ ]orderitem11\.com
+[@\/\.\ ]origos\.hu
+[@\/\.\ ]orszem\.com
+[@\/\.\ ]oshig\.com
+[@\/\.\ ]osimodszer\.com
+[@\/\.\ ]outletvip\.us
+[@\/\.\ ]outsellinc\.com
+[@\/\.\ ]oversea-supply\.com
+[@\/\.\ ]para(-)?kapu([\w-]+)?\.TLD
+[@\/\.\ ]pbconference\.com
+[@\/\.\ ]pelletkandallo\.hu
+[@\/\.\ ]phdvirtual\.com
+[@\/\.\ ]pill([\w-]+)?\.ru
+[@\/\.\ ]pivotal-solutions\.net
+[@\/\.\ ]postershopper\.eu
+[@\/\.\ ]potentiels\.ch
+[@\/\.\ ]powermail1\.com
+[@\/\.\ ]powermail\.hu
+[@\/\.\ ]premium-car-dock\.net
+[@\/\.\ ]prest\.by
+[@\/\.\ ]private-alarm\.com
+[@\/\.\ ]projobnetwork\.info
+[@\/\.\ ]promociocentrum\.TLD
+[@\/\.\ ]proxy-imagecache\.com
+[@\/\.\ ]pusauro\.com
+[@\/\.\ ]pusauro\.info
+[@\/\.\ ]pxhbhm\.com
+[@\/\.\ ]qermin\.com
 [@\/\.\ ]qq\.com
-above\.com
-actonsoftware\.com
-adria[\w-]+.TLD
-advanceyourcomputerskills\.com
-advantagemedia\.com
-aexp\.com
-affermail\.info
-affiliate-ajanlatok\.TLD
-agcswelpjv\.us
-agerast\.com
-agestar\.com
-akarokegyilyet\.hu
+[@\/\.\ ]qweamedish\.info
+[@\/\.\ ]r102\.com
+[@\/\.\ ]reasonstobeer\.com
+[@\/\.\ ]recipientmail\.co.uk
+[@\/\.\ ]reesitebusiness\.com
+[@\/\.\ ]rfactorevolution\.com
+[@\/\.\ ]riaszt([\w-]+)?\.TLD
+[@\/\.\ ]richter10point2\.com
+[@\/\.\ ]robertblabl\.de
+[@\/\.\ ]rosteremail\.info
+[@\/\.\ ]runsom\.com
+[@\/\.\ ]s3-(eu|us)-(east|west)-[\d]\.amazonaws.com
+[@\/\.\ ]s98mail\.com
+[@\/\.\ ]salerays([\w-]+)?\.us
+[@\/\.\ ]salesforay\.com
+[@\/\.\ ]sarastoneclub\.com
+[@\/\.\ ]sciencebg\.net
+[@\/\.\ ]secondderivative\.com
+[@\/\.\ ]seek-studio\.com
+[@\/\.\ ]segitek\.hu
+[@\/\.\ ]sendstorm\.biz
+[@\/\.\ ]sentir7\.com
+[@\/\.\ ]settour\.com.tw
+[@\/\.\ ]shop[\w-]+201([\w-]+)?\.com
+[@\/\.\ ]silversoftwaretech\.com
+[@\/\.\ ]sitynur\.ru
+[@\/\.\ ]smartling\.com
+[@\/\.\ ]smtp-power\.com
+[@\/\.\ ]socialsyrup\.hu
+[@\/\.\ ]socialwellnessemail\.com
+[@\/\.\ ]softassist\.com.au
+[@\/\.\ ]srtrust\.org.in
+[@\/\.\ ]sso-unidadfinanzas\.com
+[@\/\.\ ]starajanlatok\.com
+[@\/\.\ ]studio98\.com
+[@\/\.\ ]subsbloomberg\.com
+[@\/\.\ ]subtleemail\.info
+[@\/\.\ ]summerskinny([\w-]+)?\.us
+[@\/\.\ ]sztarajanlat([\w-]+)?\.TLD
+[@\/\.\ ]szupertolto\.com
+[@\/\.\ ]taiwan-liwang\.com
+[@\/\.\ ]targetleadsus\.com
+[@\/\.\ ]tavaszi-kiarusitas\.com
+[@\/\.\ ]techcello\.com
+[@\/\.\ ]tele\.net
+[@\/\.\ ]temkardelenlerkoleji\.com
+[@\/\.\ ]terrapinn\.com
+[@\/\.\ ]theattachmategroup\.com
+[@\/\.\ ]thecornerstonegroupinc\.com
+[@\/\.\ ]thesyriamail\.com
+[@\/\.\ ]timesgroup\.com
+[@\/\.\ ]tinyfreeware\.com
+[@\/\.\ ]tisztitoszer-depo\.hu
+[@\/\.\ ]tmnplc\.com
+[@\/\.\ ]tmsnewsletter\.com
+[@\/\.\ ]tnd\.it
+[@\/\.\ ]toticemail\.info
+[@\/\.\ ]tvspeciasltvsponline\.us
+[@\/\.\ ]twoo(cdn|mail)?\.com
+[@\/\.\ ]ugatasstoppolo\.com
+[@\/\.\ ]ukbusinessdata\.uk.com
+[@\/\.\ ]unsubscribdeme\.us
+[@\/\.\ ]usesemail\.info
+[@\/\.\ ]vaboomz\.com
+[@\/\.\ ]vasarol([\w-]+)?\.TLD
+[@\/\.\ ]veletlengyorshajtas\.TLD
+[@\/\.\ ]vemployee\.com
+[@\/\.\ ]videoizlen\.net
+[@\/\.\ ]vitalityfall\.com
+[@\/\.\ ]vn\.ua
+[@\/\.\ ]vresp\.com
+[@\/\.\ ]vsnl\.net
+[@\/\.\ ]wakenemail\.info
+[@\/\.\ ]waningemail\.info
+[@\/\.\ ]wattguard\.hu
+[@\/\.\ ]wctpresents\.org
+[@\/\.\ ]webdevelopersrus\.com
+[@\/\.\ ]webdigitech\.com
+[@\/\.\ ]websiteinformacio\.hu
+[@\/\.\ ]wedrownicy\.org
+[@\/\.\ ]wellsfargo\.com
+[@\/\.\ ]wgfw\.info
+[@\/\.\ ]whatworksbook\.com
+[@\/\.\ ]wheemjabrudnaifly\.us
+[@\/\.\ ]wholesalehandicraft\.com
+[@\/\.\ ]whynot-webshop\.com
+[@\/\.\ ]wifi[\w-]+-hu\.TLD
+[@\/\.\ ]workcenter\.hu
+[@\/\.\ ]worldnetclass\.com
+[@\/\.\ ]worldphotographiccup\.org
+[@\/\.\ ]yadari\.com
+[@\/\.\ ]yahoo\.com.(cn|hk)
+[@\/\.\ ]yancfz\.com
+[@\/\.\ ]ynsbfy\.com
+[@\/\.\ ]yooga\.ru
+[@\/\.\ ]youlube\.com
+[@\/\.\ ]zbxbn\.com
+[@\/\.\ ]zhiyinqipai\.com
+[@\/\.\ ]ziffdavismail\.com
+[@\/\.\ ]ztouvalve\.com
 akcioink\.hu
-alap-ado\.com
-alap\.net
-alarm(-)?box\.net
 alkatresz(ar|bolt)\.hu
-alternativa\.fr
-altervista\.org
-alumnidirector\.com
-amazonlocal\.com
-amtelmail\.hu
-anhuaalbums\.com
-animal(-)?alarm([\w-]+)?\.TLD
-anpdm\.com
-anyagi(-)?megoldas\.com
-aol\.jp
-aotemantv\.com
 apro(-)?(hir|info|oldal)([\w-]+)?\.hu
 aralatt\.TLD
 arcsokkentesek([\w-]+)?\.com
-armastusedm\.com
-aronalul\.TLD
-aruhaz([\w-]+)?\.TLD
-asiansourcinggift\.com
-atmprk\.com
-aurorabiomed\.com
-awymqo\.com
-aya-fineguns\.com
 babyliss-hu\.com
-baivan\.com
-banjia-2000\.com
-barkacsgepek\.com
-bccresearch\.com
-beats-design\.com
-bestdealz-mail\.com
-beykozrotary\.org
-bichengpcb\.com
 biciklis-szett\.com
 bike-alarm\.TLD
-bilingdepp\.net
-bill\.com
-biofingerprint\.com
-biz2promo\.com
-biztonsagban\.TLD
-blackservice\.hu
-blindbar\.hu
-bluehornet\.com
-bonusmini\.com
-bonuszshop\.com
-brandingxperts\.net
-bruinsfansedge\.com
-bsuperior-webonline\.us
-buntetes(-)?(nelkul|nincs)\.TLD
 buntetes([\w-]+)?\.net
-burncalories([\w-]+)?\.com
-business-review-webinars\.com.com
-businesswatchnetwork\.com
-camarela\.org
-capital-email\.info
 car(-)?cam.*.TLD
-careerbuildereu\.com
-carrollsirishgifts\.com
-cegescucc\.com
 cegesinfok\.hu
-cellodevelopers\.net
-ceosalesevents\.com
-cesltd\.com
-chemspeceurope\.com
-chihotelsandresorts\.com
-cisesemail\.info
-clearslide\.com.com
-clearslidemail\.com
-click\.org
-clickshop\.hu
-clicksurecpa\.com
-climatisation-lg\.com
-cnbiodegradable\.com
-cnchunyun\.com
-cnmetalchemicals\.com
-cnultrasonic\.com
-completeeasydiet\.com
-component\.hu
-conforg\.hu
-conservativecontacts\.com
-constantcontact\.com
-constient\.com
-consultant\.com
-contractormortgagesuk\.com
-coremailing\.org
-cosmocyte\.com
-creatingapp\.biz
-csakittszabadvasarolni\.com
-csakmafelaron\.com
-cubby\.com
-cvent\.com
-cybercoders\.com
-cyprus-scaffolding\.com
-d-so\.cn
-damcogroup\.com
-dandb\.com
-datingbyte\.com
-davidmorganstudios\.com
-dayihose\.com
-dealproresearch\.com
-dedical\.info
-deedingemail\.info
 dietoffer([\w-]+)?\.us
 diets-([\w-]+)?\.com
-distribio\.com
-doctoracas\.ru
-doideras\.com
 drogteszt([\w-]+)?\.TLD
 e(-)?cigi.*\.com
-easun-group\.com
-echomail\.com
-economycarrentals\.com
-ecovapor-tips\.TLD
-edmbing\.com
-ekvident\.hu
 elalvas(-)?stop\.com
-elasticemail\.com
-eletmodhirek\.com
-email-guru\.net
-emi02\.com
-emtipper\.net
-enterprisegroup\.hu
-eri021\.com
 ertesites\.com
-esqrealty\.net
-ethicalseoprovider\.com
-eur-business\.com
 eurjob\.org
-europe\.com
-europscareer\.com
-europsjob\.com
-evergage\.com
-execreps\.com
-exelect\.hu
-exhibitorconnect\.com
-extra-car-dock\.com
-extra-car-dock\.com
-exualepton\.info
-fabrikett\.hu
-faxcorp\.co
-fblx\.net
-filtress\.com
-fissmail\.us
-fitnessleadsfast\.com
-floguntiet\.info
-foalingemail\.info
-fotodiassisi\.com
-fredengiforex\.ru
-free-email\.info
-fresh-ad\.ru
-fudo\.hu
-fullpower([\w-]+)?\.com
-futureevent\.hu
-gabonfmonline\.com
-gantservices\.com
-genecust\.eu
-getinterenetmarketingbuzz\.us
-getresponse\.com
-giga-akciok\.com
-glce\.eu
-globaloptics\.cn
-globalstone\.hu
-gnt-impex\.hu
-go(-)?sport([\w-]+)?\.TLD
-goaomendubo\.com
-google\.ru
-greenlight\.23net.hu
-gte-cn\.com
-gwallgmbh\.com
-half-x\.com
-hamuesgyemant\.hu
-harper-beck\.com
-harperbeckagency\.com
 haszon\.hu
 hatekony[\w-]+kovetes\.TLD
-healthyshinyhair-tips\.com
-highwaysemail\.info
-himaddie\.com
-hitech-expo\.com
 hitel[\w-]+.TLD
-hitelt-kapok\.com
 horkolasnak-vege\.com
 horkolsz\.com
-hoteljobs\.hu
-hr-controlling\.com
-hshoesbuy\.com
-huersen198\.com
-humanpower\.web.id
-husveti-kaszalas\.com
 hyaluron[\w-]+.TLD
-i-winway\.com
-iddst\.com
-idevnews\.com
-ieurope\.com
-ihealthcommons\.org
-ilovebj\.cn
-inbox\.lv
-incdating\.com
-incomebroadcast\.net
-increaseorganicsales\.in
-incytemarketing\.com
-indialabexpo\.com
-indianengineering\.net
-indigors\.com
-info-atbetresort\.eu
 ingyen([\w-]+)?\.hu
-inotex\.com
-install-new-watchnow\.us
-interemail\.info
-internetespenz\.TLD
-internetmarketingbuzz\.biz
-intro-mail\.info
-irs\.gov
-irtaglobal\.com
-iscnewsletter\.TLD
-itdatalicense\.com
-ithang\.ru
-jaffassociati\.it
-jbhouseware\.com
-jerriwohlacafa\.us
-jesuninfo\.com
-jiguang-led\.com
-jinbohao\.com
-jinglecorp\.com
-jinjang\.hu
-job-n-talent\.com
-jofogas\.net
-jtcmsci\.com
-jumdo\.com
-karincamucizesi\.com
-kedvezmenyeso\.TLD
-kerbeeketchup\.com
-kerekparor\.TLD
-kevin-fassbender\.com
-kkvprojektek\.com
-knowledgematrixinc\.TLD
-kolcson([\w-]+)?\.com
-konyhaicuccok\.com
 kosmodisk([\w-]+)?\.TLD
 kovesdnyomon\.TLD
 kuponjaink\.hu
-ladybird\.hu
-latp\.by
-leadformix\.com
-leadscloud\.TLD
-leasecorp\.com
-ledccy\.com
 legjobb[\w-]+.com
 legyen-eleg\.com
 lepeselony\.hu
-levele\.net
-lifeplusz\.hu
 list\.ru
-liteurl\.dk
-livenaturals\.hu
-lukaszewitz\.de
-luxurybagsoutletmall\.com
-ma-minden-felaron\.com
-magic(-)?belt[\w-]+.com
-magic[\w-]+belt\.TLD
-magiccam([\w-]+)?\.TLD
-magnetmail1\.net
-magyarorszaglegolcsobbaruhaza\.TLD
 mail\.info
-maileco\.info
-mailjet\.com
-mailole\.info
-managr(-)?amax(-)?hu\.TLD
-marketacquisition\.com
 marketingexpressz\.hu
 maxfelaron\.hu
-maxwhite([\w-]+)?\.com
-mcsv\.net
-mdxtsauls\.us
-mediacenter\.hu
-mega-akciok\.net
-megtakaritas([\w-]+)?\.TLD
 megved([\w-]+)?\.com
-mendax\.hu
-michelle-cash-money\.com
-minibird\.jp
-mkt5826\.com
-mmsend\.com
-mobiltelo\.hu
-mobilx\.hu
-mobilxcloud\.hu
-moliton\.hu
-momotel\.hu
-mooningemail\.info
-munka-hu\.com
-munkaugyilevelek\.hu
-mus\.ae
-musiczaclub\.com
-muszeroldal\.hu
-mynews1\.com
-mynews1mobileapp\.info
-mypinpointe\.com
-mywebsite\.com
-nadorogahmira\.com
-nathansay\.com
-naturalmedicina\.ru
-neryungri\.ru
-net\.mx
-netiq\.com
-new1\.com
-newwebsample\.info
-nide-international\.com
-night(-)?glass([\w-]+)?\.net
-nlgrid\.com
-northboundsolutions\.com
-nospammer\.net
-notetech\.com
-nveststroi\.net
 nyari-gyorskolcson\.com
 nyomkoveto[\w-]+.com
-oc\.org
-odlex\.com
-off[3e]r([\w-]+)?\.us
-olivosmedia\.com
-olobag2\.com
-omicsonline\.us
-orderitem11\.com
-origos\.hu
-orszem\.com
-oshig\.com
-osimodszer\.com
-outletvip\.us
-outsellinc\.com
-oversea-supply\.com
-para(-)?kapu([\w-]+)?\.TLD
-pbconference\.com
-pelletkandallo\.hu
 penz-gyorsan\.com
 penzugyitippek\.com
-phdvirtual\.com
-pill([\w-]+)?\.ru
-pivotal-solutions\.net
-postershopper\.eu
-potentiels\.ch
-powermail1\.com
-powermail\.hu
 praktikustermekek\.com
-premium-car-dock\.net
-prest\.by
-private-alarm\.com
-projobnetwork\.info
-promociocentrum\.TLD
-proxy-imagecache\.com
-pusauro\.com
-pusauro\.info
-pxhbhm\.com
-qermin\.com
-qweamedish\.info
-r102\.com
-reasonstobeer\.com
-recipientmail\.co.uk
-reesitebusiness\.com
-rfactorevolution\.com
-riaszt([\w-]+)?\.TLD
-richter10point2\.com
 riddex([\w-]+)?\.TLD
-riddex([\w-]+)?\.TLD
-robertblabl\.de
-rosteremail\.info
-runsom\.com
-s3-eu-west-[\d]\.amazonaws.com
-s98mail\.com
-salerays([\w-]+)?\.us
-salesforay\.com
-sarastoneclub\.com
-sciencebg\.net
-secondderivative\.com
-seek-studio\.com
-segitek\.hu
-sendstorm\.biz
-sentir7\.com
-settour\.com.tw
-shop[\w-]+20([\w-]+)?\.com
 sikeresen\.net
-silversoftwaretech\.com
-sitynur\.ru
-smartling\.com
-smtp-power\.com
-socialsyrup\.hu
-socialwellnessemail\.com
-softassist\.com.au
-srtrust\.org.in
-sso-unidadfinanzas\.com
-starajanlatok\.com
-studio98\.com
-subsbloomberg\.com
-subtleemail\.info
-summerskinny([\w-]+)?\.us
 szekhelybudapest\.hu
-sztarajanlata\.TLD
-sztarajanlatok\.TLD
-szupertolto\.com
-taiwan-liwang\.com
-targetleadsus\.com
-tavaszi-kiarusitas\.com
-techcello\.com
-tele\.net
-temkardelenlerkoleji\.com
-terrapinn\.com
-theattachmategroup\.com
-thecornerstonegroupinc\.com
-thesyriamail\.com
-timesgroup\.com
-tinyfreeware\.com
 tippjeink\.hu
 tisztessegessoforoknek\.com
-tisztitoszer-depo\.hu
-tmnplc\.com
-tmsnewsletter\.com
-tnd\.it
-toticemail\.info
-tvspeciasltvsponline\.us
 tvtermek\.com
-twoo(cdn|mail)?\.com
-ugatasstoppolo\.com
-ukbusinessdata\.uk.com
-unsubscribdeme\.us
-usesemail\.info
-vaboomz\.com
-vasarol([\w-]+)?\.TLD
-veletlengyorshajtas\.TLD
-vemployee\.com
-videoizlen\.net
-vitalityfall\.com
-vn\.ua
-vresp\.com
-vsnl\.net
-wakenemail\.info
-waningemail\.info
-wattguard\.hu
-wctpresents\.org
-webdevelopersrus\.com
-webdigitech\.com
-websiteinformacio\.hu
-wedrownicy\.org
-wellsfargo\.com
-wgfw\.info
-whatworksbook\.com
-wheemjabrudnaifly\.us
-wholesalehandicraft\.com
-whynot-webshop\.com
-wifi[\w-]+-hu\.TLD
-workcenter\.hu
-worldnetclass\.com
-worldphotographiccup\.org
 x(-)?hose([\w-]+)?\.TLD
 x6[\w-]+mop([\w-]+)?\.com
-xn--p1ai
-yadari\.com
-yahoo\.com.(cn|hk)
-yancfz\.com
-ynsbfy\.com
-yooga\.ru
-youlube\.com
-zbxbn\.com
-zhiyinqipai\.com
-ziffdavismail\.com
-ztouvalve\.com
