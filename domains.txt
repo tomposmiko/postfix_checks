@@ -1,6 +1,9 @@
-[\/\ ]\d\d\d\.TLD
-sztarajanlata\.TLD
 6500creditcard\.com
+[@\/\.\ ]\d\d\d\.TLD
+[@\/\.\ ]cn\.com
+[@\/\.\ ]do.com
+[@\/\.\ ]nfo\.hu
+[@\/\.\ ]qq\.com
 above\.com
 actonsoftware\.com
 adria[\w-]+.TLD
@@ -88,7 +91,6 @@ click\.org
 clickshop\.hu
 clicksurecpa\.com
 climatisation-lg\.com
-cn\.com
 cnbiodegradable\.com
 cnchunyun\.com
 cnmetalchemicals\.com
@@ -323,7 +325,6 @@ net\.mx
 netiq\.com
 new1\.com
 newwebsample\.info
-nfo\.hu
 nide-international\.com
 night(-)?glass([\w-]+)?\.net
 nlgrid\.com
@@ -371,7 +372,6 @@ pusauro\.com
 pusauro\.info
 pxhbhm\.com
 qermin\.com
-qq\.com
 qweamedish\.info
 r102\.com
 reasonstobeer\.com
@@ -414,6 +414,7 @@ subsbloomberg\.com
 subtleemail\.info
 summerskinny([\w-]+)?\.us
 szekhelybudapest\.hu
+sztarajanlata\.TLD
 sztarajanlatok\.TLD
 szupertolto\.com
 taiwan-liwang\.com
@@ -423,7 +424,6 @@ techcello\.com
 tele\.net
 temkardelenlerkoleji\.com
 terrapinn\.com
-teszt\.hu
 theattachmategroup\.com
 thecornerstonegroupinc\.com
 thesyriamail\.com
