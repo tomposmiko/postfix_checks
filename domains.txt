@@ -96,6 +96,7 @@
 [@\/\.\ ]csakittszabadvasarolni\.com
 [@\/\.\ ]csakmafelaron\.com
 [@\/\.\ ]cubby\.com
+[@\/\.\ ]custhelp\.com
 [@\/\.\ ]cvent\.com
 [@\/\.\ ]cybercoders\.com
 [@\/\.\ ]cyprus-scaffolding\.com
@@ -303,6 +304,7 @@
 [@\/\.\ ]olivosmedia\.com
 [@\/\.\ ]olobag2\.com
 [@\/\.\ ]omicsonline\.us
+[@\/\.\ ]onlinecompliancepanel\.com
 [@\/\.\ ]openforumlearning.co.uk
 [@\/\.\ ]orderitem11\.com
 [@\/\.\ ]origos\.hu
