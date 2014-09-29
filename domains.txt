@@ -355,7 +355,6 @@ penz-gyorsan\.com
 penzugyitippek\.com
 phdvirtual\.com
 pill([\w-]+)?\.ru
-pill([\w-]+)?\.ru
 pivotal-solutions\.net
 postershopper\.eu
 potentiels\.ch
