@@ -1,0 +1,2 @@
+MAILTO=root
+*/5 * * * *	postfix-cronner	/etc/postfix/postfix_checks/bin/bodychecks-gen-zimbra.sh

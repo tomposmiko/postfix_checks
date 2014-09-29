@@ -1,0 +1,1 @@
+postfix-cronner ALL=NOPASSWD: /opt/zimbra/postfix/sbin/postfix reload
