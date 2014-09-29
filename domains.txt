@@ -192,6 +192,8 @@
 [@\/\.\ ]humanpower\.web.id
 [@\/\.\ ]husveti-kaszalas\.com
 [@\/\.\ ]i-winway\.com
+[@\/\.\ ]icontact\.com
+[@\/\.\ ]icptrack\.com
 [@\/\.\ ]iddst\.com
 [@\/\.\ ]idevnews\.com
 [@\/\.\ ]ieurope\.com
