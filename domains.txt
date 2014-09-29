@@ -1,3 +1,4 @@
+#[@\/\.\ ]
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]\d\d\d\.TLD
 [@\/\.\ ]actonsoftware\.com
@@ -90,6 +91,7 @@
 [@\/\.\ ]coremailing\.org
 [@\/\.\ ]cosmocyte\.com
 [@\/\.\ ]creatingapp\.biz
+[@\/\.\ ]creativer.eu
 [@\/\.\ ]csakittszabadvasarolni\.com
 [@\/\.\ ]csakmafelaron\.com
 [@\/\.\ ]cubby\.com
