@@ -287,6 +287,7 @@
 [@\/\.\ ]mus\.ae
 [@\/\.\ ]musiczaclub\.com
 [@\/\.\ ]muszeroldal\.hu
+[@\/\.\ ]mybudapestjob.com
 [@\/\.\ ]mynews1\.com
 [@\/\.\ ]mynews1mobileapp\.info
 [@\/\.\ ]mypinpointe\.com
@@ -448,6 +449,7 @@
 [@\/\.\ ]zhiyinqipai\.com
 [@\/\.\ ]ziffdavismail\.com
 [@\/\.\ ]ztouvalve\.com
+[^w]hitel[\w-]+.TLD
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
 apro(-)?(hir|info|oldal)([\w-]+)?\.hu
@@ -468,7 +470,6 @@ ertesites\.com
 eurjob\.org
 haszon\.hu
 hatekony[\w-]+kovetes\.TLD
-[^w]hitel[\w-]+.TLD
 horkolasnak-vege\.com
 horkolsz\.com
 hyaluron[\w-]+.TLD
