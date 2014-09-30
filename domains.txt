@@ -237,7 +237,6 @@
 [@\/\.\ ]jumdo\.com
 [@\/\.\ ]just.as
 [@\/\.\ ]karincamucizesi\.com
-[@\/\.\ ]kedvezmenyeso\.TLD
 [@\/\.\ ]kerbeeketchup\.com
 [@\/\.\ ]kerekparor\.TLD
 [@\/\.\ ]kevin-fassbender\.com
@@ -474,6 +473,7 @@ horkolasnak-vege\.com
 horkolsz\.com
 hyaluron[\w-]+.TLD
 ingyen([\w-]+)?\.hu
+kedvezmenyeso\.TLD
 kosmodisk([\w-]+)?\.TLD
 kovesdnyomon\.TLD
 kuponjaink\.hu
