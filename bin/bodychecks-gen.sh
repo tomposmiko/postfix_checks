@@ -14,7 +14,7 @@ if git pull|grep -q 'Already up-to-date';
 		updated=1
 fi
 
-if [ $1 == -f ];
+if [ x$1 == x-f ];
 	then
 		updated=1
 fi
