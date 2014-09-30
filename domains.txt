@@ -134,8 +134,7 @@
 [@\/\.\ ]ethicalseoprovider\.com
 [@\/\.\ ]eur-business\.com
 [@\/\.\ ]europe\.com
-[@\/\.\ ]europscareer\.com
-[@\/\.\ ]europsjob\.com
+[@\/\.\ ]europs(career|job)\.com
 [@\/\.\ ]evergage\.com
 [@\/\.\ ]execreps\.com
 [@\/\.\ ]exelect\.hu
