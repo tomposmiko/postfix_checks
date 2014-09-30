@@ -133,7 +133,7 @@
 [@\/\.\ ]esqrealty\.net
 [@\/\.\ ]ethicalseoprovider\.com
 [@\/\.\ ]eur-business\.com
-[@\/\.\ ]europe\.com
+[@\/\.\ ](i)?europe\.com
 [@\/\.\ ]europs(career|job)\.com
 [@\/\.\ ]evergage\.com
 [@\/\.\ ]execreps\.com
@@ -197,7 +197,6 @@
 [@\/\.\ ]icptrack\.com
 [@\/\.\ ]iddst\.com
 [@\/\.\ ]idevnews\.com
-[@\/\.\ ]ieurope\.com
 [@\/\.\ ]ihealthcommons\.org
 [@\/\.\ ]ilovebj\.cn
 [@\/\.\ ]imd\.org
