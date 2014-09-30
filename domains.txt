@@ -260,7 +260,6 @@
 [@\/\.\ ]ma-minden-felaron\.com
 [@\/\.\ ]magic([\w-]+)?(belt|cam)([\w-]+)\.TLD
 [@\/\.\ ]magnetmail1\.net
-[@\/\.\ ]magyarorszaglegolcsobbaruhaza\.TLD
 [@\/\.\ ]maileco\.info
 [@\/\.\ ]mailjet\.com
 [@\/\.\ ]mailole\.info
