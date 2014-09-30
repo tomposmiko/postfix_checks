@@ -491,4 +491,4 @@ tippjeink\.hu
 tisztessegessoforoknek\.com
 tvtermek\.com
 x(-)?hose([\w-]+)?\.TLD
-x6[\w-]+mop([\w-]+)?\.com
+x6[\w-]+mop([\w-]+)?\.TLD
