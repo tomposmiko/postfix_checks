@@ -92,7 +92,7 @@
 [@\/\.\ ]coremailing\.org
 [@\/\.\ ]cosmocyte\.com
 [@\/\.\ ]creatingapp\.biz
-[@\/\.\ ]creativer.eu
+[@\/\.\ ]creativer\.eu
 [@\/\.\ ]csakittszabadvasarolni\.com
 [@\/\.\ ]csakmafelaron\.com
 [@\/\.\ ]cubby\.com
@@ -146,7 +146,7 @@
 [@\/\.\ ]fissmail\.us
 [@\/\.\ ]fitnessleadsfast\.com
 [@\/\.\ ]floguntiet\.info
-[@\/\.\ ]florabiotics.pw
+[@\/\.\ ]florabiotics\.pw
 [@\/\.\ ]foalingemail\.info
 [@\/\.\ ]foobar2000.com
 [@\/\.\ ]fotodiassisi\.com
@@ -187,7 +187,6 @@
 [@\/\.\ ]hr-controlling\.com
 [@\/\.\ ]hshoesbuy\.com
 [@\/\.\ ]huersen198\.com
-[@\/\.\ ]humanpower\.web.id
 [@\/\.\ ]husveti-kaszalas\.com
 [@\/\.\ ]i-winway\.com
 [@\/\.\ ]icontact\.com
@@ -310,7 +309,7 @@
 [@\/\.\ ]omicsonline\.us
 [@\/\.\ ]on9mail.com
 [@\/\.\ ]onlinecompliancepanel\.com
-[@\/\.\ ]openforumlearning.co.uk
+[@\/\.\ ]openforumlearning\.co\.uk
 [@\/\.\ ]orderitem11\.com
 [@\/\.\ ]orszem\.com
 [@\/\.\ ]oshig\.com
@@ -342,8 +341,8 @@
 [@\/\.\ ]qweamedish\.info
 [@\/\.\ ]r102\.com
 [@\/\.\ ]reasonstobeer\.com
-[@\/\.\ ]recipientmail\.co.uk
-[@\/\.\ ]recyclingcenternearme.com
+[@\/\.\ ]recipientmail\.co\.uk
+[@\/\.\ ]recyclingcenternearme\.com
 [@\/\.\ ]reesitebusiness\.com
 [@\/\.\ ]rfactorevolution\.com
 [@\/\.\ ]riaszt([\w-]+)?\.TLD
@@ -418,6 +417,7 @@
 [@\/\.\ ]waningemail\.info
 [@\/\.\ ]wattguard\.hu
 [@\/\.\ ]wctpresents\.org
+[@\/\.\ ]web\.id
 [@\/\.\ ]webdevelopersrus\.com
 [@\/\.\ ]webdigitech\.com
 [@\/\.\ ]websiteinformacio\.hu
