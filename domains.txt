@@ -170,6 +170,7 @@
 [@\/\.\ ]gnt-impex\.hu
 [@\/\.\ ]go(-)?sport([\w-]+)?\.TLD
 [@\/\.\ ]goaomendubo\.com
+[@\/\.\ ]gold-digga\.com
 [@\/\.\ ]google\.ru
 [@\/\.\ ]greenlight\.23net.hu
 [@\/\.\ ]gtcbio.com
