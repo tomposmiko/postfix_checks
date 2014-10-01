@@ -263,6 +263,7 @@
 [@\/\.\ ]luxurybagsoutletmall\.com
 [@\/\.\ ]ma-minden-felaron\.com
 [@\/\.\ ]magic([\w-]+)?(belt|cam)([\w-]+)\.TLD
+[@\/\.\ ]magnet-mouldedparts\.com\.tw
 [@\/\.\ ]magnetmail1\.net
 [@\/\.\ ]maileco\.info
 [@\/\.\ ]mailjet\.com
