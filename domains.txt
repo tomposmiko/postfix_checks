@@ -175,6 +175,7 @@
 [@\/\.\ ]gold-digga\.com
 [@\/\.\ ]google\.ru
 [@\/\.\ ]greenlight\.23net\.hu
+[@\/\.\ ]greentechnic\.eu
 [@\/\.\ ]gtcbio\.com
 [@\/\.\ ]gte-cn\.com
 [@\/\.\ ]gwallgmbh\.com
@@ -291,6 +292,7 @@
 [@\/\.\ ]mypinpointe\.com
 [@\/\.\ ]mywebsite\.com
 [@\/\.\ ]nadorogahmira\.com
+[@\/\.\ ]napkollektor-napelem\.hu
 [@\/\.\ ]nathansay\.com
 [@\/\.\ ]naturalmedicina\.ru
 [@\/\.\ ]neryungri\.ru
