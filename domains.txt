@@ -413,6 +413,7 @@
 [@\/\.\ ]tvspeciasltvsponline\.us
 [@\/\.\ ]twoo(cdn|mail)?\.com
 [@\/\.\ ]ugatasstoppolo\.com
+[@\/\.\ ]ugyismegveszel\.hu
 [@\/\.\ ]ukbusinessdata\.uk.com
 [@\/\.\ ]unsubscribdeme\.us
 [@\/\.\ ]usesemail\.info
