@@ -354,7 +354,7 @@
 [@\/\.\ ]pwm8\.com
 [@\/\.\ ]pxhbhm\.com
 [@\/\.\ ]qermin\.com
-[@\/\.\ ]qq\.com
+#[@\/\.\ ]qq\.com
 [@\/\.\ ]qweamedish\.info
 [@\/\.\ ]r102\.com
 [@\/\.\ ]reasonstobeer\.com
