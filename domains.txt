@@ -242,6 +242,7 @@
 [@\/\.\ ]kerbeeketchup\.com
 [@\/\.\ ]kerekparor\.TLD
 [@\/\.\ ]kevin-fassbender\.com
+[@\/\.\ ]kisdob\.com
 [@\/\.\ ]kkvprojektek\.com
 [@\/\.\ ]knowledgematrixinc\.TLD
 [@\/\.\ ]kolcson([\w-]+)?\.com
