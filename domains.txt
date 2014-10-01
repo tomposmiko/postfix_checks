@@ -432,6 +432,7 @@
 [@\/\.\ ]workcenter\.hu
 [@\/\.\ ]worldnetclass\.com
 [@\/\.\ ]worldphotographiccup\.org
+[@\/\.\ ]xls.hu
 [@\/\.\ ]yadari\.com
 [@\/\.\ ]yahoo\.com.(cn|hk)
 [@\/\.\ ]yancfz\.com
