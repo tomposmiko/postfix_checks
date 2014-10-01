@@ -297,6 +297,7 @@
 [@\/\.\ ]net\.mx
 [@\/\.\ ]netiq\.com
 [@\/\.\ ]new1\.com
+[@\/\.\ ]news-1etter\.com
 [@\/\.\ ]newscifi.com
 [@\/\.\ ]newwebsample\.info
 [@\/\.\ ]nfo\.hu
@@ -333,6 +334,7 @@
 [@\/\.\ ]pivotal-solutions\.net
 [@\/\.\ ]postershopper\.eu
 [@\/\.\ ]potentiels\.ch
+[@\/\.\ ]powerm3\.com
 [@\/\.\ ]powermail1\.com
 [@\/\.\ ]powermail\.hu
 [@\/\.\ ]premium-car-dock\.net
@@ -409,6 +411,7 @@
 [@\/\.\ ]tmsnewsletter\.com
 [@\/\.\ ]tnd\.it
 [@\/\.\ ]toticemail\.info
+[@\/\.\ ]tradetracker\.net
 [@\/\.\ ]trainhr\.com
 [@\/\.\ ]tvspeciasltvsponline\.us
 [@\/\.\ ]twoo(cdn|mail)?\.com
