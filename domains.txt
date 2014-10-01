@@ -443,6 +443,7 @@
 [@\/\.\ ]yadari\.com
 [@\/\.\ ]yahoo\.com.(cn|hk)
 [@\/\.\ ]yancfz\.com
+[@\/\.\ ]yes-us-solar\.com
 [@\/\.\ ]ynsbfy\.com
 [@\/\.\ ]yooga\.ru
 [@\/\.\ ]youlube\.com
