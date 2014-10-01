@@ -327,6 +327,7 @@
 [@\/\.\ ]para(-)?kapu([\w-]+)?\.TLD
 [@\/\.\ ]pbconference\.com
 [@\/\.\ ]pelletkandallo\.hu
+[@\/\.\ ]performia\.hu
 [@\/\.\ ]phdvirtual\.com
 [@\/\.\ ]pill([\w-]+)?\.ru
 [@\/\.\ ]pivotal-solutions\.net
