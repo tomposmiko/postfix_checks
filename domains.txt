@@ -147,6 +147,7 @@
 [@\/\.\ ]facility-power.hu
 [@\/\.\ ]faxcorp\.co
 [@\/\.\ ]fblx\.net
+[@\/\.\ ]festoallvany\.hu
 [@\/\.\ ]filtress\.com
 [@\/\.\ ]fissmail\.us
 [@\/\.\ ]fitnessleadsfast\.com
