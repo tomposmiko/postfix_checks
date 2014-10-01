@@ -261,6 +261,7 @@
 [@\/\.\ ]mcsv\.net
 [@\/\.\ ]mdxtsauls\.us
 [@\/\.\ ]mediacenter\.hu
+[@\/\.\ ]medscompare.com
 [@\/\.\ ]mega-akciok\.TLD
 [@\/\.\ ]megtakaritas([\w-]+)?\.TLD
 [@\/\.\ ]mendax\.hu
@@ -349,6 +350,8 @@
 [@\/\.\ ]richter10point2\.com
 [@\/\.\ ]robertblabl\.de
 [@\/\.\ ]rosteremail\.info
+[@\/\.\ ]rs-tk.com
+[@\/\.\ ]rsac3.com
 [@\/\.\ ]runsom\.com
 [@\/\.\ ]s3-(eu|us)-(east|west)-[\d]\.amazonaws.com
 [@\/\.\ ]s98mail\.com
