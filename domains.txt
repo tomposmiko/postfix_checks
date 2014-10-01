@@ -3,8 +3,8 @@
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]\d\d\d\.TLD
 [@\/\.\ ]actonsoftware\.com
-[@\/\.\ ]adcall.tk
-[@\/\.\ ]adria[\w-]+.TLD
+[@\/\.\ ]adcall\.tk
+[@\/\.\ ]adria[\w-]+\.TLD
 [@\/\.\ ]advanceyourcomputerskills\.com
 [@\/\.\ ]advantagemedia\.com
 [@\/\.\ ]aexp\.com
