@@ -406,6 +406,7 @@
 [@\/\.\ ]tmsnewsletter\.com
 [@\/\.\ ]tnd\.it
 [@\/\.\ ]toticemail\.info
+[@\/\.\ ]trainhr\.com
 [@\/\.\ ]tvspeciasltvsponline\.us
 [@\/\.\ ]twoo(cdn|mail)?\.com
 [@\/\.\ ]ugatasstoppolo\.com
