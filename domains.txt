@@ -347,6 +347,7 @@
 [@\/\.\ ]proxy-imagecache\.com
 [@\/\.\ ]pusauro\.com
 [@\/\.\ ]pusauro\.info
+[@\/\.\ ]pwm8\.com
 [@\/\.\ ]pxhbhm\.com
 [@\/\.\ ]qermin\.com
 [@\/\.\ ]qq\.com
