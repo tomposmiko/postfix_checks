@@ -206,6 +206,7 @@
 [@\/\.\ ]indianengineering\.net
 [@\/\.\ ]indigors\.com
 [@\/\.\ ]info-atbetresort\.eu
+[@\/\.\ ]infotraining.info
 [@\/\.\ ]inotex\.com
 [@\/\.\ ]install-new-watchnow\.us
 [@\/\.\ ]interemail\.info
@@ -293,6 +294,7 @@
 [@\/\.\ ]net\.mx
 [@\/\.\ ]netiq\.com
 [@\/\.\ ]new1\.com
+[@\/\.\ ]newscifi.com
 [@\/\.\ ]newwebsample\.info
 [@\/\.\ ]nfo\.hu
 [@\/\.\ ]nide-international\.com
