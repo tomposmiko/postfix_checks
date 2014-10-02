@@ -402,7 +402,6 @@
 [@\/\.\ ]szupertolto\.com
 [@\/\.\ ]taiwan-liwang\.com
 [@\/\.\ ]targetleadsus\.com
-[@\/\.\ ]tavaszi-kiarusitas\.com
 [@\/\.\ ]techcello\.com
 [@\/\.\ ]technologynetworks.com
 [@\/\.\ ]tele\.net
@@ -495,6 +494,7 @@ horkolsz\.com
 hyaluron[\w-]+.TLD
 ingyen([\w-]+)?\.hu
 kedvezmenyeso\.TLD
+kiarusitas\.com
 kosmodisk([\w-]+)?\.TLD
 kovesdnyomon\.TLD
 kuponjaink\.hu
