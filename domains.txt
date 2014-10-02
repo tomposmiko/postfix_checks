@@ -117,8 +117,6 @@
 [@\/\.\ ]deedingemail\.info
 [@\/\.\ ]distribio\.com
 [@\/\.\ ]do.com
-[@\/\.\ ]doctoracas\.ru
-[@\/\.\ ]doctorrabsin\.ru
 [@\/\.\ ]doideras\.com
 [@\/\.\ ]e-mergeglobal\.com
 [@\/\.\ ]easun-group\.com
@@ -484,6 +482,7 @@ car(-)?cam.*.TLD
 cegesinfok\.hu
 dietoffer([\w-]+)?\.us
 diets-([\w-]+)?\.com
+doctor([\w-]+)?\.ru
 drogteszt([\w-]+)?\.TLD
 e(-)?cigi.*\.com
 elalvas(-)?stop\.com
