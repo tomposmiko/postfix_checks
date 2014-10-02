@@ -1,5 +1,6 @@
 #[@\/\.\ ]
 #[@\/\.\ ]qq\.com
+[@\/\.\ ]([\w-]+)\.%D1%80%D1%84
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]PARKHOTELGYULA\.HU
