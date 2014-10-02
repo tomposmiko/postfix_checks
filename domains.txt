@@ -2,6 +2,7 @@
 #[@\/\.\ ]qq\.com
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]6500creditcard\.com
+[@\/\.\ ]PARKHOTELGYULA\.HU
 [@\/\.\ ]\d\d\d\.TLD
 [@\/\.\ ]actonsoftware\.com
 [@\/\.\ ]adcall\.tk
