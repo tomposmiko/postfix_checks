@@ -250,6 +250,7 @@
 [@\/\.\ ]knowledgematrixinc\.TLD
 [@\/\.\ ]kolcson([\w-]+)?\.com
 [@\/\.\ ]konyhaicuccok\.com
+[@\/\.\ ]kutya[\w-]+riaszto[\w-]+\.TLD
 [@\/\.\ ]ladybird\.hu
 [@\/\.\ ]latp\.by
 [@\/\.\ ]leadformix\.com
