@@ -510,6 +510,7 @@ list\.ru
 mail\.info
 marketingexpressz\.hu
 maxfelaron\.hu
+medicalassist\.com
 megved([\w-]+)?\.com
 nyari-gyorskolcson\.com
 nyomkoveto[\w-]+.com
