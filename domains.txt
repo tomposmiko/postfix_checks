@@ -342,6 +342,7 @@
 [@\/\.\ ]phdvirtual\.com
 [@\/\.\ ]pill([\w-]+)?\.ru
 [@\/\.\ ]pivotal-solutions\.net
+[@\/\.\ ]plannet-bressuire\.com
 [@\/\.\ ]postershopper\.eu
 [@\/\.\ ]potentiels\.ch
 [@\/\.\ ]powerm3\.com
