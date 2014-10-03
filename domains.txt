@@ -391,6 +391,7 @@
 [@\/\.\ ]sitynur\.ru
 [@\/\.\ ]smartling\.com
 [@\/\.\ ]smtp-power\.com
+[@\/\.\ ]snipr\.com
 [@\/\.\ ]socialsyrup\.hu
 [@\/\.\ ]socialwellnessemail\.com
 [@\/\.\ ]softassist\.com.au
