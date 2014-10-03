@@ -431,6 +431,7 @@
 [@\/\.\ ]ugyismegveszel\.hu
 [@\/\.\ ]ukbusinessdata\.uk.com
 [@\/\.\ ]unsubscribdeme\.us
+[@\/\.\ ]url\.ca
 [@\/\.\ ]usesemail\.info
 [@\/\.\ ]vaboomz\.com
 [@\/\.\ ]vasarol([\w-]+)?\.TLD
