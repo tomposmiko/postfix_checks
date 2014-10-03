@@ -127,6 +127,7 @@
 [@\/\.\ ]ecovapor-tips\.TLD
 [@\/\.\ ]edmbing\.com
 [@\/\.\ ]ekvident\.hu
+[@\/\.\ ]ekvident\.hu
 [@\/\.\ ]elasticemail\.com
 [@\/\.\ ]eletmodhirek\.com
 [@\/\.\ ]email-guru\.net
