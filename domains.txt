@@ -5,6 +5,7 @@
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]PARKHOTELGYULA\.HU
 [@\/\.\ ]\d\d\d\.TLD
+[@\/\.\ ]above\.com
 [@\/\.\ ]actonsoftware\.com
 [@\/\.\ ]adcall\.tk
 [@\/\.\ ]adria[\w-]+\.TLD
