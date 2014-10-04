@@ -279,6 +279,7 @@
 [@\/\.\ ]mcsv\.net
 [@\/\.\ ]mdxtsauls\.us
 [@\/\.\ ]mediacenter\.hu
+[@\/\.\ ]medic([\w-]+)?\.ru
 [@\/\.\ ]medscompare.com
 [@\/\.\ ]mega-akciok\.TLD
 [@\/\.\ ]megtakaritas([\w-]+)?\.TLD
