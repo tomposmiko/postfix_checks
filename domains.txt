@@ -451,6 +451,7 @@
 [@\/\.\ ]vpn\.by
 [@\/\.\ ]vresp\.com
 [@\/\.\ ]vsnl\.net
+[@\/\.\ ]vxivh\.com
 [@\/\.\ ]wakenemail\.info
 [@\/\.\ ]waningemail\.info
 [@\/\.\ ]wattguard\.hu
