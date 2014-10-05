@@ -1,5 +1,4 @@
 #[@\/\.\ ]
-[@\/\.\ ]heitulong\.com
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)\.%D1%80%D1%84
 [@\/\.\ ](i)?europe\.com
@@ -194,6 +193,7 @@
 [@\/\.\ ]harperbeckagency\.com
 [@\/\.\ ]hcprintery.com
 [@\/\.\ ]healthyshinyhair-tips\.com
+[@\/\.\ ]heitulong\.com
 [@\/\.\ ]highwaysemail\.info
 [@\/\.\ ]himaddie\.com
 [@\/\.\ ]hitech-expo\.com
@@ -244,6 +244,7 @@
 [@\/\.\ ]jtcmsci\.com
 [@\/\.\ ]jumdo\.com
 [@\/\.\ ]just\.as
+[@\/\.\ ]kaaiban\.com
 [@\/\.\ ]karincamucizesi\.com
 [@\/\.\ ]kerbeeketchup\.com
 [@\/\.\ ]kerekparor\.TLD
