@@ -183,6 +183,7 @@
 [@\/\.\ ]go(-)?sport([\w-]+)?\.TLD
 [@\/\.\ ]goaomendubo\.com
 [@\/\.\ ]gold-digga\.com
+[@\/\.\ ]google\.co\.nz
 [@\/\.\ ]google\.ru
 [@\/\.\ ]greenlight\.23net\.hu
 [@\/\.\ ]greentechnic\.eu
