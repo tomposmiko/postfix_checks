@@ -2,6 +2,7 @@
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)\.%D1%80%D1%84
 [@\/\.\ ](i)?europe\.com
+[@\/\.\ ](pill|herb)([\w-]+)?\.ru
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]PARKHOTELGYULA\.HU
 [@\/\.\ ]\d\d\d\.TLD
@@ -350,7 +351,6 @@
 [@\/\.\ ]pelletkandallo\.hu
 [@\/\.\ ]performia\.hu
 [@\/\.\ ]phdvirtual\.com
-[@\/\.\ ]pill([\w-]+)?\.ru
 [@\/\.\ ]pivotal-solutions\.net
 [@\/\.\ ]plannet-bressuire\.com
 [@\/\.\ ]postershopper\.eu
