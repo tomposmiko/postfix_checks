@@ -471,7 +471,7 @@
 [@\/\.\ ]web\.id
 [@\/\.\ ]webdevelopersrus\.com
 [@\/\.\ ]webdigitech\.com
-[@\/\.\ ]webshop-32\.com
+[@\/\.\ ]webshop(-)?[0-9]+\.com
 [@\/\.\ ]websiteinformacio\.hu
 [@\/\.\ ]wedrownicy\.org
 [@\/\.\ ]wellsfargo\.com
