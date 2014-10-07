@@ -1,8 +1,8 @@
 #[@\/\.\ ]
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)\.%D1%80%D1%84
+[@\/\.\ ](herb|pill|private)([\w-]+)?\.ru
 [@\/\.\ ](i)?europe\.com
-[@\/\.\ ](pill|herb)([\w-]+)?\.ru
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]PARKHOTELGYULA\.HU
 [@\/\.\ ]\d\d\d\.TLD
