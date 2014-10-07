@@ -382,6 +382,7 @@
 [@\/\.\ ]riaszt([\w-]+)?\.TLD
 [@\/\.\ ]richter10point2\.com
 [@\/\.\ ]robertblabl\.de
+[@\/\.\ ]rojanavej\.com
 [@\/\.\ ]rosteremail\.info
 [@\/\.\ ]rs-tk.com
 [@\/\.\ ]rsac3.com
