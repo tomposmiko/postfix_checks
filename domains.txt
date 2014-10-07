@@ -421,6 +421,7 @@
 [@\/\.\ ]subsbloomberg\.com
 [@\/\.\ ]subtleemail\.info
 [@\/\.\ ]summerskinny([\w-]+)?\.us
+[@\/\.\ ]szpcair\.com
 [@\/\.\ ]sztarajanlat([\w-]+)?\.TLD
 [@\/\.\ ]szupertolto\.com
 [@\/\.\ ]taiwan-liwang\.com
