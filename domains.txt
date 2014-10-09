@@ -204,6 +204,7 @@
 [@\/\.\ ]hoteljobs\.hu
 [@\/\.\ ]hr-controlling\.com
 [@\/\.\ ]hshoesbuy\.com
+[@\/\.\ ]http://([\w-]+)?natural([\w-]+)?\.ru
 [@\/\.\ ]huersen198\.com
 [@\/\.\ ]husveti-kaszalas\.com
 [@\/\.\ ]i-winway\.com
