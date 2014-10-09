@@ -504,6 +504,7 @@
 [@\/\.\ ]zhiyinqipai\.com
 [@\/\.\ ]ziffdavismail\.com
 [@\/\.\ ]ztouvalve\.com
+[@\/\.\ ]zuggo\.hu
 [^w]hitel[\w-]+.TLD
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
