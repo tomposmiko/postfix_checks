@@ -425,6 +425,7 @@
 [@\/\.\ ]subsbloomberg\.com
 [@\/\.\ ]subtleemail\.info
 [@\/\.\ ]summerskinny([\w-]+)?\.us
+[@\/\.\ ]sunrise-invest\.net
 [@\/\.\ ]szpcair\.com
 [@\/\.\ ]sztarajanlat([\w-]+)?\.TLD
 [@\/\.\ ]szupertolto\.com
