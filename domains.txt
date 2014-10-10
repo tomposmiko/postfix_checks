@@ -2,7 +2,7 @@
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
-[@\/\.\ ](herb|pill|private)([\w-]+)?\.ru
+[@\/\.\ ](herb|pill|private|pure)([\w-]+)?\.ru
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]PARKHOTELGYULA\.HU
@@ -208,7 +208,6 @@
 [@\/\.\ ]hoteljobs\.hu
 [@\/\.\ ]hr-controlling\.com
 [@\/\.\ ]hshoesbuy\.com
-[@\/\.\ ]http://([\w-]+)?natural([\w-]+)?\.ru
 [@\/\.\ ]huersen198\.com
 [@\/\.\ ]husveti-kaszalas\.com
 [@\/\.\ ]i-winway\.com
