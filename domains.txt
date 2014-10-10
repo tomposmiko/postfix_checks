@@ -485,6 +485,7 @@
 [@\/\.\ ]webshop(-)?[0-9]+\.com
 [@\/\.\ ]websiteinformacio\.hu
 [@\/\.\ ]wedrownicy\.org
+[@\/\.\ ]weebly\.com
 [@\/\.\ ]wellsfargo\.com
 [@\/\.\ ]wgfw\.info
 [@\/\.\ ]whatworksbook\.com
