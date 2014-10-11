@@ -4,6 +4,7 @@
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
 [@\/\.\ ](herb|pill|private|pure)([\w-]+)?\.ru
 [@\/\.\ ](i)?europe\.com
+[@\/\.\ ]1eko\.com 
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]PARKHOTELGYULA\.HU
 [@\/\.\ ]\d\d\d\.TLD
