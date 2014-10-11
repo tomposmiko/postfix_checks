@@ -528,6 +528,7 @@ doctor([\w-]+)?\.ru
 drogteszt([\w-]+)?\.TLD
 e(-)?cigi.*\.com
 elalvas(-)?stop\.com
+email\.eu
 ertesites\.com
 eurjob\.org
 haszon\.hu
