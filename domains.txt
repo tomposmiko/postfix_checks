@@ -126,6 +126,7 @@
 [@\/\.\ ]dedical\.info
 [@\/\.\ ]deedingemail\.info
 [@\/\.\ ]dicpi\.co
+[@\/\.\ ]discovery-summit\.com
 [@\/\.\ ]distribio\.com
 [@\/\.\ ]do.com
 [@\/\.\ ]doideras\.com
@@ -294,6 +295,7 @@
 [@\/\.\ ]mailjet\.com
 [@\/\.\ ]mailole\.info
 [@\/\.\ ]managr(-)?amax(-)?hu\.TLD
+[@\/\.\ ]marcusevansonline\.com
 [@\/\.\ ]marketacquisition\.com
 [@\/\.\ ]maxwhite([\w-]+)?\.com
 [@\/\.\ ]mcsv\.net
