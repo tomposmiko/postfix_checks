@@ -9,6 +9,7 @@
 [@\/\.\ ]PARKHOTELGYULA\.HU
 [@\/\.\ ]\d\d\d\.TLD
 [@\/\.\ ]above\.com
+[@\/\.\ ]accenture\.com
 [@\/\.\ ]actingchina\.com
 [@\/\.\ ]actonsoftware\.com
 [@\/\.\ ]adcall\.tk
