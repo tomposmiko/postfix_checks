@@ -413,6 +413,7 @@
 [@\/\.\ ]sentir7\.com
 [@\/\.\ ]settour\.com.tw
 [@\/\.\ ]shop[\w-]+201([\w-]+)?\.com
+[@\/\.\ ]shusongjicn\.com
 [@\/\.\ ]silversoftwaretech\.com
 [@\/\.\ ]sitynur\.ru
 [@\/\.\ ]smartling\.com
