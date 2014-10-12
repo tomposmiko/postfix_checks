@@ -188,7 +188,7 @@
 [@\/\.\ ]goaomendubo\.com
 [@\/\.\ ]gold-digga\.com
 [@\/\.\ ]goo\.gl
-[@\/\.\ ]google\.(co\.nz|lv|ru)
+[@\/\.\ ]google\.(co\.nz|nr|lv|ru)
 [@\/\.\ ]greenlight\.23net\.hu
 [@\/\.\ ]greentechnic\.eu
 [@\/\.\ ]gtcbio\.com
