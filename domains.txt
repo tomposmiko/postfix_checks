@@ -38,6 +38,7 @@
 [@\/\.\ ]aronalul\.TLD
 [@\/\.\ ]aruhaz([\w-]+)?\.TLD
 [@\/\.\ ]asiansourcinggift\.com
+[@\/\.\ ]aspet\.org
 [@\/\.\ ]atlassystems.com
 [@\/\.\ ]atmprk\.com
 [@\/\.\ ]aurorabiomed\.com
