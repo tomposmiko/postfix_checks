@@ -196,6 +196,7 @@
 [@\/\.\ ]greentechnic\.eu
 [@\/\.\ ]gtcbio\.com
 [@\/\.\ ]gte-cn\.com
+[@\/\.\ ]gurim-nh\com
 [@\/\.\ ]gwallgmbh\.com
 [@\/\.\ ]gzruanjian\.com
 [@\/\.\ ]half-x\.com
