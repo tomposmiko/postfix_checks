@@ -469,6 +469,7 @@
 [@\/\.\ ]url\.ca
 [@\/\.\ ]usesemail\.info
 [@\/\.\ ]vaboomz\.com
+[@\/\.\ ]variedadextreme\.com
 [@\/\.\ ]vasarol([\w-]+)?\.TLD
 [@\/\.\ ]veletlengyorshajtas\.TLD
 [@\/\.\ ]vemployee\.com
