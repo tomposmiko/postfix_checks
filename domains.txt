@@ -160,6 +160,7 @@
 [@\/\.\ ]exualepton\.info
 [@\/\.\ ]fabrikett\.hu
 [@\/\.\ ]facility-power.hu
+[@\/\.\ ]fadob\.com
 [@\/\.\ ]faxcorp\.co
 [@\/\.\ ]fblx\.net
 [@\/\.\ ]festoallvany\.hu
