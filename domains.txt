@@ -450,6 +450,7 @@
 [@\/\.\ ]szpcair\.com
 [@\/\.\ ]sztarajanlat([\w-]+)?\.TLD
 [@\/\.\ ]szupertolto\.com
+[@\/\.\ ]t.co
 [@\/\.\ ]taiwan-liwang\.com
 [@\/\.\ ]targetleadsus\.com
 [@\/\.\ ]techcello\.com
