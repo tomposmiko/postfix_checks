@@ -384,6 +384,7 @@
 [@\/\.\ ]pivotal-solutions\.net
 [@\/\.\ ]plannet-bressuire\.com
 [@\/\.\ ]popularstruggle\.com
+[@\/\.\ ]pos4u\.org
 [@\/\.\ ]postershopper\.eu
 [@\/\.\ ]potentiels\.ch
 [@\/\.\ ]powerm3\.com
