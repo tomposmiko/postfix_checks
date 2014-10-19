@@ -549,6 +549,7 @@ bike-alarm\.TLD
 buntetes([\w-]+)?\.net
 car(-)?cam.*.TLD
 cegesinfok\.hu
+conferences\.net
 dietoffer([\w-]+)?\.us
 diets-([\w-]+)?\.com
 doctor([\w-]+)?\.ru
