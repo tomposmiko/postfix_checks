@@ -281,7 +281,7 @@
 [@\/\.\ ]kisdob\.com
 [@\/\.\ ]kkvprojektek\.com
 [@\/\.\ ]knowledgematrixinc\.TLD
-[@\/\.\ ]kolcson([\w-]+)?\.com
+[@\/\.\ ]kolcson([\w-]+)?\.TLD
 [@\/\.\ ]konyhaicuccok\.com
 [@\/\.\ ]kutya[\w-]+riaszto[\w-]+\.TLD
 [@\/\.\ ]ladybird\.hu
