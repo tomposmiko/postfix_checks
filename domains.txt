@@ -1,6 +1,7 @@
 #[@\/\.\ ]
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
+[@\/\.\ ]([\w-]+)?(kedvezo|torlesztok)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
 [@\/\.\ ](herb|pill|private|pure)([\w-]+)?\.ru
@@ -275,7 +276,6 @@
 [@\/\.\ ]just\.as
 [@\/\.\ ]kaaiban\.com
 [@\/\.\ ]karincamucizesi\.com
-[@\/\.\ ]kedvezo-torlesztok\.com
 [@\/\.\ ]kerbeeketchup\.com
 [@\/\.\ ]kerekparor\.TLD
 [@\/\.\ ]kevin-fassbender\.com
