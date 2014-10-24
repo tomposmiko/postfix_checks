@@ -195,7 +195,7 @@
 [@\/\.\ ]getresponse\.com
 [@\/\.\ ]giga-akciok\.com
 [@\/\.\ ]glce\.eu
-[@\/\.\ ]globalaidmarket.com
+[@\/\.\ ]globalaidmarket\.com
 [@\/\.\ ]globaloptics\.cn
 [@\/\.\ ]globalstone\.hu
 [@\/\.\ ]gnt-impex\.hu
@@ -465,7 +465,7 @@
 [@\/\.\ ]szpcair\.com
 [@\/\.\ ]sztarajanlat([\w-]+)?\.TLD
 [@\/\.\ ]szupertolto\.com
-[@\/\.\ ]t.co
+[@\/\.\ ]t\.co
 [@\/\.\ ]taiwan-liwang\.com
 [@\/\.\ ]targetleadsus\.com
 [@\/\.\ ]techcello\.com
