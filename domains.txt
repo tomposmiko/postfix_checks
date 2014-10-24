@@ -2,6 +2,7 @@
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
+[@\/\.\ ]([\w-]+)?megoldas\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
 [@\/\.\ ](herb|pill|private|pure)([\w-]+)?\.ru
@@ -36,7 +37,6 @@
 [@\/\.\ ]anhuaalbums\.com
 [@\/\.\ ]animal(-)?alarm([\w-]+)?\.TLD
 [@\/\.\ ]anpdm\.com
-[@\/\.\ ]anyagi(-)?megoldas\.com
 [@\/\.\ ]aol\.jp
 [@\/\.\ ]aotemantv\.com
 [@\/\.\ ]armastusedm\.com
