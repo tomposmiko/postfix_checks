@@ -10,7 +10,6 @@
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
 [@\/\.\ ]6500creditcard\.com
-[@\/\.\ ]PARKHOTELGYULA\.HU
 [@\/\.\ ]\d\d\d\.TLD
 [@\/\.\ ]above\.com
 [@\/\.\ ]accenture\.com
@@ -130,7 +129,6 @@
 [@\/\.\ ]dbpoweramp.com
 [@\/\.\ ]dealproresearch\.com
 [@\/\.\ ]dedical\.info
-[@\/\.\ ]deedingemail\.info
 [@\/\.\ ]dicpi\.co
 [@\/\.\ ]discovercoolwebsites\.com
 [@\/\.\ ]discovery-summit\.com
@@ -178,11 +176,9 @@
 [@\/\.\ ]flipmailer\.com
 [@\/\.\ ]floguntiet\.info
 [@\/\.\ ]florabiotics\.pw
-[@\/\.\ ]foalingemail\.info
 [@\/\.\ ]foobar2000.com
 [@\/\.\ ]fotodiassisi\.com
 [@\/\.\ ]fredengiforex\.ru
-[@\/\.\ ]free-email\.info
 [@\/\.\ ]fresh-ad\.ru
 [@\/\.\ ]fudo\.hu
 [@\/\.\ ]fullpower([\w-]+)?\.com
@@ -207,7 +203,7 @@
 [@\/\.\ ]greentechnic\.eu
 [@\/\.\ ]gtcbio\.com
 [@\/\.\ ]gte-cn\.com
-[@\/\.\ ]gurim-nh\com
+[@\/\.\ ]gurim-nh\.com
 [@\/\.\ ]gwallgmbh\.com
 [@\/\.\ ]gzruanjian\.com
 [@\/\.\ ]half-x\.com
@@ -218,7 +214,6 @@
 [@\/\.\ ]hcprintery.com
 [@\/\.\ ]healthyshinyhair-tips\.com
 [@\/\.\ ]heitulong\.com
-[@\/\.\ ]highwaysemail\.info
 [@\/\.\ ]himaddie\.com
 [@\/\.\ ]hinet\.net
 [@\/\.\ ]hitech-expo\.com
@@ -250,10 +245,8 @@
 [@\/\.\ ]inotex\.com
 [@\/\.\ ]install-new-watchnow\.us
 [@\/\.\ ]int\.kz
-[@\/\.\ ]interemail\.info
 [@\/\.\ ]internetespenz\.TLD
 [@\/\.\ ]internetmarketingbuzz\.biz
-[@\/\.\ ]intro-mail\.info
 [@\/\.\ ]inventorymgmtsolutions\.com
 [@\/\.\ ]irs\.gov
 [@\/\.\ ]irtaglobal\.com
@@ -331,7 +324,6 @@
 [@\/\.\ ]mobilxcloud\.hu
 [@\/\.\ ]moliton\.hu
 [@\/\.\ ]momotel\.hu
-[@\/\.\ ]mooningemail\.info
 [@\/\.\ ]movingyour\.com
 [@\/\.\ ]mow\.so
 [@\/\.\ ]munka-hu\.com
@@ -387,6 +379,7 @@
 [@\/\.\ ]outsellinc\.com
 [@\/\.\ ]oversea-supply\.com
 [@\/\.\ ]para(-)?kapu([\w-]+)?\.TLD
+[@\/\.\ ]parkotelgyula\.hu
 [@\/\.\ ]pbconference\.com
 [@\/\.\ ]pelletkandallo\.hu
 [@\/\.\ ]performia\.hu
@@ -422,7 +415,6 @@
 [@\/\.\ ]richter10point2\.com
 [@\/\.\ ]robertblabl\.de
 [@\/\.\ ]rojanavej\.com
-[@\/\.\ ]rosteremail\.info
 [@\/\.\ ]rs-tk.com
 [@\/\.\ ]rsac3.com
 [@\/\.\ ]runsom\.com
@@ -458,7 +450,6 @@
 [@\/\.\ ]strongalertlogical\.com
 [@\/\.\ ]studio98\.com
 [@\/\.\ ]subsbloomberg\.com
-[@\/\.\ ]subtleemail\.info
 [@\/\.\ ]summerskinny([\w-]+)?\.us
 [@\/\.\ ]sunnywinco\.com
 [@\/\.\ ]sunrise-invest\.net
@@ -484,7 +475,6 @@
 [@\/\.\ ]tmsnewsletter\.com
 [@\/\.\ ]tnd\.it
 [@\/\.\ ]topbandled\.com
-[@\/\.\ ]toticemail\.info
 [@\/\.\ ]tradetracker\.net
 [@\/\.\ ]trainhr\.com
 [@\/\.\ ]tvspeciasltvsponline\.us
@@ -497,8 +487,6 @@
 [@\/\.\ ]uob-limited\.com
 [@\/\.\ ]uobgroup\.com
 [@\/\.\ ]url\.ca
-[@\/\.\ ]url\.ca
-[@\/\.\ ]usesemail\.info
 [@\/\.\ ]vaboomz\.com
 [@\/\.\ ]variedadextreme\.com
 [@\/\.\ ]vasarol([\w-]+)?\.TLD
@@ -511,8 +499,6 @@
 [@\/\.\ ]vresp\.com
 [@\/\.\ ]vsnl\.net
 [@\/\.\ ]vxivh\.com
-[@\/\.\ ]wakenemail\.info
-[@\/\.\ ]waningemail\.info
 [@\/\.\ ]wattguard\.hu
 [@\/\.\ ]wctpresents\.org
 [@\/\.\ ]web\.id
@@ -545,7 +531,7 @@
 [@\/\.\ ]ziffdavismail\.com
 [@\/\.\ ]ztouvalve\.com
 [@\/\.\ ]zuggo\.hu
-[^w]hitel[\w-]+.TLD
+[^w]hitel[\w-]+\.TLD
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
 apro(-)?(hir|info|oldal)([\w-]+)?\.hu
@@ -555,7 +541,7 @@ babyliss-hu\.com
 biciklis-szett\.com
 bike-alarm\.TLD
 buntetes([\w-]+)?\.net
-car(-)?cam.*.TLD
+car(-)?cam.*\.TLD
 cegesinfok\.hu
 conferences\.net
 dietoffer([\w-]+)?\.us
@@ -571,7 +557,7 @@ haszon\.hu
 hatekony[\w-]+kovetes\.TLD
 horkolasnak-vege\.com
 horkolsz\.com
-hyaluron[\w-]+.TLD
+hyaluron[\w-]+\.TLD
 ingyen([\w-]+)?\.hu
 kedvezmenyeso\.TLD
 kiarusitas\.com
