@@ -76,6 +76,7 @@
 [@\/\.\ ]burncalories([\w-]+)?\.com
 [@\/\.\ ]business-review-webinars\.com.com
 [@\/\.\ ]businesswatchnetwork\.com
+[@\/\.\ ]buy-it-now\.me
 [@\/\.\ ]camarela\.org
 [@\/\.\ ]careerbuildereu\.com
 [@\/\.\ ]carrollsirishgifts\.com
