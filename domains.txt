@@ -291,6 +291,7 @@
 [@\/\.\ ]lifeplusz\.hu
 [@\/\.\ ]list-manage\.com
 [@\/\.\ ]liteurl\.dk
+[@\/\.\ ]livas\.lv
 [@\/\.\ ]livenaturals\.hu
 [@\/\.\ ]lnke\.in
 [@\/\.\ ]lukaszewitz\.de
