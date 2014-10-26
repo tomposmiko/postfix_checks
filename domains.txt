@@ -558,6 +558,7 @@ elalvas(-)?stop\.com
 email\.eu
 ertesites\.com
 eurjob\.org
+gaymassage([\w-]+)?\.com
 haszon\.hu
 hatekony[\w-]+kovetes\.TLD
 horkolasnak-vege\.com
