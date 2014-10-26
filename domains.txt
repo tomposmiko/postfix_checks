@@ -72,6 +72,7 @@
 [@\/\.\ ]bove\.com
 [@\/\.\ ]brandingxperts\.net
 [@\/\.\ ]bruinsfansedge\.com
+[@\/\.\ ]bst\.bz
 [@\/\.\ ]bsuperior-webonline\.us
 [@\/\.\ ]burncalories([\w-]+)?\.com
 [@\/\.\ ]business-review-webinars\.com.com
