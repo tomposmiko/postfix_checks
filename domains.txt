@@ -152,7 +152,6 @@
 [@\/\.\ ]emi02\.com
 [@\/\.\ ]emtipper\.net
 [@\/\.\ ]enterprisegroup\.hu
-[@\/\.\ ]enterpriseitconferences\.com
 [@\/\.\ ]eri021\.com
 [@\/\.\ ]esqrealty\.net
 [@\/\.\ ]ethicalseoprovider\.com
@@ -547,6 +546,8 @@ bike-alarm\.TLD
 buntetes([\w-]+)?\.net
 car(-)?cam.*\.TLD
 cegesinfok\.hu
+conferences\.TLD
+conferences\.info
 conferences\.net
 dietoffer([\w-]+)?\.us
 diets-([\w-]+)?\.com
@@ -562,6 +563,7 @@ hatekony[\w-]+kovetes\.TLD
 horkolasnak-vege\.com
 horkolsz\.com
 hyaluron[\w-]+\.TLD
+idevnews\.com
 ingyen([\w-]+)?\.hu
 kedvezmenyeso\.TLD
 kiarusitas\.com
