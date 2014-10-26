@@ -548,7 +548,6 @@ car(-)?cam.*\.TLD
 cegesinfok\.hu
 conferences\.TLD
 conferences\.info
-conferences\.net
 dietoffer([\w-]+)?\.us
 diets-([\w-]+)?\.com
 doctor([\w-]+)?\.ru
