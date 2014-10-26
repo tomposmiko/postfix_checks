@@ -2,6 +2,7 @@
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
+[@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
 [@\/\.\ ]([\w-]+)?megoldas\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
@@ -21,11 +22,11 @@
 [@\/\.\ ]advanceyourcomputerskills\.com
 [@\/\.\ ]advantagemedia\.com
 [@\/\.\ ]aexp\.com
-[@\/\.\ ]affiliate-ajanlatok\.TLD
+[@\/\.\ ]affiliate(-)?ajanlatok\.TLD
 [@\/\.\ ]agcswelpjv\.us
 [@\/\.\ ]age(star|rast)\.com
 [@\/\.\ ]akarokegyilyet\.hu
-[@\/\.\ ]alap-ado\.com
+[@\/\.\ ]alap(-)?ado\.com
 [@\/\.\ ]alap\.net
 [@\/\.\ ]alarm(-)?box\.net
 [@\/\.\ ]alternativa\.fr
@@ -65,7 +66,7 @@
 [@\/\.\ ]blackservice\.hu
 [@\/\.\ ]blindbar\.hu
 [@\/\.\ ]bluehornet\.com
-[@\/\.\ ]bocsass-meg\.com
+[@\/\.\ ]bocsass([\w-]+)?\.com
 [@\/\.\ ]bonusmini\.com
 [@\/\.\ ]bonuszshop\.com
 [@\/\.\ ]borealisz\.hu
@@ -83,7 +84,7 @@
 [@\/\.\ ]carrollsirishgifts\.com
 [@\/\.\ ]casadeorates\.com\.br
 [@\/\.\ ]cazmerwa\.com
-[@\/\.\ ]cegescucc\.com
+[@\/\.\ ]cegescucc\.TLD
 [@\/\.\ ]cellodevelopers\.net
 [@\/\.\ ]ceosalesevents\.com
 [@\/\.\ ]cesltd\.com
@@ -421,6 +422,7 @@
 [@\/\.\ ]rs-tk.com
 [@\/\.\ ]rsac3.com
 [@\/\.\ ]runsom\.com
+[@\/\.\ ]s(z)?tarajanlatok\.com
 [@\/\.\ ]s3-(eu|us)-(east|west)-[\d]\.amazonaws.com
 [@\/\.\ ]s98mail\.com
 [@\/\.\ ]salerays([\w-]+)?\.us
@@ -449,7 +451,6 @@
 [@\/\.\ ]srtrust\.org.in
 [@\/\.\ ]ssldirecto\.com
 [@\/\.\ ]sso-unidadfinanzas\.com
-[@\/\.\ ]starajanlatok\.com
 [@\/\.\ ]strongalertlogical\.com
 [@\/\.\ ]studio98\.com
 [@\/\.\ ]subsbloomberg\.com
@@ -493,7 +494,6 @@
 [@\/\.\ ]vaboomz\.com
 [@\/\.\ ]variedadextreme\.com
 [@\/\.\ ]vasarol([\w-]+)?\.TLD
-[@\/\.\ ]veletlengyorshajtas\.TLD
 [@\/\.\ ]vemployee\.com
 [@\/\.\ ]videoizlen\.net
 [@\/\.\ ]vitalityfall\.com
