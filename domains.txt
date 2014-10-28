@@ -534,6 +534,7 @@
 [@\/\.\ ]ziffdavismail\.com
 [@\/\.\ ]ztouvalve\.com
 [@\/\.\ ]zuggo\.hu
+[@\/\.\ ]zz361\.com
 [^w]hitel[\w-]+\.TLD
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
