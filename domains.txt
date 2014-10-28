@@ -565,6 +565,7 @@ horkolsz\.com
 hyaluron[\w-]+\.TLD
 idevnews\.com
 ingyen([\w-]+)?\.hu
+jobsiniteu\.com
 kedvezmenyeso\.TLD
 kiarusitas\.com
 kosmodisk([\w-]+)?\.TLD
