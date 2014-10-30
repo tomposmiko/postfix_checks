@@ -562,6 +562,7 @@ eurjob\.org
 gaymassage([\w-]+)?\.com
 haszon\.hu
 hatekony[\w-]+kovetes\.TLD
+healthcare\.co\.uk
 horkolasnak-vege\.com
 horkolsz\.com
 hyaluron[\w-]+\.TLD
