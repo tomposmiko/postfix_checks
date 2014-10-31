@@ -553,6 +553,7 @@ conferences\.TLD
 conferences\.info
 dietoffer([\w-]+)?\.us
 diets-([\w-]+)?\.com
+discount\.net
 doctor([\w-]+)?\.ru
 drogteszt([\w-]+)?\.TLD
 e(-)?cigi.*\.com
