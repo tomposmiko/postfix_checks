@@ -505,6 +505,7 @@
 [@\/\.\ ]vresp\.com
 [@\/\.\ ]vsnl\.net
 [@\/\.\ ]vxivh\.com
+[@\/\.\ ]waimaomaijia\.com
 [@\/\.\ ]wattguard\.hu
 [@\/\.\ ]wctpresents\.org
 [@\/\.\ ]web\.id
