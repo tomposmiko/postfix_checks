@@ -1,3 +1,4 @@
+#[@\/\.\ ]
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
@@ -248,6 +249,7 @@
 [@\/\.\ ]infoaxe\.net
 [@\/\.\ ]infotraining.info
 [@\/\.\ ]ingnyugdijbiztositas\.hu
+[@\/\.\ ]inkersallstars.com
 [@\/\.\ ]inotex\.com
 [@\/\.\ ]install-new-watchnow\.us
 [@\/\.\ ]int\.kz
@@ -351,6 +353,7 @@
 [@\/\.\ ]naturalmedicina\.ru
 [@\/\.\ ]naturebrown\.com
 [@\/\.\ ]nbgitom\.com
+[@\/\.\ ]neked([\w-]+)\.TLD
 [@\/\.\ ]nem-felejtelek-el\.com
 [@\/\.\ ]neryungri\.ru
 [@\/\.\ ]net\.mx
