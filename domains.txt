@@ -103,6 +103,7 @@
 [@\/\.\ ]cheapssunglassesonsale.com
 [@\/\.\ ]chemspeceurope\.com
 [@\/\.\ ]chihotelsandresorts\.com
+[@\/\.\ ]citizen-ng\.com
 [@\/\.\ ]clearslide\.com.com
 [@\/\.\ ]clearslidemail\.com
 [@\/\.\ ]click\.org
@@ -336,6 +337,7 @@
 [@\/\.\ ]mailjet\.com
 [@\/\.\ ]mailole\.info
 [@\/\.\ ]managr(-)?amax(-)?hu\.TLD
+[@\/\.\ ]mandrillapp\.com
 [@\/\.\ ]marcusevansonline\.com
 [@\/\.\ ]marketacquisition\.com
 [@\/\.\ ]maxwhite([\w-]+)?\.com
@@ -522,6 +524,7 @@
 [@\/\.\ ]trainhr\.com
 [@\/\.\ ]tvspeciasltvsponline\.us
 [@\/\.\ ]twoo(cdn|mail)?\.com
+[@\/\.\ ]uaeconsult\.org
 [@\/\.\ ]ugatasstoppolo\.com
 [@\/\.\ ]ugyismegveszel\.hu
 [@\/\.\ ]ukbusinessdata\.uk.com
