@@ -10,6 +10,7 @@
 [@\/\.\ ]([\w-]+)guideline\.com
 [@\/\.\ ]([\w-]+)marketing\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.com
+[@\/\.\ ]([\w-]+)training([\w-]+)?\.info
 [@\/\.\ ](herb|pill|private|pure)([\w-]+)?\.ru
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]1eko\.com
