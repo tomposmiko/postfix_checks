@@ -22,6 +22,7 @@
 [@\/\.\ ]advanceyourcomputerskills\.com
 [@\/\.\ ]advantagemedia\.com
 [@\/\.\ ]aexp\.com
+[@\/\.\ ]afa-company\.net
 [@\/\.\ ]affiliate(-)?ajanlatok\.TLD
 [@\/\.\ ]agcswelpjv\.us
 [@\/\.\ ]age(star|rast)\.com
@@ -222,6 +223,7 @@
 [@\/\.\ ]heitulong\.com
 [@\/\.\ ]himaddie\.com
 [@\/\.\ ]hinet\.net
+[@\/\.\ ]hirlevel\.email
 [@\/\.\ ]hitech-expo\.com
 [@\/\.\ ]holdkapu\.com
 [@\/\.\ ]hoteljobs\.hu
