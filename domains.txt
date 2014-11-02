@@ -218,6 +218,7 @@
 [@\/\.\ ]go(-)?sport([\w-]+)?\.TLD
 [@\/\.\ ]goaomendubo\.com
 [@\/\.\ ]gold-digga\.com
+[@\/\.\ ]goodoffer\.us
 [@\/\.\ ]google\.(co\.nz|de|fi|nr|lv|ru)
 [@\/\.\ ]greenlight\.23net\.hu
 [@\/\.\ ]greentechnic\.eu
@@ -239,6 +240,7 @@
 [@\/\.\ ]hinet\.net
 [@\/\.\ ]hirlevel\.email
 [@\/\.\ ]hitech-expo\.com
+[@\/\.\ ]hiworld\.us
 [@\/\.\ ]holdkapu\.com
 [@\/\.\ ]hoteljobs\.hu
 [@\/\.\ ]hr-controlling\.com
