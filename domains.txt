@@ -165,6 +165,7 @@
 [@\/\.\ ]eletmodhirek\.com
 [@\/\.\ ]email-guru\.net
 [@\/\.\ ]emi02\.com
+[@\/\.\ ]emsmtp\.info
 [@\/\.\ ]emtipper\.net
 [@\/\.\ ]enterprisegroup\.hu
 [@\/\.\ ]eopc\.com
@@ -440,6 +441,7 @@
 [@\/\.\ ]riaszt([\w-]+)?\.TLD
 [@\/\.\ ]richter10point2\.com
 [@\/\.\ ]robertblabl\.de
+[@\/\.\ ]rockpooldmfile\.com
 [@\/\.\ ]rojanavej\.com
 [@\/\.\ ]rs-tk.com
 [@\/\.\ ]rsac3.com
