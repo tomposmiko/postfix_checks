@@ -1,4 +1,5 @@
 #[@\/\.\ ]
+#[@\/\.\ ]([\w-]+)online\.com
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
@@ -8,7 +9,6 @@
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
 [@\/\.\ ]([\w-]+)guideline\.com
 [@\/\.\ ]([\w-]+)marketing\.com
-[@\/\.\ ]([\w-]+)online\.com
 [@\/\.\ ]([\w-]+)training\.com
 [@\/\.\ ](herb|pill|private|pure)([\w-]+)?\.ru
 [@\/\.\ ](i)?europe\.com
