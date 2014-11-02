@@ -6,6 +6,10 @@
 [@\/\.\ ]([\w-]+)?megoldas\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
+[@\/\.\ ]([\w-]+)guideline\.com
+[@\/\.\ ]([\w-]+)marketing\.com
+[@\/\.\ ]([\w-]+)online\.com
+[@\/\.\ ]([\w-]+)training\.com
 [@\/\.\ ](herb|pill|private|pure)([\w-]+)?\.ru
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]1eko\.com
@@ -47,6 +51,7 @@
 [@\/\.\ ]aspet\.org
 [@\/\.\ ]atlassystems.com
 [@\/\.\ ]atmprk\.com
+[@\/\.\ ]attmailer\.com
 [@\/\.\ ]aurorabiomed\.com
 [@\/\.\ ]awymqo\.com
 [@\/\.\ ]aya-fineguns\.com
@@ -58,9 +63,11 @@
 [@\/\.\ ]beats-design\.com
 [@\/\.\ ]bestdealz-mail\.com
 [@\/\.\ ]beykozrotary\.org
+[@\/\.\ ]bicheng-pcb\.com 
 [@\/\.\ ]bichengpcb\.com
 [@\/\.\ ]bilingdepp\.net
 [@\/\.\ ]bill\.com
+[@\/\.\ ]bioandlifescience\.org
 [@\/\.\ ]biofingerprint\.com
 [@\/\.\ ]biz2promo\.com
 [@\/\.\ ]biztonsagban\.TLD
@@ -74,6 +81,7 @@
 [@\/\.\ ]bove\.com
 [@\/\.\ ]brandingxperts\.net
 [@\/\.\ ]bruinsfansedge\.com
+[@\/\.\ ]brushcreekranch\.com
 [@\/\.\ ]bst\.bz
 [@\/\.\ ]bsuperior-webonline\.us
 [@\/\.\ ]burncalories([\w-]+)?\.com
@@ -142,6 +150,8 @@
 [@\/\.\ ]do.com
 [@\/\.\ ]doideras\.com
 [@\/\.\ ]e-mergeglobal\.com
+[@\/\.\ ]e-sendhub.com
+[@\/\.\ ]e2ma\.net
 [@\/\.\ ]easun-group\.com
 [@\/\.\ ]ebrguide\.net
 [@\/\.\ ]echomail\.com
@@ -150,12 +160,14 @@
 [@\/\.\ ]edima\.hu
 [@\/\.\ ]edmbing\.com
 [@\/\.\ ]ekvident\.hu
+[@\/\.\ ]elabs11\.com
 [@\/\.\ ]elasticemail\.com
 [@\/\.\ ]eletmodhirek\.com
 [@\/\.\ ]email-guru\.net
 [@\/\.\ ]emi02\.com
 [@\/\.\ ]emtipper\.net
 [@\/\.\ ]enterprisegroup\.hu
+[@\/\.\ ]eopc\.com
 [@\/\.\ ]eri021\.com
 [@\/\.\ ]esqrealty\.net
 [@\/\.\ ]ethicalseoprovider\.com
@@ -218,6 +230,7 @@
 [@\/\.\ ]hangmeter\.hu
 [@\/\.\ ]harper-beck\.com
 [@\/\.\ ]harperbeckagency\.com
+[@\/\.\ ]haxel\.com
 [@\/\.\ ]hcprintery.com
 [@\/\.\ ]healthyshinyhair-tips\.com
 [@\/\.\ ]heitulong\.com
@@ -297,6 +310,7 @@
 [@\/\.\ ]leasecorp\.com
 [@\/\.\ ]ledccy\.com
 [@\/\.\ ]levele\.net
+[@\/\.\ ]lfw-media\.com
 [@\/\.\ ]lifeplusz\.hu
 [@\/\.\ ]liteurl\.dk
 [@\/\.\ ]livas\.lv
@@ -437,6 +451,8 @@
 [@\/\.\ ]salesforay\.com
 [@\/\.\ ]sarastoneclub\.com
 [@\/\.\ ]sciencebg\.net
+[@\/\.\ ]sciencepublishinggroup\.com
+[@\/\.\ ]sciencetworesearcher\.net
 [@\/\.\ ]secondderivative\.com
 [@\/\.\ ]seek-studio\.com
 [@\/\.\ ]segitek\.hu
@@ -454,6 +470,7 @@
 [@\/\.\ ]socialwellnessemail\.com
 [@\/\.\ ]softassist\.com.au
 [@\/\.\ ]sohu\.com
+[@\/\.\ ]spublishinggroup\.net
 [@\/\.\ ]spybackground-fileslooked\.com
 [@\/\.\ ]squadhouse-media\.de
 [@\/\.\ ]srtrust\.org.in
@@ -465,6 +482,7 @@
 [@\/\.\ ]summerskinny([\w-]+)?\.us
 [@\/\.\ ]sunnywinco\.com
 [@\/\.\ ]sunrise-invest\.net
+[@\/\.\ ]syriatelmail\.net
 [@\/\.\ ]szpcair\.com
 [@\/\.\ ]sztarajanlat([\w-]+)?\.TLD
 [@\/\.\ ]szupertolto\.com
@@ -516,6 +534,7 @@
 [@\/\.\ ]web\.id
 [@\/\.\ ]webdevelopersrus\.com
 [@\/\.\ ]webdigitech\.com
+[@\/\.\ ]webrankonline\.com
 [@\/\.\ ]webshop(-)?[0-9]+\.com
 [@\/\.\ ]websiteinformacio\.hu
 [@\/\.\ ]wedrownicy\.org
