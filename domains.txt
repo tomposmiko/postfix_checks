@@ -434,6 +434,7 @@
 [@\/\.\ ]pusauro\.info
 [@\/\.\ ]pwm8\.com
 [@\/\.\ ]pxhbhm\.com
+[@\/\.\ ]qemailserver.com
 [@\/\.\ ]qermin\.com
 [@\/\.\ ]qweamedish\.info
 [@\/\.\ ]r102\.com
@@ -457,6 +458,7 @@
 [@\/\.\ ]salesforay\.com
 [@\/\.\ ]sarastoneclub\.com
 [@\/\.\ ]sciencebg\.net
+[@\/\.\ ]scienceboard\.net
 [@\/\.\ ]sciencepublishinggroup\.com
 [@\/\.\ ]sciencetworesearcher\.net
 [@\/\.\ ]secondderivative\.com
@@ -494,6 +496,7 @@
 [@\/\.\ ]szupertolto\.com
 [@\/\.\ ]t\.co
 [@\/\.\ ]taiwan-liwang\.com
+[@\/\.\ ]targetdataproviders\.com
 [@\/\.\ ]targetleadsus\.com
 [@\/\.\ ]techcello\.com
 [@\/\.\ ]technologynetworks.com
