@@ -9,7 +9,7 @@
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
 [@\/\.\ ]([\w-]+)guideline\.com
 [@\/\.\ ]([\w-]+)marketing\.com
-[@\/\.\ ]([\w-]+)training\.com
+[@\/\.\ ]([\w-]+)training([\w-]+)?\.com
 [@\/\.\ ](herb|pill|private|pure)([\w-]+)?\.ru
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]1eko\.com
