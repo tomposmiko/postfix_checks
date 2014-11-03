@@ -18,6 +18,7 @@
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
 [@\/\.\ ]6500creditcard\.com
+[@\/\.\ ]\.cn\.com
 [@\/\.\ ]\.do\.com
 [@\/\.\ ]\d\d\d\.TLD
 [@\/\.\ ]above\.com
@@ -114,7 +115,6 @@
 [@\/\.\ ]clickshop\.hu
 [@\/\.\ ]clicksurecpa\.com
 [@\/\.\ ]climatisation-lg\.com
-[@\/\.\ ]cn\.com
 [@\/\.\ ]cnbiodegradable\.com
 [@\/\.\ ]cnchunyun\.com
 [@\/\.\ ]cnmetalchemicals\.com
