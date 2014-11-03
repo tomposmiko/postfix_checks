@@ -18,6 +18,7 @@
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
 [@\/\.\ ]6500creditcard\.com
+[@\/\.\ ]\.do\.com
 [@\/\.\ ]\d\d\d\.TLD
 [@\/\.\ ]above\.com
 [@\/\.\ ]accenture\.com
@@ -154,7 +155,6 @@
 [@\/\.\ ]discovery-summit\.com
 [@\/\.\ ]distribio\.com
 [@\/\.\ ]dntqxf\.com
-[@\/\.\ ]do.com
 [@\/\.\ ]doideras\.com
 [@\/\.\ ]e-mergeglobal\.com
 [@\/\.\ ]e-sendhub.com
