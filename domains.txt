@@ -1,4 +1,5 @@
 #[@\/\.\ ]
+#[@\/\.\ ]([\w-]+)\.us\.com
 #[@\/\.\ ]([\w-]+)online\.com
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
