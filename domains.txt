@@ -18,8 +18,7 @@
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
 [@\/\.\ ]6500creditcard\.com
-[@\/\.\ ]\.cn\.com
-[@\/\.\ ]\.do\.com
+[@\/\.\ ]\.(cn|do)\.com
 [@\/\.\ ]\d\d\d\.TLD
 [@\/\.\ ]above\.com
 [@\/\.\ ]accenture\.com
