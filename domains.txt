@@ -634,7 +634,7 @@ maxfelaron\.hu
 medicalassist\.com
 megved([\w-]+)?\.com
 nyari-gyorskolcson\.com
-nyomkoveto[\w-]+.com
+nyomkoveto[\w-]+\.com
 penz-gyorsan\.com
 penzugyitippek\.com
 praktikustermekek\.com
