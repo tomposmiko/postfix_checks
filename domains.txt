@@ -1,5 +1,4 @@
 #[@\/\.\ ]
-#[@\/\.\ ]([\w-]+)\.us\.com
 #[@\/\.\ ]([\w-]+)online\.com
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
@@ -8,6 +7,7 @@
 [@\/\.\ ]([\w-]+)?megoldas\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
+[@\/\.\ ]([\w-]+)\.us\.com
 [@\/\.\ ]([\w-]+)com\.ar
 [@\/\.\ ]([\w-]+)guideline\.com
 [@\/\.\ ]([\w-]+)marketing\.com
