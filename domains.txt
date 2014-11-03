@@ -7,6 +7,7 @@
 [@\/\.\ ]([\w-]+)?megoldas\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
+[@\/\.\ ]([\w-]+)com\.ar
 [@\/\.\ ]([\w-]+)guideline\.com
 [@\/\.\ ]([\w-]+)marketing\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.com
@@ -552,6 +553,7 @@
 [@\/\.\ ]web\.id
 [@\/\.\ ]webdevelopersrus\.com
 [@\/\.\ ]webdigitech\.com
+[@\/\.\ ]webhosting-network-services\.com
 [@\/\.\ ]webrankonline\.com
 [@\/\.\ ]webshop(-)?[0-9]+\.com
 [@\/\.\ ]websiteinformacio\.hu
