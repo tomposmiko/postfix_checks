@@ -227,6 +227,7 @@
 [@\/\.\ ]goodoffer\.us
 [@\/\.\ ]google\.(co\.nz|de|fi|nr|lv|ru)
 [@\/\.\ ]graduadoyformacion\.com
+[@\/\.\ ]greatesthealthnews\.com
 [@\/\.\ ]greenlight\.23net\.hu
 [@\/\.\ ]greentechnic\.eu
 [@\/\.\ ]gtcbio\.com
