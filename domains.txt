@@ -283,6 +283,7 @@
 [@\/\.\ ]internetespenz\.TLD
 [@\/\.\ ]internetmarketingbuzz\.biz
 [@\/\.\ ]inventorymgmtsolutions\.com
+[@\/\.\ ]iroda5\.eu
 [@\/\.\ ]irs\.gov
 [@\/\.\ ]irtaglobal\.com
 [@\/\.\ ]iscnewsletter\.TLD
@@ -504,6 +505,7 @@
 [@\/\.\ ]szpcair\.com
 [@\/\.\ ]sztarajanlat([\w-]+)?\.TLD
 [@\/\.\ ]szupertolto\.com
+[@\/\.\ ]t5a\.eu
 [@\/\.\ ]t\.co
 [@\/\.\ ]taiwan-liwang\.com
 [@\/\.\ ]targetdataproviders\.com
