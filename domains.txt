@@ -65,6 +65,7 @@
 [@\/\.\ ]barkacsgepek\.com
 [@\/\.\ ]bccresearch\.com
 [@\/\.\ ]beats-design\.com
+[@\/\.\ ]bellresearch\.hu
 [@\/\.\ ]bestdealz-mail\.com
 [@\/\.\ ]beykozrotary\.org
 [@\/\.\ ]bicheng-pcb\.com 
@@ -408,7 +409,6 @@
 [@\/\.\ ]olivosmedia\.com
 [@\/\.\ ]olobag2\.com
 [@\/\.\ ]omicsonline\.us
-[@\/\.\ ]on9mail.com
 [@\/\.\ ]on9mail\.com
 [@\/\.\ ]onlinecompliancepanel\.com
 [@\/\.\ ]openforumlearning\.co\.uk
