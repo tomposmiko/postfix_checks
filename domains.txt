@@ -48,6 +48,7 @@
 [@\/\.\ ]anpdm\.com
 [@\/\.\ ]aol\.jp
 [@\/\.\ ]aotemantv\.com
+[@\/\.\ ]armada\.hu
 [@\/\.\ ]armastusedm\.com
 [@\/\.\ ]aronalul\.TLD
 [@\/\.\ ]aruhaz([\w-]+)?\.TLD
