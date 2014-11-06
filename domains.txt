@@ -618,7 +618,7 @@ e(-)?cigi.*\.com
 elalvas(-)?stop\.com
 email\.eu
 ertesites\.com
-eur(ope)?job([\w-]+)?\.org
+eur(ope)?job([\w-]+)?\.(com|org)
 gaymassage([\w-]+)?\.com
 haszon\.hu
 hatekony[\w-]+kovetes\.TLD
