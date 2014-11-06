@@ -613,7 +613,7 @@ e(-)?cigi.*\.com
 elalvas(-)?stop\.com
 email\.eu
 ertesites\.com
-eurjob\.org
+eurjob([\w-]+)?\.org
 gaymassage([\w-]+)?\.com
 haszon\.hu
 hatekony[\w-]+kovetes\.TLD
