@@ -345,6 +345,8 @@
 [@\/\.\ ]mail\.com
 [@\/\.\ ]maileco\.info
 [@\/\.\ ]mailjet\.com
+[@\/\.\ ]mailmiracle\.net
+[@\/\.\ ]mailmiracle\.net
 [@\/\.\ ]mailole\.info
 [@\/\.\ ]managr(-)?amax(-)?hu\.TLD
 [@\/\.\ ]mandrillapp\.com
