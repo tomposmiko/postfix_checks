@@ -422,6 +422,7 @@
 [@\/\.\ ]para(-)?kapu([\w-]+)?\.TLD
 [@\/\.\ ]parkotelgyula\.hu
 [@\/\.\ ]pbconference\.com
+[@\/\.\ ]pcb\d-\d\d.com
 [@\/\.\ ]pelletkandallo\.hu
 [@\/\.\ ]performia\.hu
 [@\/\.\ ]phdvirtual\.com
