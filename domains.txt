@@ -1,3 +1,4 @@
+#[@\/\.\ ]
 #[@\/\.\ ]([\w-]+)online\.com
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
@@ -370,6 +371,7 @@
 [@\/\.\ ]momotel\.hu
 [@\/\.\ ]movingyour\.com
 [@\/\.\ ]mow\.so
+[@\/\.\ ]mrc77\.org
 [@\/\.\ ]munka-hu\.com
 [@\/\.\ ]munkaugyilevelek\.hu
 [@\/\.\ ]mus\.ae
