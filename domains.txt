@@ -1,5 +1,4 @@
 #[@\/\.\ ]([\w-]+)online\.com
-#[@\/\.\ ]onallo-elet\.com
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
@@ -415,6 +414,7 @@
 [@\/\.\ ]olobag2\.com
 [@\/\.\ ]omicsonline\.us
 [@\/\.\ ]on9mail\.com
+[@\/\.\ ]onallo-elet\.com
 [@\/\.\ ]onlinecompliancepanel\.com
 [@\/\.\ ]openforumlearning\.co\.uk
 [@\/\.\ ]orderitem11\.com
