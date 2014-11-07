@@ -1,5 +1,5 @@
-#[@\/\.\ ]
 #[@\/\.\ ]([\w-]+)online\.com
+#[@\/\.\ ]onallo-elet\.com
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
