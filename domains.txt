@@ -19,6 +19,7 @@
 [@\/\.\ ]1esource\.com
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]\.(cn|do)\.com
+[@\/\.\ ]\.info
 [@\/\.\ ]\d\d\d\.TLD
 [@\/\.\ ]above\.com
 [@\/\.\ ]accenture\.com
