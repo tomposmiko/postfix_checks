@@ -7,6 +7,7 @@
 [@\/\.\ ]([\w-]+)?megoldas\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
+[@\/\.\ ]([\w-]+)\.info
 [@\/\.\ ]([\w-]+)\.us\.com
 [@\/\.\ ]([\w-]+)com\.(ar|hk)
 [@\/\.\ ]([\w-]+)guideline\.com
@@ -19,7 +20,6 @@
 [@\/\.\ ]1esource\.com
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]\.(cn|do)\.com
-[@\/\.\ ]\.info
 [@\/\.\ ]\d\d\d\.TLD
 [@\/\.\ ]above\.com
 [@\/\.\ ]accenture\.com
