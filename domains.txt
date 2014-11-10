@@ -182,6 +182,7 @@
 [@\/\.\ ]elasticemail\.com
 [@\/\.\ ]eletmodhirek\.com
 [@\/\.\ ]email-guru\.net
+[@\/\.\ ]emailsolution([\w-]+)?\.com
 [@\/\.\ ]emi02\.com
 [@\/\.\ ]emsmtp\.info
 [@\/\.\ ]emtipper\.net
