@@ -588,6 +588,7 @@
 [@\/\.\ ]workcenter\.hu
 [@\/\.\ ]worldnetclass\.com
 [@\/\.\ ]worldphotographiccup\.org
+[@\/\.\ ]xastgs\.com
 [@\/\.\ ]xls.hu
 [@\/\.\ ]yadari\.com
 [@\/\.\ ]yahoo\.com.(cn|hk)
