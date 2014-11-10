@@ -15,6 +15,7 @@
 [@\/\.\ ]([\w-]+)guideline\.com
 [@\/\.\ ]([\w-]+)insider.com
 [@\/\.\ ]([\w-]+)marketing\.com
+[@\/\.\ ]([\w-]+)telapo\.com
 [@\/\.\ ]([\w-]+)thai\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.info
