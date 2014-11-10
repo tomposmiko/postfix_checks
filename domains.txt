@@ -179,6 +179,7 @@
 [@\/\.\ ]emi02\.com
 [@\/\.\ ]emsmtp\.info
 [@\/\.\ ]emtipper\.net
+[@\/\.\ ]ensindia\.com
 [@\/\.\ ]enterprisegroup\.hu
 [@\/\.\ ]eopc\.com
 [@\/\.\ ]eri021\.com
