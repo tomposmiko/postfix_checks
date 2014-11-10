@@ -226,7 +226,7 @@
 [@\/\.\ ]gantservices\.com
 [@\/\.\ ]gaopincuihuoshebei\.com
 [@\/\.\ ]genecust\.eu
-[@\/\.\ ]getfollowersandlikes\.in
+[@\/\.\ ]getfollowers([\w-]+)?\.(com|in)
 [@\/\.\ ]getinterenetmarketingbuzz\.us
 [@\/\.\ ]getresponse\.com
 [@\/\.\ ]giga-akciok\.com
