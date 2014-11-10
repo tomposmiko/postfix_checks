@@ -41,6 +41,7 @@
 [@\/\.\ ]alap(-)?ado\.com
 [@\/\.\ ]alap\.net
 [@\/\.\ ]alarm(-)?box\.net
+[@\/\.\ ]alhayatgr\.com
 [@\/\.\ ]alternativa\.fr
 [@\/\.\ ]altervista\.org
 [@\/\.\ ]alumnidirector\.com
