@@ -13,6 +13,7 @@
 [@\/\.\ ]([\w-]+)com\.(ar|hk)
 [@\/\.\ ]([\w-]+)engine\.com
 [@\/\.\ ]([\w-]+)guideline\.com
+[@\/\.\ ]([\w-]+)insider.com
 [@\/\.\ ]([\w-]+)marketing\.com
 [@\/\.\ ]([\w-]+)thai\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.com
