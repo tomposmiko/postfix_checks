@@ -163,6 +163,7 @@
 [@\/\.\ ]dntqxf\.com
 [@\/\.\ ]doideras\.com
 [@\/\.\ ]domacases\.com
+[@\/\.\ ]dynamail\.co\.uk
 [@\/\.\ ]e-mergeglobal\.com
 [@\/\.\ ]e-sendhub.com
 [@\/\.\ ]e2ma\.net
@@ -495,6 +496,7 @@
 [@\/\.\ ]settour\.com.tw
 [@\/\.\ ]shop[\w-]+201([\w-]+)?\.com
 [@\/\.\ ]shusongjicn\.com
+[@\/\.\ ]si-store\.com
 [@\/\.\ ]silversoftwaretech\.com
 [@\/\.\ ]sitynur\.ru
 [@\/\.\ ]smartling\.com
