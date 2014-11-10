@@ -1,6 +1,7 @@
 #[@\/\.\ ]
 #[@\/\.\ ]([\w-]+)online\.com
 #[@\/\.\ ]qq\.com
+[@\/\.\ ]([\w-]+)?(herb|pill|private|pure)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
@@ -15,7 +16,6 @@
 [@\/\.\ ]([\w-]+)thai\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.info
-[@\/\.\ ](herb|pill|private|pure)([\w-]+)?\.ru
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
