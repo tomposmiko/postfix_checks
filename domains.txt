@@ -235,6 +235,7 @@
 [@\/\.\ ]getresponse\.com
 [@\/\.\ ]giga-akciok\.com
 [@\/\.\ ]glce\.eu
+[@\/\.\ ]global([\w-]+)?marketing\.com
 [@\/\.\ ]globalaidmarket\.com
 [@\/\.\ ]globaloptics\.cn
 [@\/\.\ ]globalstone\.hu
