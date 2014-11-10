@@ -5,7 +5,7 @@
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
-[@\/\.\ ]([\w-]+)?megoldas\.TLD
+[@\/\.\ ]([\w-]+)?megoldas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
 [@\/\.\ ]([\w-]+)\.info
@@ -15,6 +15,7 @@
 [@\/\.\ ]([\w-]+)guideline\.com
 [@\/\.\ ]([\w-]+)insider.com
 [@\/\.\ ]([\w-]+)marketing\.com
+[@\/\.\ ]([\w-]+)mikulas([\w-]+)\.com
 [@\/\.\ ]([\w-]+)plaque(s)?\.com
 [@\/\.\ ]([\w-]+)telapo\.com
 [@\/\.\ ]([\w-]+)thai\.com
