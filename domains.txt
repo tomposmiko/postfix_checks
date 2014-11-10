@@ -433,7 +433,7 @@
 [@\/\.\ ]oversea-supply\.com
 [@\/\.\ ]para(-)?kapu([\w-]+)?\.TLD
 [@\/\.\ ]parkotelgyula\.hu
-[@\/\.\ ]pbconference\.com
+[@\/\.\ ]pb(-)?conferenc([\w-]+)?\.com
 [@\/\.\ ]pcb\d-\d\d.com
 [@\/\.\ ]pelletkandallo\.hu
 [@\/\.\ ]performia\.hu
