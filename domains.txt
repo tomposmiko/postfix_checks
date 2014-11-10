@@ -16,6 +16,7 @@
 [@\/\.\ ]([\w-]+)thai\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.info
+[@\/\.\ ]([\w-]+)trainonline\.com
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
