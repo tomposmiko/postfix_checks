@@ -1,6 +1,6 @@
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
-[@\/\.\ ]([\w-]+)?(herb|pill|private|pure)([\w-]+)?\.ru
+[@\/\.\ ]([\w-]+)?(funeral|herb|pill|private|pure)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
