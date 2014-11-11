@@ -1,3 +1,4 @@
+#[@\/\.\ ]
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(funeral|herb|pill|private|pure)([\w-]+)?\.ru
@@ -377,6 +378,7 @@
 [@\/\.\ ]mega-akciok\.TLD
 [@\/\.\ ]megtakaritas([\w-]+)?\.TLD
 [@\/\.\ ]mendax\.hu
+[@\/\.\ ]mendy(\d+)?\.com
 [@\/\.\ ]michelle-cash-money\.com
 [@\/\.\ ]minibird\.jp
 [@\/\.\ ]mkt5826\.com
