@@ -405,6 +405,7 @@
 [@\/\.\ ]mywebsite\.com
 [@\/\.\ ]nadorogahmira\.com
 [@\/\.\ ]napi\.hu
+[@\/\.\ ]napi\.hu
 [@\/\.\ ]napkinghkdfr\.me
 [@\/\.\ ]napkollektor-napelem\.hu
 [@\/\.\ ]nathansay\.com
