@@ -23,6 +23,7 @@
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.info
 [@\/\.\ ]([\w-]+)trainonline\.com
+[@\/\.\ ](adm|click)(0-9)?\.([\w-]+)\.(com|info)
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
@@ -33,7 +34,6 @@
 [@\/\.\ ]actingchina\.com
 [@\/\.\ ]actonsoftware\.com
 [@\/\.\ ]adcall\.tk
-[@\/\.\ ]adm(0-9)?\.([\w-]+)\.com
 [@\/\.\ ]adria[\w-]+\.TLD
 [@\/\.\ ]advanceyourcomputerskills\.com
 [@\/\.\ ]advantagemedia\.com
