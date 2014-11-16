@@ -34,6 +34,7 @@
 [@\/\.\ ]actingchina\.com
 [@\/\.\ ]actonsoftware\.com
 [@\/\.\ ]adcall\.tk
+[@\/\.\ ]adp\.com
 [@\/\.\ ]adria[\w-]+\.TLD
 [@\/\.\ ]advanceyourcomputerskills\.com
 [@\/\.\ ]advantagemedia\.com
