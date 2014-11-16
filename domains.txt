@@ -9,7 +9,6 @@
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
 [@\/\.\ ]([\w-]+)?megoldas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
-[@\/\.\ ]([\w-]+)\.(%D1%80%D1%84|%3F%3F)
 [@\/\.\ ]([\w-]+)\.us\.com
 [@\/\.\ ]([\w-]+)com\.(ar|hk)
 [@\/\.\ ]([\w-]+)engine\.com
@@ -23,7 +22,7 @@
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.info
 [@\/\.\ ]([\w-]+)trainonline\.com
-[@\/\.\ ](adm|click)(0-9)?\.([\w-]+)\.(com|info)
+[@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
@@ -351,6 +350,7 @@
 [@\/\.\ ]levele\.net
 [@\/\.\ ]lfw-media\.com
 [@\/\.\ ]lifeplusz\.hu
+[@\/\.\ ]linkmime\.com
 [@\/\.\ ]listzhunter\.com
 [@\/\.\ ]liteurl\.dk
 [@\/\.\ ]livas\.lv
@@ -494,6 +494,7 @@
 [@\/\.\ ]rojanavej\.com
 [@\/\.\ ]rs-tk.com
 [@\/\.\ ]rsac3.com
+[@\/\.\ ]rsvp1.com
 [@\/\.\ ]runsom\.com
 [@\/\.\ ]s(z)?tarajanlatok\.com
 [@\/\.\ ]s3-(eu|us)-(east|west)-[\d]\.amazonaws.com
@@ -586,6 +587,7 @@
 [@\/\.\ ]videoizlen\.net
 [@\/\.\ ]vitalityfall\.com
 [@\/\.\ ]vn\.ua
+[@\/\.\ ]vonazon\.com
 [@\/\.\ ]vpn\.by
 [@\/\.\ ]vresp\.com
 [@\/\.\ ]vsnl\.net
@@ -597,6 +599,7 @@
 [@\/\.\ ]webdevelopersrus\.com
 [@\/\.\ ]webdigitech\.com
 [@\/\.\ ]webhosting-network-services\.com
+[@\/\.\ ]webpronews\.com
 [@\/\.\ ]webrankonline\.com
 [@\/\.\ ]webshop(-)?[0-9]+\.com
 [@\/\.\ ]websiteinformacio\.hu
