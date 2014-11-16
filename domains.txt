@@ -1,7 +1,4 @@
 #[@\/\.\ ]
-#[@\/\.\ ]([\w-]+)\.cl
-#[@\/\.\ ]([\w-]+)\.info
-#[@\/\.\ ]([\w-]+)\.ru
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 [@\/\.\ ]([\w-]+)?(funeral|herb|pill|private|pure|reward|shop)([\w-]+)?\.ru
@@ -643,6 +640,7 @@
 [@\/\.\ ]ztouvalve\.com
 [@\/\.\ ]zuggo\.hu
 [@\/\.\ ]zz361\.com
+[@\/]([\w-]+)\.(cl|info|ru)
 [\w]+-[\w]+-[\w]+\.com
 [^w]hitel[\w-]+\.TLD
 akcioink\.hu
