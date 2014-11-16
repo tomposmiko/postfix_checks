@@ -576,6 +576,7 @@
 [@\/\.\ ]topbandled\.com
 [@\/\.\ ]tradetracker\.net
 [@\/\.\ ]trainhr\.com
+[@\/\.\ ]tridentnets\.com
 [@\/\.\ ]tvspeciasltvsponline\.us
 [@\/\.\ ]twoo(cdn|mail)?\.com
 [@\/\.\ ]uaeconsult\.org
