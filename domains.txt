@@ -506,6 +506,7 @@
 [@\/\.\ ]s98mail\.com
 [@\/\.\ ]salerays([\w-]+)?\.us
 [@\/\.\ ]salesforay\.com
+[@\/\.\ ]salesjobs\.com
 [@\/\.\ ]sarastoneclub\.com
 [@\/\.\ ]sciencebg\.net
 [@\/\.\ ]scienceboard\.net
