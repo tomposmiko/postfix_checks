@@ -465,6 +465,7 @@
 [@\/\.\ ]pb(-)?conferenc([\w-]+)?\.com
 [@\/\.\ ]pcb\d-\d\d.com
 [@\/\.\ ]pelletkandallo\.hu
+[@\/\.\ ]penrep\.com
 [@\/\.\ ]performia\.hu
 [@\/\.\ ]phdvirtual\.com
 [@\/\.\ ]pivotal-solutions\.net
