@@ -202,6 +202,7 @@
 [@\/\.\ ]europs(career|job)\.com
 [@\/\.\ ]evergage\.com
 [@\/\.\ ]execreps\.com
+[@\/\.\ ]executive-reports\.com
 [@\/\.\ ]exelect\.hu
 [@\/\.\ ]exelect\.hu
 [@\/\.\ ]exhibitorconnect\.com
