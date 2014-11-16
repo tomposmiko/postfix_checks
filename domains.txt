@@ -389,6 +389,7 @@
 [@\/\.\ ]mendy(\d+)?\.com
 [@\/\.\ ]michelle-cash-money\.com
 [@\/\.\ ]minibird\.jp
+[@\/\.\ ]mkt([\w-]+)?\.com
 [@\/\.\ ]mkt5826\.com
 [@\/\.\ ]mmsend\.com
 [@\/\.\ ]mobiltelo\.hu
