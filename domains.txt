@@ -440,6 +440,7 @@
 [@\/\.\ ]notetech\.com
 [@\/\.\ ]notetech\.com
 [@\/\.\ ]nveststroi\.net
+[@\/\.\ ]nyomda-budapest\.hu
 [@\/\.\ ]oc\.org
 [@\/\.\ ]odlex\.com
 [@\/\.\ ]off[3e]r([\w-]+)?\.us
