@@ -388,6 +388,7 @@
 [@\/\.\ ]megtakaritas([\w-]+)?\.TLD
 [@\/\.\ ]mendax\.hu
 [@\/\.\ ]mendy(\d+)?\.com
+[@\/\.\ ]met\.com
 [@\/\.\ ]michelle-cash-money\.com
 [@\/\.\ ]minibird\.jp
 [@\/\.\ ]mkt([\w-]+)?\.com
@@ -396,6 +397,7 @@
 [@\/\.\ ]mobiltelo\.hu
 [@\/\.\ ]mobilx\.hu
 [@\/\.\ ]mobilxcloud\.hu
+[@\/\.\ ]molenergytrade\.eu
 [@\/\.\ ]moliton\.hu
 [@\/\.\ ]momotel\.hu
 [@\/\.\ ]moredream\.us
