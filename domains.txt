@@ -376,7 +376,6 @@
 [@\/\.\ ]mailmiracle\.net
 [@\/\.\ ]mailole\.info
 [@\/\.\ ]managr(-)?amax(-)?hu\.TLD
-[@\/\.\ ]mandrillapp\.com
 [@\/\.\ ]marcusevansonline\.com
 [@\/\.\ ]marketacquisition\.com
 [@\/\.\ ]maxwhite([\w-]+)?\.com
