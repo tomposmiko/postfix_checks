@@ -634,6 +634,7 @@
 [@\/\.\ ]yahoo\.com.(cn|hk)
 [@\/\.\ ]yancfz\.com
 [@\/\.\ ]yes-us-solar\.com
+[@\/\.\ ]ymail\.com
 [@\/\.\ ]ynsbfy\.com
 [@\/\.\ ]yooga\.ru
 [@\/\.\ ]youlube\.com
