@@ -647,7 +647,7 @@
 [@\/\.\ ]ztouvalve\.com
 [@\/\.\ ]zuggo\.hu
 [@\/\.\ ]zz361\.com
-[@\/]([\w-]+)\.(biz|cl|info)
+[@\/]([\w-]+)\.(biz|cl|info|pw)
 [\w]+-[\w]+-[\w]+\.com
 [^w]hitel[\w-]+\.TLD
 akcioink\.hu
