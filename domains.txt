@@ -220,7 +220,7 @@
 [@\/\.\ ]fendermail\.com
 [@\/\.\ ]festoallvany\.hu
 [@\/\.\ ]filtress\.com
-[@\/\.\ ]financeprosrvc\.com
+[@\/\.\ ]financ([\w-]+)?\.com
 [@\/\.\ ]fissmail\.us
 [@\/\.\ ]fitnessleadsfast\.com
 [@\/\.\ ]flipmailer\.com
