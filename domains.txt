@@ -390,6 +390,7 @@
 [@\/\.\ ]mendax\.hu
 [@\/\.\ ]mendy(\d+)?\.com
 [@\/\.\ ]met\.com
+[@\/\.\ ]metabogepek\.hu
 [@\/\.\ ]michelle-cash-money\.com
 [@\/\.\ ]minibird\.jp
 [@\/\.\ ]mkt([\w-]+)?\.com
@@ -533,6 +534,7 @@
 [@\/\.\ ]sitynur\.ru
 [@\/\.\ ]smartling\.com
 [@\/\.\ ]smtp-power\.com
+[@\/\.\ ]smtp\.hu
 [@\/\.\ ]snipr\.com
 [@\/\.\ ]socialsyrup\.hu
 [@\/\.\ ]socialwellnessemail\.com
@@ -552,6 +554,7 @@
 [@\/\.\ ]sunnywinco\.com
 [@\/\.\ ]sunrise-invest\.net
 [@\/\.\ ]syriatelmail\.net
+[@\/\.\ ]szerszamwebaruhaz\.com
 [@\/\.\ ]szpcair\.com
 [@\/\.\ ]sztarajanlat([\w-]+)?\.TLD
 [@\/\.\ ]szupertolto\.com
