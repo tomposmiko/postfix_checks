@@ -1,6 +1,7 @@
 #[@\/\.\ ]
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
+[@\/\.(=2E)\ ]jigsy\=2Ecom
 [@\/\.\ ]([\w-]+)?(funeral|herb|pill|private|pure|reward|shop)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
@@ -322,7 +323,6 @@
 [@\/\.\ ]jerriwohlacafa\.us
 [@\/\.\ ]jesuninfo\.com
 [@\/\.\ ]jewishcom\.ru
-[@\/\.\ ]jigsy\.com
 [@\/\.\ ]jiguang-led\.com
 [@\/\.\ ]jinbohao\.com
 [@\/\.\ ]jinglecorp\.com
