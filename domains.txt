@@ -503,6 +503,7 @@
 [@\/\.\ ]recipientmail\.co\.uk
 [@\/\.\ ]recyclingcenternearme\.com
 [@\/\.\ ]reesitebusiness\.com
+[@\/\.\ ]repara\.hu
 [@\/\.\ ]rfactorevolution\.com
 [@\/\.\ ]riaszt([\w-]+)?\.TLD
 [@\/\.\ ]richter10point2\.com
