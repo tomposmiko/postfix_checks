@@ -584,6 +584,7 @@
 [@\/\.\ ]trainhr\.com
 [@\/\.\ ]tridentnets\.com
 [@\/\.\ ]tvspeciasltvsponline\.us
+[@\/\.\ ]twcable\.com
 [@\/\.\ ]twoo(cdn|mail)?\.com
 [@\/\.\ ]uaeconsult\.org
 [@\/\.\ ]ugatasstoppolo\.com
