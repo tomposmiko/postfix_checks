@@ -557,6 +557,7 @@
 [@\/\.\ ]summerskinny([\w-]+)?\.us
 [@\/\.\ ]sunnywinco\.com
 [@\/\.\ ]sunrise-invest\.net
+[@\/\.\ ]sweetharmony\.hu
 [@\/\.\ ]syriatelmail\.net
 [@\/\.\ ]szerszamwebaruhaz\.com
 [@\/\.\ ]szpcair\.com
