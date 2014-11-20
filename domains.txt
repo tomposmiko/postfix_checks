@@ -487,6 +487,7 @@
 [@\/\.\ ]private-alarm\.com
 [@\/\.\ ]projobnetwork\.info
 [@\/\.\ ]promociocentrum\.TLD
+[@\/\.\ ]protopmail\.com
 [@\/\.\ ]proxy-imagecache\.com
 [@\/\.\ ]pusauro\.com
 [@\/\.\ ]pusauro\.info
