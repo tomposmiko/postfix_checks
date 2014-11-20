@@ -188,6 +188,7 @@
 [@\/\.\ ]elabs11\.com
 [@\/\.\ ]elasticemail\.com
 [@\/\.\ ]eletmodhirek\.com
+[@\/\.\ ]eletoltes\.hu
 [@\/\.\ ]email-guru\.net
 [@\/\.\ ]emailsolution([\w-]+)?\.com
 [@\/\.\ ]emi02\.com
@@ -385,6 +386,7 @@
 [@\/\.\ ]maxwhite([\w-]+)?\.com
 [@\/\.\ ]mcsv\.net
 [@\/\.\ ]mdxtsauls\.us
+[@\/\.\ ]mediacenter\.hu
 [@\/\.\ ]mediacenter\.hu
 [@\/\.\ ]medic([\w-]+)?\.ru
 [@\/\.\ ]medscompare.com
