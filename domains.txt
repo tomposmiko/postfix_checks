@@ -421,6 +421,7 @@
 [@\/\.\ ]mynews1\.com
 [@\/\.\ ]mynews1mobileapp\.info
 [@\/\.\ ]mypinpointe\.com
+[@\/\.\ ]myspace\.com
 [@\/\.\ ]mywebsite\.com
 [@\/\.\ ]nadorogahmira\.com
 [@\/\.\ ]napi\.hu
