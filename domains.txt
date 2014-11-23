@@ -3,7 +3,7 @@
 #[@\/\.\ ]qq\.com
 #[@\/]([\w-]+)\.(biz|cl|info|pw)
 [@\/\.(=2E)\ ]jigsy\=2Ecom
-[@\/\.\ ]([\w-]+)?(funeral|herb|pill|private|pure|purchase|reward|shop)([\w-]+)?\.ru
+[@\/\.\ ]([\w-]+)?(funeral|herb|mall|pill|private|pure|purchase|reward|shop)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
