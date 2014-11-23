@@ -2,6 +2,7 @@
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/]([\w-]+)\.(biz|cl|info|pw)
+Christmas([\w- ]+)?Deals([\w- ]+)?and([\w- ]+)?Promotions
 [@\/\.(=2E)\ ]jigsy\=2Ecom
 [@\/\.\ ]([\w-]+)?(funeral|herb|mall|pill|private|pure|purchase|reward|shop)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
