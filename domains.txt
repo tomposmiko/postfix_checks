@@ -189,6 +189,7 @@
 [@\/\.\ ]ekvident\.hu
 [@\/\.\ ]elabs11\.com
 [@\/\.\ ]elasticemail\.com
+[@\/\.\ ]elektroexpressz\.hu
 [@\/\.\ ]eletmodhirek\.com
 [@\/\.\ ]eletoltes\.hu
 [@\/\.\ ]email-guru\.net
