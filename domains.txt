@@ -25,6 +25,7 @@ UGG([\w- ]+)?(christmas|deal|promot)
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.info
 [@\/\.\ ]([\w-]+)trainonline\.com
 [@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
+[@\/\.\ ](el|ki)rak\.net
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
@@ -348,7 +349,6 @@ UGG([\w- ]+)?(christmas|deal|promot)
 [@\/\.\ ]kerbeeketchup\.com
 [@\/\.\ ]kerekparor\.TLD
 [@\/\.\ ]kevin-fassbender\.com
-[@\/\.\ ]kirak\.net
 [@\/\.\ ]kisdob\.com
 [@\/\.\ ]kkvprojektek\.com
 [@\/\.\ ]knowledgematrixinc\.TLD
