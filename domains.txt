@@ -724,6 +724,7 @@ penzugyitippek\.com
 praktikustermekek\.com
 riddex([\w-]+)?\.TLD
 sikeresen\.net
+supplier\.cn
 szekhelybudapest\.hu
 tippjeink\.hu
 tisztessegessoforoknek\.com
