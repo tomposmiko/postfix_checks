@@ -251,6 +251,7 @@ UGG([\w- ]+)?(christmas|deal|promot)
 [@\/\.\ ]getinterenetmarketingbuzz\.us
 [@\/\.\ ]getresponse\.com
 [@\/\.\ ]giga-akciok\.com
+[@\/\.\ ]gits\.in
 [@\/\.\ ]glce\.eu
 [@\/\.\ ]global([\w-]+)?marketing\.com
 [@\/\.\ ]globalaidmarket\.com
