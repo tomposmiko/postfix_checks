@@ -83,6 +83,7 @@ UGG([\w- ]+)?(christmas|deal|promot)
 [@\/\.\ ]bccresearch\.com
 [@\/\.\ ]beats-design\.com
 [@\/\.\ ]bestdealz-mail\.com
+[@\/\.\ ]bestmarkt\.hu
 [@\/\.\ ]beykozrotary\.org
 [@\/\.\ ]bicheng-pcb\.com 
 [@\/\.\ ]bichengpcb\.com
