@@ -481,6 +481,7 @@ UGG([\w- ]+)?(christmas|deal|promot)
 [@\/\.\ ]pelletkandallo\.hu
 [@\/\.\ ]penrep\.com
 [@\/\.\ ]performia\.hu
+[@\/\.\ ]petsbook\.hu
 [@\/\.\ ]pgiftsandincentives\.com
 [@\/\.\ ]phdvirtual\.com
 [@\/\.\ ]pivotal-solutions\.net
@@ -575,7 +576,6 @@ UGG([\w- ]+)?(christmas|deal|promot)
 [@\/\.\ ]sztarajanlat([\w-]+)?\.TLD
 [@\/\.\ ]szupertolto\.com
 [@\/\.\ ]t5a\.eu
-[@\/\.\ ]t\.co
 [@\/\.\ ]taiwan-liwang\.com
 [@\/\.\ ]targetdataproviders\.com
 [@\/\.\ ]targetleadsus\.com
