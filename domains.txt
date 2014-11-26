@@ -3,7 +3,7 @@
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
 #[@\/]([\w-]+)\.(biz|cl|info|pw)
-Subject:.* UGG .*(sale|gift)
+Subject:.* UGG .*(christmas|gift|sale|xmas)
 UGG([\w- ]+)?(christmas|deal|promot)
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
 [@\/\.\ ]([\w-]+)?(funeral|herb|mall|pill|private|pure|purchase|reward|shop|store)([\w-]+)?\.ru
