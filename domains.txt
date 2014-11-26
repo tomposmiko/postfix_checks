@@ -3,6 +3,7 @@
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
 #[@\/]([\w-]+)\.(biz|cl|info|pw)
+Subject:.* UGG .*(sale|gift)
 UGG([\w- ]+)?(christmas|deal|promot)
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
 [@\/\.\ ]([\w-]+)?(funeral|herb|mall|pill|private|pure|purchase|reward|shop|store)([\w-]+)?\.ru
@@ -735,4 +736,3 @@ tisztessegessoforoknek\.com
 tvtermek\.com
 x(-)?hose([\w-]+)?\.TLD
 x6[\w-]+mop([\w-]+)?\.TLD
- UGG
