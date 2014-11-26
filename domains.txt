@@ -735,3 +735,4 @@ tisztessegessoforoknek\.com
 tvtermek\.com
 x(-)?hose([\w-]+)?\.TLD
 x6[\w-]+mop([\w-]+)?\.TLD
+ UGG
