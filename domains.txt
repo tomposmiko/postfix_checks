@@ -238,6 +238,7 @@ UGG([\w- ]+)?(christmas|deal|promot)
 [@\/\.\ ]floguntiet\.info
 [@\/\.\ ]florabiotics\.pw
 [@\/\.\ ]foobar2000.com
+[@\/\.\ ]formcrafts\.com
 [@\/\.\ ]fotodiassisi\.com
 [@\/\.\ ]fredengiforex\.ru
 [@\/\.\ ]fresh-ad\.ru
