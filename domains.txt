@@ -3,8 +3,8 @@
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
 #[@\/]([\w-]+)\.(biz|cl|info|pw)
-Subject:.* UGG .*(christmas|gift|sale|xmas)
-UGG([\w- ]+)?(christmas|deal|promot)
+Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
+Subject:.* Bags.*(%|discount)
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
 [@\/\.\ ]([\w-]+)?(funeral|herb|mall|pill|private|pure|purchase|reward|shop|store)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
