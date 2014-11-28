@@ -13,6 +13,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
 [@\/\.\ ]([\w-]+)?megoldas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
+[@\/\.\ ]([\w-]+)\.com.au
 [@\/\.\ ]([\w-]+)\.us\.com
 [@\/\.\ ]([\w-]+)com\.(ar|hk)
 [@\/\.\ ]([\w-]+)contact\.com
@@ -571,7 +572,6 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]snipr\.com
 [@\/\.\ ]socialsyrup\.hu
 [@\/\.\ ]socialwellnessemail\.com
-[@\/\.\ ]softassist\.com.au
 [@\/\.\ ]sohu\.com
 [@\/\.\ ]specs\.net
 [@\/\.\ ]spublishinggroup\.net
