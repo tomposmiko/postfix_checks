@@ -95,6 +95,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]bill\.com
 [@\/\.\ ]bioandlifescience\.org
 [@\/\.\ ]biofingerprint\.com
+[@\/\.\ ]bitly\.com
 [@\/\.\ ]biz2promo\.com
 [@\/\.\ ]biztonsagban\.TLD
 [@\/\.\ ]biztonsagbanvannak\.com
