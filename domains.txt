@@ -622,6 +622,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]tnd\.it
 [@\/\.\ ]tonkalast\.com
 [@\/\.\ ]topbandled\.com
+[@\/\.\ ]tozsde-etelfutar\.hu
 [@\/\.\ ]tradetracker\.net
 [@\/\.\ ]trainhr\.com
 [@\/\.\ ]trendsservicesurvey\.com
