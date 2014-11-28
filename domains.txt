@@ -33,6 +33,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
 [@\/\.\ ](el|ki)rak\.net
 [@\/\.\ ](i)?europe\.com
+[@\/\.\ ].*provdn=2Ecom
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
 [@\/\.\ ]6500creditcard\.com
@@ -251,6 +252,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]foobar2000.com
 [@\/\.\ ]formcrafts\.com
 [@\/\.\ ]fotodiassisi\.com
+[@\/\.\ ]foundhappy\.us
 [@\/\.\ ]fredengiforex\.ru
 [@\/\.\ ]fresh-ad\.ru
 [@\/\.\ ]fudo\.hu
@@ -524,7 +526,6 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]projobnetwork\.info
 [@\/\.\ ]promociocentrum\.TLD
 [@\/\.\ ]protopmail\.com
-[@\/\.\ ].*provdn=2Ecom
 [@\/\.\ ]proxy-imagecache\.com
 [@\/\.\ ]pusauro\.com
 [@\/\.\ ]pusauro\.info
