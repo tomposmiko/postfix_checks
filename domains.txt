@@ -60,6 +60,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]alto-labs\.com
 [@\/\.\ ]alumnidirector\.com
 [@\/\.\ ]amazonlocal\.com
+[@\/\.\ ]american-image\.com
 [@\/\.\ ]amtelmail\.hu
 [@\/\.\ ]anhuaalbums\.com
 [@\/\.\ ]animal(-)?alarm([\w-]+)?\.TLD
