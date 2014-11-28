@@ -565,6 +565,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]seedserver\.co
 [@\/\.\ ]seek-studio\.com
 [@\/\.\ ]segitek\.hu
+[@\/\.\ ]selectbio\.com
 [@\/\.\ ]sendstorm\.biz
 [@\/\.\ ]sentir7\.com
 [@\/\.\ ]settour\.com.tw
