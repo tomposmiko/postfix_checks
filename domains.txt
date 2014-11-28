@@ -298,6 +298,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]hitech-expo\.com
 [@\/\.\ ]hiworld\.us
 [@\/\.\ ]holdkapu\.com
+[@\/\.\ ]hongkongmastertailor\.net
 [@\/\.\ ]hoteljobs\.hu
 [@\/\.\ ]hotelpromo\.eu
 [@\/\.\ ]hr-controlling\.com
