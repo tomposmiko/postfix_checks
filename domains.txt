@@ -29,6 +29,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.com
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.info
 [@\/\.\ ]([\w-]+)trainonline\.com
+[@\/\.\ ]([\w-]+)xsn.com
 [@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
 [@\/\.\ ](el|ki)rak\.net
 [@\/\.\ ](i)?europe\.com
