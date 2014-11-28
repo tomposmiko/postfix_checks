@@ -556,6 +556,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]salesforay\.com
 [@\/\.\ ]salesjobs\.com
 [@\/\.\ ]sarastoneclub\.com
+[@\/\.\ ]scidata\.info
 [@\/\.\ ]sciencebg\.net
 [@\/\.\ ]scienceboard\.net
 [@\/\.\ ]sciencepublishinggroup\.com
