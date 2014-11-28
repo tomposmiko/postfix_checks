@@ -21,6 +21,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]([\w-]+)insider.com
 [@\/\.\ ]([\w-]+)marketing\.com
 [@\/\.\ ]([\w-]+)mikulas([\w-]+)\.TLD
+[@\/\.\ ]([\w-]+)offers\.com
 [@\/\.\ ]([\w-]+)plaque(s)?\.com
 [@\/\.\ ]([\w-]+)serviceses\.cn
 [@\/\.\ ]([\w-]+)telapo\.com
