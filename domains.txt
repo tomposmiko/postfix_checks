@@ -274,6 +274,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]greatesthealthnews\.com
 [@\/\.\ ]greenlight\.23net\.hu
 [@\/\.\ ]greentechnic\.eu
+[@\/\.\ ]gruppouniesse\.it
 [@\/\.\ ]gtcbio\.com
 [@\/\.\ ]gte-cn\.com
 [@\/\.\ ]gurim-nh\.com
