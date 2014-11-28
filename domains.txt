@@ -15,7 +15,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.com.au
 [@\/\.\ ]([\w-]+)\.us\.com
-[@\/\.\ ]([\w-]+)com\.(cn|ar|hk)
+[@\/\.\ ]([\w-]+)com\.(ar|br|cn|hk)
 [@\/\.\ ]([\w-]+)contact\.com
 [@\/\.\ ]([\w-]+)engine\.com
 [@\/\.\ ]([\w-]+)guideline\.com
