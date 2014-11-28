@@ -435,6 +435,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]mow\.so
 [@\/\.\ ]mrc77\.org
 [@\/\.\ ]msgfocus\.com
+[@\/\.\ ]multiview\.com
 [@\/\.\ ]munka-hu\.com
 [@\/\.\ ]munkaugyilevelek\.hu
 [@\/\.\ ]mus\.ae
