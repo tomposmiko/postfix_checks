@@ -120,6 +120,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]business-review-webinars\.com.com
 [@\/\.\ ]businesswatchnetwork\.com
 [@\/\.\ ]buy-it-now\.me
+[@\/\.\ ]buybrews\.com
 [@\/\.\ ]camarela\.org
 [@\/\.\ ]campit([\w-]+)?\.com
 [@\/\.\ ]careerbuildereu\.com
