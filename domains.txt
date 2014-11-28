@@ -319,6 +319,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]info-emailer\.com
 [@\/\.\ ]infoagesys\.com
 [@\/\.\ ]infoaxe\.net
+[@\/\.\ ]infonortics\.com
 [@\/\.\ ]infotraining.info
 [@\/\.\ ]ingnyugdijbiztositas\.hu
 [@\/\.\ ]inkersallstars.com
