@@ -277,7 +277,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]goaomendubo\.com
 [@\/\.\ ]gold-digga\.com
 [@\/\.\ ]goodoffer\.us
-[@\/\.\ ]google\.(co\.nz||co\.za|de|fi|nr|lv|ru)
+[@\/\.\ ]google\.(co\.(nz|za)|de|fi|nr|lv|ru)
 [@\/\.\ ]graduadoyformacion\.com
 [@\/\.\ ]greatesthealthnews\.com
 [@\/\.\ ]greenlight\.23net\.hu
