@@ -2,7 +2,8 @@
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
-[@\/\.\ ]t\.club
+#[@\/\.\ ]\.club
+#[@\/\.\ ]\.cc
 #[@\/]([\w-]+)\.(biz|cl|info|pw)
 Subject:.* Bags.*(%|discount)
 Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
