@@ -524,7 +524,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]projobnetwork\.info
 [@\/\.\ ]promociocentrum\.TLD
 [@\/\.\ ]protopmail\.com
-[@\/\.\ ]provdn=2Ecom
+[@\/\.\ ].*provdn=2Ecom
 [@\/\.\ ]proxy-imagecache\.com
 [@\/\.\ ]pusauro\.com
 [@\/\.\ ]pusauro\.info
