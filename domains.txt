@@ -4,7 +4,7 @@
 #[@\/\.\ ]t\.co
 #[@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
 Subject:.* Bags.*(%|discount)
-Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
+Subject:.* UGG\ 
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
 [@\/\.\ ]([\w-]+)?(assist|funeral|herb|mall|pill|private|pure|purchase|reward|shop|store)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
