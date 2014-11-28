@@ -406,6 +406,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]mendy(\d+)?\.com
 [@\/\.\ ]met\.com
 [@\/\.\ ]metabogepek\.hu
+[@\/\.\ ]mh-logistics\.com
 [@\/\.\ ]michelle-cash-money\.com
 [@\/\.\ ]minibird\.jp
 [@\/\.\ ]mkt([\w-]+)?\.com
