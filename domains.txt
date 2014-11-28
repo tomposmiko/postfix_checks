@@ -539,6 +539,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]reesitebusiness\.com
 [@\/\.\ ]repara\.hu
 [@\/\.\ ]researchcorps\.com
+[@\/\.\ ]researchtechgroup\.com
 [@\/\.\ ]rfactorevolution\.com
 [@\/\.\ ]riaszt([\w-]+)?\.TLD
 [@\/\.\ ]richter10point2\.com
