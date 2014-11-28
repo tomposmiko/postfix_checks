@@ -467,6 +467,8 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]nveststroi\.net
 [@\/\.\ ]nyomda-budapest\.hu
 [@\/\.\ ]nyomda-budapest\.hu
+[@\/\.\ ]obn-24\.com
+[@\/\.\ ]obn-news\.com
 [@\/\.\ ]oc\.org
 [@\/\.\ ]odlex\.com
 [@\/\.\ ]off[3e]r([\w-]+)?\.us
