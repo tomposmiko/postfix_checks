@@ -580,6 +580,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]socialwellnessemail\.com
 [@\/\.\ ]sohu\.com
 [@\/\.\ ]spanyoltanar\.com
+[@\/\.\ ]specifictargets\.com
 [@\/\.\ ]specs\.net
 [@\/\.\ ]spublishinggroup\.net
 [@\/\.\ ]spybackground-fileslooked\.com
