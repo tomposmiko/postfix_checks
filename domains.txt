@@ -507,7 +507,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]pos4u\.org
 [@\/\.\ ]postershopper\.eu
 [@\/\.\ ]potentiels\.ch
-[@\/\.\ ]powerm3\.com
+[@\/\.\ ]power([\w-]+)\.com
 [@\/\.\ ]powermail1\.com
 [@\/\.\ ]powermail\.hu
 [@\/\.\ ]powersave\.com
