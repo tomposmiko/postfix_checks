@@ -653,6 +653,7 @@ Subject:.* UGG .*(christmas|gift|sale|xmas|promot)
 [@\/\.\ ]vitalityfall\.com
 [@\/\.\ ]vn\.ua
 [@\/\.\ ]vonazon\.com
+[@\/\.\ ]vosz-besz\.hu
 [@\/\.\ ]vpn\.by
 [@\/\.\ ]vresp\.com
 [@\/\.\ ]vsnl\.net
