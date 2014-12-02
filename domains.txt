@@ -13,7 +13,6 @@ Subject:.* UGG\
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
 [@\/\.\ ]([\w-]+)?megoldas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
-[@\/\.\ ]([\w-]+)\.com.au
 [@\/\.\ ]([\w-]+)\.us\.com
 [@\/\.\ ]([\w-]+)com\.(ar|br|cn|hk)
 [@\/\.\ ]([\w-]+)contact\.com
