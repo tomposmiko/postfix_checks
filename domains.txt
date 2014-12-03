@@ -1,8 +1,8 @@
+##[@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
 #[@\/\.\ ]
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
-##[@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
 #[\w]+-[\w]+-[\w]+\.com
 Subject:.* Bags.*(%|discount)
 Subject:.* UGG\ 
@@ -13,6 +13,7 @@ Subject:.* UGG\
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
 [@\/\.\ ]([\w-]+)?megoldas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
+[@\/\.\ ]([\w-]+)\.gov\.br
 [@\/\.\ ]([\w-]+)\.us\.com
 [@\/\.\ ]([\w-]+)com\.(ar|br|cn|hk)
 [@\/\.\ ]([\w-]+)contact\.com
