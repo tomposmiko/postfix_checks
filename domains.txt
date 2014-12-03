@@ -414,6 +414,7 @@ Subject:.* UGG\
 [@\/\.\ ]managr(-)?amax(-)?hu\.TLD
 [@\/\.\ ]marcusevansonline\.com
 [@\/\.\ ]marketacquisition\.com
+[@\/\.\ ]maxer\.hu
 [@\/\.\ ]maxwhite([\w-]+)?\.com
 [@\/\.\ ]mdxtsauls\.us
 [@\/\.\ ]mediacenter\.hu
