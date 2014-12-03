@@ -309,7 +309,7 @@ Subject:.* UGG\
 [@\/\.\ ]hitech-expo\.com
 [@\/\.\ ]hiworld\.us
 [@\/\.\ ]holdkapu\.com
-[@\/\.\ ]hongkongmastertailor\.net
+[@\/\.\ ]hongkongmastertailor(s)?\.net
 [@\/\.\ ]hoteljobs\.hu
 [@\/\.\ ]hotelpromo\.eu
 [@\/\.\ ]hr-controlling\.com
