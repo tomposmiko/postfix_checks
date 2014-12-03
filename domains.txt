@@ -462,6 +462,7 @@ Subject:.* UGG\
 [@\/\.\ ]naturebrown\.com
 [@\/\.\ ]nbgitom\.com
 [@\/\.\ ]neked([\w-]+)\.TLD
+[@\/\.\ ]nellaway\.com
 [@\/\.\ ]nem-felejtelek-el\.com
 [@\/\.\ ]neryungri\.ru
 [@\/\.\ ]net\.mx
