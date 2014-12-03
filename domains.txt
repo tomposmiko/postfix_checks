@@ -19,6 +19,7 @@ Subject:.* UGG\
 [@\/\.\ ]([\w-]+)engine\.com
 [@\/\.\ ]([\w-]+)guideline\.com
 [@\/\.\ ]([\w-]+)insider.com
+[@\/\.\ ]([\w-]+)mailinfo\.com
 [@\/\.\ ]([\w-]+)marketing\.com
 [@\/\.\ ]([\w-]+)mikulas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)offers\.com
