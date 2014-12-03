@@ -126,6 +126,7 @@ Subject:.* UGG\
 [@\/\.\ ]camarela\.org
 [@\/\.\ ]campit([\w-]+)?\.com
 [@\/\.\ ]careerbuildereu\.com
+[@\/\.\ ]cargodigital\.net
 [@\/\.\ ]carrollsirishgifts\.com
 [@\/\.\ ]casadeorates\.com\.br
 [@\/\.\ ]cazmerwa\.com
