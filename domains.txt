@@ -426,6 +426,7 @@ Subject:.* UGG\
 [@\/\.\ ]megtakaritas([\w-]+)?\.TLD
 [@\/\.\ ]mendax\.hu
 [@\/\.\ ]mendy(\d+)?\.com
+[@\/\.\ ]messageparadise\.com
 [@\/\.\ ]met\.com
 [@\/\.\ ]metabogepek\.hu
 [@\/\.\ ]mh-logistics\.com
