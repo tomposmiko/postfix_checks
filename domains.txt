@@ -697,6 +697,7 @@ Subject:.* UGG\
 [@\/\.\ ]wifi[\w-]+-hu\.TLD
 [@\/\.\ ]workcenter\.hu
 [@\/\.\ ]worldnetclass\.com
+[@\/\.\ ]worldofadrenalin\.com
 [@\/\.\ ]worldphotographiccup\.org
 [@\/\.\ ]xastgs\.com
 [@\/\.\ ]xls.hu
