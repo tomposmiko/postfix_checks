@@ -2,7 +2,7 @@
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
-#[@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
+##[@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
 #[\w]+-[\w]+-[\w]+\.com
 Subject:.* Bags.*(%|discount)
 Subject:.* UGG\ 
