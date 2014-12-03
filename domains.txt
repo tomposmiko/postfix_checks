@@ -4,6 +4,7 @@
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
 #[@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
+#[\w]+-[\w]+-[\w]+\.com
 Subject:.* Bags.*(%|discount)
 Subject:.* UGG\ 
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
@@ -707,7 +708,6 @@ Subject:.* UGG\
 [@\/\.\ ]ztouvalve\.com
 [@\/\.\ ]zuggo\.hu
 [@\/\.\ ]zz361\.com
-[\w]+-[\w]+-[\w]+\.com
 [^w]hitel[\w-]+\.TLD
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
