@@ -141,6 +141,7 @@ Subject:.* UGG\
 [@\/\.\ ]china-thd\.com
 [@\/\.\ ]chinabyte\.com
 [@\/\.\ ]citizen-ng\.com
+[@\/\.\ ]clean-techshop\.hu
 [@\/\.\ ]clearslide\.com.com
 [@\/\.\ ]clearslidemail\.com
 [@\/\.\ ]click\.org
@@ -701,6 +702,7 @@ Subject:.* UGG\
 [@\/\.\ ]ynsbfy\.com
 [@\/\.\ ]yooga\.ru
 [@\/\.\ ]youlube\.com
+[@\/\.\ ]z-vps\.hu
 [@\/\.\ ]zbxbn\.com
 [@\/\.\ ]zeus-online\.hu
 [@\/\.\ ]zhiyinqipai\.com
