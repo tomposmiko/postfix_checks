@@ -588,6 +588,7 @@ Subject:.* UGG\
 [@\/\.\ ]shusongjicn\.com
 [@\/\.\ ]si-store\.com
 [@\/\.\ ]silversoftwaretech\.com
+[@\/\.\ ]sinohuaxia\.com
 [@\/\.\ ]sitynur\.ru
 [@\/\.\ ]smartling\.com
 [@\/\.\ ]smtp-power\.com
