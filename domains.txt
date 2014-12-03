@@ -348,6 +348,7 @@ Subject:.* UGG\
 [@\/\.\ ]irtaglobal\.com
 [@\/\.\ ]iscnewsletter\.TLD
 [@\/\.\ ]itdatalicense\.com
+[@\/\.\ ]itechmass\.com
 [@\/\.\ ]ithang\.ru
 [@\/\.\ ]jaffassociati\.it
 [@\/\.\ ]jbhouseware\.com
