@@ -14,6 +14,7 @@ Subject:.* UGG\
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.gov\.br
 [@\/\.\ ]([\w-]+)\.us\.com
+[@\/\.\ ]([\w-]+)chi.com
 [@\/\.\ ]([\w-]+)com\.(ar|br|cn|hk)
 [@\/\.\ ]([\w-]+)contact\.com
 [@\/\.\ ]([\w-]+)engine\.com
