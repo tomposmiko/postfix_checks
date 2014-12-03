@@ -1,4 +1,3 @@
-##[@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
 #[@\/\.\ ]
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
@@ -708,6 +707,7 @@ Subject:.* UGG\
 [@\/\.\ ]ztouvalve\.com
 [@\/\.\ ]zuggo\.hu
 [@\/\.\ ]zz361\.com
+[@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
 [^w]hitel[\w-]+\.TLD
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
