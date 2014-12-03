@@ -259,6 +259,7 @@ Subject:.* UGG\
 [@\/\.\ ]fredengiforex\.ru
 [@\/\.\ ]fresh-ad\.ru
 [@\/\.\ ]fudo\.hu
+[@\/\.\ ]fullmoonhostel\.com
 [@\/\.\ ]fullpower([\w-]+)?\.com
 [@\/\.\ ]futureevent\.hu
 [@\/\.\ ]gabonfmonline\.com
