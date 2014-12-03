@@ -1,6 +1,5 @@
 #[@\/\.\ ]
 #[@\/\.\ ]\d\d\d\.TLD
-#[@\/\.\ ]mcsv\.net
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
 #[@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
