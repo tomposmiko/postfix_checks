@@ -231,7 +231,7 @@ Subject:.* UGG\
 [@\/\.\ ]ethicalseoprovider\.com
 [@\/\.\ ]euf\.hu
 [@\/\.\ ]eur-business\.com
-[@\/\.\ ]europs(career|job)\.com
+[@\/\.\ ]europ([\w-]+)?(career|job)\.(com|net)
 [@\/\.\ ]evergage\.com
 [@\/\.\ ]execreps\.com
 [@\/\.\ ]executive-reports\.com
