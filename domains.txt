@@ -6,7 +6,7 @@
 Subject:.* Bags.*(%|discount)
 Subject:.* UGG\ 
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
-[@\/\.\ ]([\w-]+)?(assist|funeral|herb|mall|pill|private|pure|purchase|reward|shop|store)([\w-]+)?\.ru
+[@\/\.\ ]([\w-]+)?(assist|funeral|herb|mall|pill|private|pure|purchase|reward|sale|shop|store)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
