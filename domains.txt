@@ -436,6 +436,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]messageparadise\.com
 [@\/\.\ ]met\.com
 [@\/\.\ ]metabogepek\.hu
+[@\/\.\ ]metrofax\.com
 [@\/\.\ ]mh-logistics\.com
 [@\/\.\ ]michelle-cash-money\.com
 [@\/\.\ ]minibird\.jp
