@@ -638,6 +638,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]th-display\.com
 [@\/\.\ ]theattachmategroup\.com
 [@\/\.\ ]thecornerstonegroupinc\.com
+[@\/\.\ ]theobio([\w-]+)\.it
 [@\/\.\ ]thesyriamail\.com
 [@\/\.\ ]theurbanheels\.com
 [@\/\.\ ]thinkbeforeprinting\.org
@@ -663,6 +664,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]ukbusinessdata\.uk.com
 [@\/\.\ ]uksalesskillsaudit.com
 [@\/\.\ ]unclaimedassets\.co\.uk
+[@\/\.\ ]unica\.it
 [@\/\.\ ]unsubscribdeme\.us
 [@\/\.\ ]uob-limited\.com
 [@\/\.\ ]uobgroup\.com
