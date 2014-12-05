@@ -29,8 +29,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]([\w-]+)serviceses\.cn
 [@\/\.\ ]([\w-]+)telapo\.com
 [@\/\.\ ]([\w-]+)thai\.com
-[@\/\.\ ]([\w-]+)training([\w-]+)?\.com
-[@\/\.\ ]([\w-]+)training([\w-]+)?\.info
+[@\/\.\ ]([\w-]+)training([\w-]+)?\.(com|info)
 [@\/\.\ ]([\w-]+)trainonline\.com
 [@\/\.\ ]([\w-]+)xsn.com
 [@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
@@ -500,6 +499,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]oceanbear\.com
 [@\/\.\ ]odlex\.com
 [@\/\.\ ]off[3e]r([\w-]+)?\.us
+[@\/\.\ ]olcsonjot\.me
 [@\/\.\ ]olivosmedia\.com
 [@\/\.\ ]olobag2\.com
 [@\/\.\ ]omicsonline\.us
@@ -525,6 +525,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]petsbook\.hu
 [@\/\.\ ]pgiftsandincentives\.com
 [@\/\.\ ]phdvirtual\.com
+[@\/\.\ ]pihenestipp\.hu
 [@\/\.\ ]pivotal-solutions\.net
 [@\/\.\ ]plannet-bressuire\.com
 [@\/\.\ ]popularstruggle\.com
