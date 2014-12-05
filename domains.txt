@@ -95,6 +95,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]beats-design\.com
 [@\/\.\ ]bestdealz-mail\.com
 [@\/\.\ ]bestmarkt\.hu
+[@\/\.\ ]bestscandinavia\.com
 [@\/\.\ ]beykozrotary\.org
 [@\/\.\ ]bicheng-pcb\.com 
 [@\/\.\ ]bichengpcb\.com
@@ -460,6 +461,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]musiczaclub\.com
 [@\/\.\ ]muszeroldal\.hu
 [@\/\.\ ]mybudapestjob.com
+[@\/\.\ ]mymaildeal\.com
 [@\/\.\ ]mynews1\.com
 [@\/\.\ ]mynews1mobileapp\.info
 [@\/\.\ ]mypinpointe\.com
@@ -652,6 +654,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]tonkalast\.com
 [@\/\.\ ]topbandled\.com
 [@\/\.\ ]tozsde-etelfutar\.hu
+[@\/\.\ ]trackinguniversal\.com
 [@\/\.\ ]tradetracker\.net
 [@\/\.\ ]trainhr\.com
 [@\/\.\ ]trendsservicesurvey\.com
