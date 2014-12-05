@@ -562,6 +562,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]reesitebusiness\.com
 [@\/\.\ ]repara\.hu
 [@\/\.\ ]researchcorps\.com
+[@\/\.\ ]researchontech\.com
 [@\/\.\ ]researchtechgroup\.com
 [@\/\.\ ]rfactorevolution\.com
 [@\/\.\ ]riaszt([\w-]+)?\.TLD
