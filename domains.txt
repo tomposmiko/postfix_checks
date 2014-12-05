@@ -690,6 +690,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]webdevelopersrus\.com
 [@\/\.\ ]webdigitech\.com
 [@\/\.\ ]webhosting-network-services\.com
+[@\/\.\ ]webmarketing123\.com
 [@\/\.\ ]webpronews\.com
 [@\/\.\ ]webrankonline\.com
 [@\/\.\ ]webshop(-)?[0-9]+\.com
