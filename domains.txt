@@ -358,6 +358,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]ithang\.ru
 [@\/\.\ ]itxpertpanel\.com
 [@\/\.\ ]jaffassociati\.it
+[@\/\.\ ]jasonzh\.com
 [@\/\.\ ]jbhouseware\.com
 [@\/\.\ ]jerriwohlacafa\.us
 [@\/\.\ ]jesuninfo\.com
