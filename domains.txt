@@ -706,6 +706,7 @@ Subject:.*Ray\ Ban.*(discount|%)
 [@\/\.\ ]websiteinformacio\.hu
 [@\/\.\ ]wedrownicy\.org
 [@\/\.\ ]weebly\.com
+[@\/\.\ ]wellnessrelaxing\.eu
 [@\/\.\ ]wellsfargo\.com
 [@\/\.\ ]wgfw\.info
 [@\/\.\ ]whatworksbook\.com
