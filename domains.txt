@@ -16,6 +16,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]([\w-]+)\.com\.(ar|br|cn|hk)
 [@\/\.\ ]([\w-]+)\.gov\.br
 [@\/\.\ ]([\w-]+)\.us\.com
+[@\/\.\ ]([\w-]+)buyer([\w-]+)\.com
 [@\/\.\ ]([\w-]+)chi.com
 [@\/\.\ ]([\w-]+)contact\.com
 [@\/\.\ ]([\w-]+)engine\.com
@@ -357,7 +358,6 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]itdatalicense\.com
 [@\/\.\ ]itechmass\.com
 [@\/\.\ ]ithang\.ru
-[@\/\.\ ]itprobuyersguide\.com
 [@\/\.\ ]itxpertpanel\.com
 [@\/\.\ ]jaffassociati\.it
 [@\/\.\ ]jasonzh\.com
