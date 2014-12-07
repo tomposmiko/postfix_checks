@@ -3,8 +3,8 @@
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
 #[\w]+-[\w]+-[\w]+\.com
-Subject:.* Bags.*(%|discount)
-Subject:.* UGG\ 
+Subject: UGG
+Subject:.*(bags|drugstore).*(%|discount|sale)
 Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
 [@\/\.\ ]([\w-]+)?(assist|funeral|herb|mall|pill|private|pure|purchase|reward|sale|shop|store)([\w-]+)?\.ru
