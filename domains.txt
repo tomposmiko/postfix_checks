@@ -13,7 +13,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
 [@\/\.\ ]([\w-]+)?megoldas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
-[@\/\.\ ]([\w-]+)\.com\.(ar|br|cn|hk)
+[@\/\.\ ]([\w-]+)\.com\.(ar|br|hk)
 [@\/\.\ ]([\w-]+)\.gov\.br
 [@\/\.\ ]([\w-]+)\.us\.com
 [@\/\.\ ]([\w-]+)buyer([\w-]+)\.com
