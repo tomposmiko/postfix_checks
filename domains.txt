@@ -550,6 +550,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]promociocentrum\.TLD
 [@\/\.\ ]protopmail\.com
 [@\/\.\ ]proxy-imagecache\.com
+[@\/\.\ ]purchaserequests\.com
 [@\/\.\ ]pusauro\.com
 [@\/\.\ ]pusauro\.info
 [@\/\.\ ]pwm8\.com
