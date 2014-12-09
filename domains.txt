@@ -128,6 +128,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]businesswatchnetwork\.com
 [@\/\.\ ]buy-it-now\.me
 [@\/\.\ ]buybrews\.com
+[@\/\.\ ]buyercategories\.com
 [@\/\.\ ]camarela\.org
 [@\/\.\ ]campit([\w-]+)?\.com
 [@\/\.\ ]careerbuildereu\.com
