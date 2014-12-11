@@ -42,6 +42,8 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]1esource\.com
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ]\.(cn|do)\.com
+[@\/\.\ ]aad\.hu
+[@\/\.\ ]aadaad\.net
 [@\/\.\ ]above\.com
 [@\/\.\ ]accenture\.com
 [@\/\.\ ]actingchina\.com
