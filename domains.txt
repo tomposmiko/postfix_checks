@@ -307,6 +307,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]happyhomecable\.com
 [@\/\.\ ]harper-beck\.com
 [@\/\.\ ]harperbeckagency\.com
+[@\/\.\ ]hasznosdolgok\.hu
 [@\/\.\ ]hcprintery.com
 [@\/\.\ ]healthyshinyhair-tips\.com
 [@\/\.\ ]heitulong\.com
@@ -323,6 +324,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]hr-controlling\.com
 [@\/\.\ ]hshoesbuy\.com
 [@\/\.\ ]huersen198\.com
+[@\/\.\ ]hungarymail\.hu
 [@\/\.\ ]husveti-kaszalas\.com
 [@\/\.\ ]i-winway\.com
 [@\/\.\ ]icontact\.com
