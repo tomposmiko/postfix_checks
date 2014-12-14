@@ -8,7 +8,7 @@ Subject:.* UGG
 Subject:.*(bags|drugstore).*(%|discount|sale)
 Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
-[@\/\.\ ]([\w-]+)?(assist|company|deal|emergency|funeral|herb|inc|mall|pill|private|pure|purchase|reward|sale|serve|shop|store|value)([\w-]+)?\.ru
+[@\/\.\ ]([\w-]+)?(assist|company|deal|emergency|funeral|herb|inc|mall|market|pill|private|pure|purchase|reward|sale|serve|shop|store|value)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
