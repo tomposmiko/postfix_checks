@@ -689,6 +689,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]url\.ca
 [@\/\.\ ]vaboomz\.com
 [@\/\.\ ]variedadextreme\.com
+[@\/\.\ ]vasarlasrafel\.com
 [@\/\.\ ]vasarol([\w-]+)?\.TLD
 [@\/\.\ ]vemployee\.com
 [@\/\.\ ]vhost\.hu
