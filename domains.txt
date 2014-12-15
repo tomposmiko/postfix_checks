@@ -534,6 +534,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]pd25\.com
 [@\/\.\ ]pelletkandallo\.hu
 [@\/\.\ ]penrep\.com
+[@\/\.\ ]penzaramlas\.hu
 [@\/\.\ ]performia\.hu
 [@\/\.\ ]petsbook\.hu
 [@\/\.\ ]pgiftsandincentives\.com
