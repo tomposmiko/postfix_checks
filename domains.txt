@@ -735,7 +735,6 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]yadari\.com
 [@\/\.\ ]yahoo\.com.(cn|hk)
 [@\/\.\ ]yancfz\.com
-[@\/\.\ ]yeah\.net
 [@\/\.\ ]yes-us-solar\.com
 [@\/\.\ ]ymail\.com
 [@\/\.\ ]ynsbfy\.com
