@@ -356,6 +356,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]inotex\.com
 [@\/\.\ ]install-new-watchnow\.us
 [@\/\.\ ]int\.kz
+[@\/\.\ ]intermail\.hu
 [@\/\.\ ]internetespenz\.TLD
 [@\/\.\ ]internetmarketingbuzz\.biz
 [@\/\.\ ]inventorymgmtsolutions\.com
