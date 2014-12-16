@@ -447,6 +447,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]metrofax\.com
 [@\/\.\ ]mh-logistics\.com
 [@\/\.\ ]michelle-cash-money\.com
+[@\/\.\ ]mindenalove\.hu
 [@\/\.\ ]minibird\.jp
 [@\/\.\ ]mkt([\w-]+)?\.com
 [@\/\.\ ]mkt5826\.com
