@@ -23,6 +23,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]([\w-]+)contact\.com
 [@\/\.\ ]([\w-]+)engine\.com
 [@\/\.\ ]([\w-]+)guideline\.com
+[@\/\.\ ]([\w-]+)guides\.com
 [@\/\.\ ]([\w-]+)india\.net
 [@\/\.\ ]([\w-]+)insider.com
 [@\/\.\ ]([\w-]+)mailinfo\.com
