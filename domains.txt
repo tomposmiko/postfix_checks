@@ -805,6 +805,7 @@ penz-gyorsan\.com
 penzugyitippek\.com
 praktikustermekek\.com
 riddex([\w-]+)?\.TLD
+shop\.info
 sikeresen\.net
 supplier\.cn
 szekhelybudapest\.hu
