@@ -251,6 +251,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]extra-car-dock\.com
 [@\/\.\ ]exualepton\.info
 [@\/\.\ ]ezustpart\.com
+[@\/\.\ ]f([\w-]+)manufacturers\.com
 [@\/\.\ ]fabrikett\.hu
 [@\/\.\ ]facility-power.hu
 [@\/\.\ ]fadob\.com
