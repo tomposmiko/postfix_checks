@@ -44,6 +44,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
 [@\/\.\ ]6500creditcard\.com
+[@\/\.\ ][\w-]+\.utazas\.hu
 [@\/\.\ ]\.(cn|do)\.com
 [@\/\.\ ]aad\.hu
 [@\/\.\ ]aadaad\.net
