@@ -71,6 +71,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]alto-labs\.com
 [@\/\.\ ]alumnidirector\.com
 [@\/\.\ ]amazonlocal\.com
+[@\/\.\ ]amazonses\.com
 [@\/\.\ ]american-image\.com
 [@\/\.\ ]amtelmail\.hu
 [@\/\.\ ]anhuaalbums\.com
@@ -119,6 +120,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]bocsass([\w-]+)?\.com
 [@\/\.\ ]bonusmini\.com
 [@\/\.\ ]bonuszshop\.com
+[@\/\.\ ]bookdepository\.com
 [@\/\.\ ]borealisz\.hu
 [@\/\.\ ]bove\.com
 [@\/\.\ ]brandingxperts\.net
