@@ -198,6 +198,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]davidmorganstudios\.com
 [@\/\.\ ]dayihose\.com
 [@\/\.\ ]dbpoweramp.com
+[@\/\.\ ]dd-design-alltheweb\.com
 [@\/\.\ ]dealproresearch\.com
 [@\/\.\ ]dedical\.info
 [@\/\.\ ]demandoutreachservicecorp\.com
