@@ -325,6 +325,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]hirlevelkuldo\.org
 [@\/\.\ ]hitech-expo\.com
 [@\/\.\ ]hiworld\.us
+[@\/\.\ ]hm\.hu
 [@\/\.\ ]hogyancsajozz\.com
 [@\/\.\ ]holdkapu\.com
 [@\/\.\ ]hongkongmastertailor(s)?\.net
