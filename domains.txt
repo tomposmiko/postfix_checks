@@ -15,6 +15,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
 [@\/\.\ ]([\w-]+)?megoldas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
+[@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
 [@\/\.\ ]([\w-]+)\.com\.(ar|br|hk)
 [@\/\.\ ]([\w-]+)\.gov\.br
 [@\/\.\ ]([\w-]+)\.us\.com
@@ -37,7 +38,6 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]([\w-]+)training([\w-]+)?\.(com|info)
 [@\/\.\ ]([\w-]+)trainonline\.com
 [@\/\.\ ]([\w-]+)xsn.com
-[@\/\.\ ]([\w]+)\.[a-z]{4}\.ru
 [@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
 [@\/\.\ ](el|ki)rak\.net
 [@\/\.\ ](i)?europe\.com
