@@ -328,6 +328,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]hogyancsajozz\.com
 [@\/\.\ ]holdkapu\.com
 [@\/\.\ ]hongkongmastertailor(s)?\.net
+[@\/\.\ ]hotelellato\.hu
 [@\/\.\ ]hoteljobs\.hu
 [@\/\.\ ]hotelpromo\.eu
 [@\/\.\ ]hr-controlling\.com
