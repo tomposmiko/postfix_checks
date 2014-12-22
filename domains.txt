@@ -2,6 +2,7 @@
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
+([\w-]+)(mail|app)\.info
 Subject:.* Christian .*%
 Subject:.* UGG
 Subject:.*(bags|drugstore).*(%|discount|sale)
@@ -801,7 +802,6 @@ legjobb[\w-]+.com
 legyen-eleg\.com
 lepeselony\.hu
 list\.ru
-mail\.info
 mailsystem\.com
 marketingexpressz\.hu
 maxfelaron\.hu
