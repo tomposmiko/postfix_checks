@@ -269,6 +269,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]flipmailer\.com
 [@\/\.\ ]floguntiet\.info
 [@\/\.\ ]florabiotics\.pw
+[@\/\.\ ]flottinvest\.hu
 [@\/\.\ ]foobar2000.com
 [@\/\.\ ]formcrafts\.com
 [@\/\.\ ]fotodiassisi\.com
