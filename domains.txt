@@ -1,7 +1,6 @@
 #[@\/\.\ ]
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
-#[@\/\.\ ]smtp\.hu
 #[@\/\.\ ]t\.co
 #[\w]+-[\w]+-[\w]+\.com
 Subject:.* Christian .*%
