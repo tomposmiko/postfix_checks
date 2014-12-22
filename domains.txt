@@ -444,7 +444,6 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]maxwhite([\w-]+)?\.com
 [@\/\.\ ]mdxtsauls\.us
 [@\/\.\ ]mediacenter\.hu
-[@\/\.\ ]mediacenter\.hu
 [@\/\.\ ]medic([\w-]+)?\.ru
 [@\/\.\ ]medscompare.com
 [@\/\.\ ]mega-akciok\.TLD
