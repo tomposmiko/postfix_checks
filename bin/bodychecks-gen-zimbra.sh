@@ -22,7 +22,7 @@ fi
 if [ $updated -eq 1 ];
 	then
 		for domain in `grep -v ^\# domains.txt`;do
-            echo "/${domain}([,>\*\/\ ]|$)/   REJECT 'SPAM: `echo ${domain}|sed 's;\[\@\\\/\\\.\\\ \];;'`'"|sed "s;TLD;${TLD};g"
+			echo "/${domain}([,>\*\/\ ]|$)/   REJECT 'SPAM: `echo ${domain}|sed 's;\[\@\\\/\\\.\\\ \];;'`'"|sed "s;TLD;${TLD};g"
 		done > body_checks
 		sudo /opt/zimbra/postfix/sbin/postfix reload
 fi

@@ -1,7 +1,7 @@
 #[@\/\.\ ]
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
-#[@\/\.\ ]t\.co
+[@\/\.\ ]t\.co
 Subject:.* Christian .*%
 Subject:.* UGG
 Subject:.*(bags|drugstore).*(%|discount|sale)
