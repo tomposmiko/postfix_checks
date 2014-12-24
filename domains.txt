@@ -440,7 +440,6 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]managr(-)?amax(-)?hu\.TLD
 [@\/\.\ ]marcusevansonline\.com
 [@\/\.\ ]marketacquisition\.com
-[@\/\.\ ]maxer\.hu
 [@\/\.\ ]maxwhite([\w-]+)?\.com
 [@\/\.\ ]mdxtsauls\.us
 [@\/\.\ ]mediacenter\.hu
