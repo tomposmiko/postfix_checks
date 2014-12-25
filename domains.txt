@@ -2,6 +2,7 @@
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
+#[@\/\.\ ]t\.co
 ([\w-]+)(mail|app)\.info
 Subject:.* Christian .*%
 Subject:.* UGG
@@ -259,6 +260,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]fabrikett\.hu
 [@\/\.\ ]facility-power.hu
 [@\/\.\ ]fadob\.com
+[@\/\.\ ]familyz-protection\.eu
 [@\/\.\ ]faxcorp\.co
 [@\/\.\ ]fblx\.net
 [@\/\.\ ]fendermail\.com
