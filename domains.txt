@@ -790,7 +790,7 @@ horkolasnak-vege\.com
 horkolsz\.com
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
-http:\/\/([\w-]+)med([\w-]+)\.com\/\?([\w]+)
+http:\/\/([\w-]+)med([\w-]+)\.com\/\?([\w\$]+)
 hyaluron[\w-]+\.TLD
 idevnews\.com
 ingyen([\w-]+)?\.hu
