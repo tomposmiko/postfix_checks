@@ -1,5 +1,4 @@
 #[@\/\.\ ]
-#[@\/\.\ ]([\w-]+)health([\w-]+)\.in
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
@@ -10,6 +9,7 @@ Subject:.* UGG
 Subject:.*(bags|drugstore).*(%|discount|sale)
 Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
+[@\/\.\ ]([\w-]+)(health|diabet)([\w-]+)\.in
 [@\/\.\ ]([\w-]+)?(assist|bargain|candidate|company|deal|emergency|funeral|herb|inc|mall|market|perfect|pill|private|pure|purchase|quality|reward|sale|serve|shop|store|supply|value)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
@@ -762,6 +762,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]zz361\.com
 [@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
 [^w]hitel[\w-]+\.TLD
+^http:\/\/([\w-\.]+)\.([\w-]+)\.(com|eu)\/\?([\w\$]+)$
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
 apro(-)?(hir|info|oldal)([\w-]+)?\.hu
@@ -790,7 +791,6 @@ hatekony[\w-]+kovetes\.TLD
 healthcare\.co\.uk
 horkolasnak-vege\.com
 horkolsz\.com
-^http:\/\/([\w-\.]+)\.([\w-]+)\.(com|eu)\/\?([\w\$]+)$
 http:\/\/([\w-\.]+)med([\w-]+)\.com\/\?([\w\$]+)
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
