@@ -9,7 +9,6 @@ Subject:.* UGG
 Subject:.*(bags|drugstore).*(%|discount|sale)
 Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
-[@\/\.\ ]([\w-]+)(health|deal|diabet)([\w-]+)\.in
 [@\/\.\ ]([\w-]+)?(assist|bargain|candidate|company|deal|emergency|funeral|herb|inc|mall|market|perfect|pill|private|pure|purchase|quality|reward|sale|serve|shop|store|supply|value)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
@@ -794,6 +793,7 @@ horkolsz\.com
 http:\/\/([\w-\.]+)med([\w-]+)\.com\/\?([\w\$]+)
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
+http:\/\/www\.([\w]+)-([\w]+)\.in
 hyaluron[\w-]+\.TLD
 idevnews\.com
 ingyen([\w-]+)?\.hu
