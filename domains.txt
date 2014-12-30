@@ -525,6 +525,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]odlex\.com
 [@\/\.\ ]off[3e]r([\w-]+)?\.us
 [@\/\.\ ]olcsonjot\.me
+[@\/\.\ ]olcsovasar\.com
 [@\/\.\ ]olivosmedia\.com
 [@\/\.\ ]olobag2\.com
 [@\/\.\ ]omicsonline\.us
