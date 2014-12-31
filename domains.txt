@@ -422,7 +422,6 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]listzhunter\.com
 [@\/\.\ ]liteurl\.dk
 [@\/\.\ ]livas\.lv
-[@\/\.\ ]live\.cn
 [@\/\.\ ]livenaturals\.hu
 [@\/\.\ ]lnke\.in
 [@\/\.\ ]lq899\.com
