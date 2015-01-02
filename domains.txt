@@ -795,6 +795,7 @@ horkolsz\.com
 http:\/\/([\w-\.]+)med([\w-]+)\.com\/\?([\w\$]+)
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
+http:\/\/www\.([\w-]+)\.in
 http:\/\/www\.([\w]+)-([\w]+)\.in
 hyaluron[\w-]+\.TLD
 idevnews\.com
