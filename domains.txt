@@ -206,6 +206,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]demandoutreachservicecorp\.com
 [@\/\.\ ]diavelthailand\.com
 [@\/\.\ ]dicpi\.co
+[@\/\.\ ]dingmengmould\.com
 [@\/\.\ ]discovercoolwebsites\.com
 [@\/\.\ ]discovery-summit\.com
 [@\/\.\ ]distribio\.com
