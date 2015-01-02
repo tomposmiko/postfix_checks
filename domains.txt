@@ -29,6 +29,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]([\w-]+)insider.com
 [@\/\.\ ]([\w-]+)mailinfo\.com
 [@\/\.\ ]([\w-]+)marketing\.com
+[@\/\.\ ]([\w-]+)medsservice([\w-]+)\.com
 [@\/\.\ ]([\w-]+)mikulas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)offers\.com
 [@\/\.\ ]([\w-]+)plaque(s)?\.com
