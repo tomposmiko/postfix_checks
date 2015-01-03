@@ -4,6 +4,7 @@
 #[@\/\.\ ]t\.co
 #[@\/\.\ ]t\.co
 ([\w-]+)(mail|app)\.info
+Russian.*wife
 Subject:.* Christian .*%
 Subject:.* UGG
 Subject:.*(bags|drugstore).*(%|discount|sale)
