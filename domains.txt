@@ -583,6 +583,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]qweamedish\.info
 [@\/\.\ ]r102\.com
 [@\/\.\ ]reachmail\.net
+[@\/\.\ ]readyfor2015\.net
 [@\/\.\ ]readytalk\.com
 [@\/\.\ ]reasonstobeer\.com
 [@\/\.\ ]recipientmail\.co\.uk
