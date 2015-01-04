@@ -765,7 +765,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]zz361\.com
 [@\/]([\w-]+)\.(biz|cc|cl|club|info|ir|pw)
 [^w]hitel[\w-]+\.TLD
-^http:\/\/([\w-\.]+)\.(-)?([\w-]+)\.(com|eu)\/\?([\w\$]+)$
+^http:\/\/www\.([\w-]+)\.(com|eu)\/\?([\w\$]+)$
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
 apro(-)?(hir|info|oldal)([\w-]+)?\.hu
@@ -797,8 +797,8 @@ horkolsz\.com
 http:\/\/([\w-\.]+)med([\w-]+)\.com\/\?([\w\$]+)
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
-http:\/\/www\.([\w-]+)\.in
-http:\/\/www\.([\w]+)-([\w]+)\.in
+http:\/\/www\.([\w-]+)(-([\w]+))?\.in
+http:\/\/www\.([\w]+)(-)([\w]+)\.eu\/([\w]+)\.html$
 hyaluron[\w-]+\.TLD
 idevnews\.com
 ingyen([\w-]+)?\.hu
