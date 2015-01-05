@@ -766,6 +766,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 ^http:\/\/([\w-]+)\.([\w-]+)\.(com|eu)\/
 ^http:\/\/www\.([\w-]+)\.(com|eu)\/\?([\w]+)
 ^http:\/\/www\.([\w]+)(-)([\w]+)\.eu\/([\w\/]+)\.html
+adsystem\.com
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
 apro(-)?(hir|info|oldal)([\w-]+)?\.hu
