@@ -793,6 +793,7 @@ gaymassage([\w-]+)?\.com
 haszon\.hu
 hatekony[\w-]+kovetes\.TLD
 healthcare\.co\.uk
+healthexchange\.com
 horkolasnak-vege\.com
 horkolsz\.com
 http:\/\/(([\w-\]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w\$]+)
