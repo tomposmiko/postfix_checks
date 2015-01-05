@@ -766,7 +766,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/]([\w-]+)\.(cc|cl|club|info|ir|pw)
 [^w]hitel[\w-]+\.TLD
 ^http:\/\/([\w-]+)\.([\w-]+)\.(com|eu)\/$
-^http:\/\/www\.([\w-]+)\.(com|eu)\/\?([\w\$]+)$
+^http:\/\/www\.([\w-]+)\.(com|eu)\/\?([\w]+)$
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
 apro(-)?(hir|info|oldal)([\w-]+)?\.hu
