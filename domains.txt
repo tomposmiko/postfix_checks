@@ -796,7 +796,7 @@ hatekony[\w-]+kovetes\.TLD
 healthcare\.co\.uk
 horkolasnak-vege\.com
 horkolsz\.com
-http:\/\/([\w-\.]+)med([\w-]+)\.com\/\?([\w\$]+)
+http:\/\/(([\w-\]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w\$]+)
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
 http:\/\/www\.([\w-]+)(-([\w]+))?\.in
