@@ -644,6 +644,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]spybackground-fileslooked\.com
 [@\/\.\ ]squadhouse-media\.de
 [@\/\.\ ]srtrust\.org.in
+[@\/\.\ ]ssdplans\.com
 [@\/\.\ ]ssldirecto\.com
 [@\/\.\ ]sso-unidadfinanzas\.com
 [@\/\.\ ]strongalertlogical\.com
