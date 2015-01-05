@@ -2,7 +2,6 @@
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
-#[@\/\.\ ]t\.co
 ([\w-]+)(mail|app)\.info
 Russian.*(girl|wife)
 Subject:.* Christian .*%
@@ -764,7 +763,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]ztouvalve\.com
 [@\/\.\ ]zuggo\.hu
 [@\/\.\ ]zz361\.com
-[@\/]([\w-]+)\.(cc|cl|club|info|ir|pw)
+[@\/]([\w-]+)\.(cc|cl|club|co|info|ir|pw)
 [^w]hitel[\w-]+\.TLD
 ^http:\/\/([\w-]+)\.([\w-]+)\.(com|eu)\/$
 ^http:\/\/www\.([\w-]+)\.(com|eu)\/\?([\w\$]+)$
