@@ -146,6 +146,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]carrollsirishgifts\.com
 [@\/\.\ ]cazmerwa\.com
 [@\/\.\ ]cegescucc\.TLD
+[@\/\.\ ]cegkivonatmost\.hu
 [@\/\.\ ]cellodevelopers\.net
 [@\/\.\ ]ceosalesevents\.com
 [@\/\.\ ]ceosalestraining-online\.net
