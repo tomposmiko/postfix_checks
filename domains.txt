@@ -644,6 +644,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]ssdplans\.com
 [@\/\.\ ]ssldirecto\.com
 [@\/\.\ ]sso-unidadfinanzas\.com
+[@\/\.\ ]streamsend\.com
 [@\/\.\ ]strongalertlogical\.com
 [@\/\.\ ]studio98\.com
 [@\/\.\ ]subsbloomberg\.com
@@ -760,7 +761,6 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]ziffdavismail\.com
 [@\/\.\ ]ztouvalve\.com
 [@\/\.\ ]zuggo\.hu
-[@\/\.\ ]zz361\.com
 [@\/]([\w-]+)\.(cc|cl|club|info|ir|pw)
 [^w]hitel[\w-]+\.TLD
 ^http:\/\/([\w-]+)\.([\w-]+)\.(com|eu)\/
