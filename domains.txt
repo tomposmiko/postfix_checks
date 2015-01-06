@@ -445,6 +445,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]mailmiracle\.net
 [@\/\.\ ]mailole\.info
 [@\/\.\ ]managr(-)?amax(-)?hu\.TLD
+[@\/\.\ ]manticoretechnology\.com
 [@\/\.\ ]marcusevansonline\.com
 [@\/\.\ ]marketacquisition\.com
 [@\/\.\ ]maxwhite([\w-]+)?\.com
