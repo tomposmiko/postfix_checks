@@ -96,6 +96,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]avention\.com
 [@\/\.\ ]awymqo\.com
 [@\/\.\ ]aya-fineguns\.com
+[@\/\.\ ]b21pubs\.com
 [@\/\.\ ]b2btechstreet\.com
 [@\/\.\ ]baivan\.com
 [@\/\.\ ]banjia-2000\.com
