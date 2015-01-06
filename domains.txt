@@ -418,6 +418,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]latp\.by
 [@\/\.\ ]leadformix\.com
 [@\/\.\ ]leadscloud\.TLD
+[@\/\.\ ]leadsvr([\w-]+)\.com
 [@\/\.\ ]leasecorp\.com
 [@\/\.\ ]ledccy\.com
 [@\/\.\ ]levele\.net
@@ -622,6 +623,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]selectbio\.com
 [@\/\.\ ]sendmail([\w-]+).com
 [@\/\.\ ]sendstorm\.biz
+[@\/\.\ ]sendsvr([\w-]+)\.com
 [@\/\.\ ]sentir7\.com
 [@\/\.\ ]settour\.com.tw
 [@\/\.\ ]shop[\w-]+201([\w-]+)?\.com
