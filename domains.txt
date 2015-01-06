@@ -764,7 +764,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]ziffdavismail\.com
 [@\/\.\ ]ztouvalve\.com
 [@\/\.\ ]zuggo\.hu
-[@\/]([\w-]+)\.(cc|cl|club|info|ir|pw)
+[@\/]([\w-]+)\.(cc|cl|club|info|ir|pro|pw)
 [^w]hitel[\w-]+\.TLD
 ^http:\/\/([\w-]+)\.([\w-]+)\.(com|eu)\/
 ^http:\/\/www\.([\w-]+)\.(com|eu)\/\?([\w]+)
