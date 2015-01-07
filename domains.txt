@@ -66,6 +66,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]agcswelpjv\.us
 [@\/\.\ ]age(star|rast)\.com
 [@\/\.\ ]akarokegyilyet\.hu
+[@\/\.\ ]akneweg\.com
 [@\/\.\ ]alap(-)?ado\.com
 [@\/\.\ ]alap\.net
 [@\/\.\ ]alarm(-)?box\.net
