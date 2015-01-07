@@ -166,6 +166,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]clearslide\.com.com
 [@\/\.\ ]clearslidemail\.com
 [@\/\.\ ]click\.org
+[@\/\.\ ]clickpics\.co
 [@\/\.\ ]clickshop\.hu
 [@\/\.\ ]clicksurecpa\.com
 [@\/\.\ ]climatisation-lg\.com
