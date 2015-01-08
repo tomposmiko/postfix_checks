@@ -3,7 +3,7 @@
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
-[@\/\.\ ]([\w-]+)\.co\/
+[@\/\.\ ]([\w-]+)\.co\/([\w-]+)
 ([\w-]+)(mail|app)\.info
 Russian.*(girl|wife)
 Subject:.* Christian .*%
