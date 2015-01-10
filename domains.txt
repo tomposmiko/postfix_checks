@@ -1,9 +1,7 @@
 #[@\/\.\ ]
-[@\/\.\ ]servicesal\.com
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
-[@\/\.\ ]([\w-]+)\.co\/([\w-]+)
 ([\w-]+)(mail|app)\.info
 Russian.*(girl|wife)
 Subject:.* Christian .*%
@@ -18,6 +16,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]([\w-]+)?megoldas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
+[@\/\.\ ]([\w-]+)\.co\/([\w-]+)
 [@\/\.\ ]([\w-]+)\.com\.(ar|br|hk)
 [@\/\.\ ]([\w-]+)\.gov\.br
 [@\/\.\ ]([\w-]+)\.us\.com
@@ -630,6 +629,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]sendstorm\.biz
 [@\/\.\ ]sendsvr([\w-]+)\.com
 [@\/\.\ ]sentir7\.com
+[@\/\.\ ]servicesal\.com
 [@\/\.\ ]settour\.com.tw
 [@\/\.\ ]shop[\w-]+201([\w-]+)?\.com
 [@\/\.\ ]shusongjicn\.com
@@ -684,6 +684,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]thesyriamail\.com
 [@\/\.\ ]theurbanheels\.com
 [@\/\.\ ]thinkbeforeprinting\.org
+[@\/\.\ ]thinksmoney\.com
 [@\/\.\ ]timesgroup\.com
 [@\/\.\ ]tinyfreeware\.com
 [@\/\.\ ]tisztitoszer-depo\.hu
