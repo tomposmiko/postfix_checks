@@ -562,6 +562,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]petsbook\.hu
 [@\/\.\ ]pgiftsandincentives\.com
 [@\/\.\ ]phdvirtual\.com
+[@\/\.\ ]picbum\.com
 [@\/\.\ ]pihenestipp\.hu
 [@\/\.\ ]pivotal-solutions\.net
 [@\/\.\ ]plannet-bressuire\.com
