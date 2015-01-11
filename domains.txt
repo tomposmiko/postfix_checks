@@ -346,6 +346,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]hr-controlling\.com
 [@\/\.\ ]hshoesbuy\.com
 [@\/\.\ ]huersen198\.com
+[@\/\.\ ]huixinsoft\.pw
 [@\/\.\ ]hungarymail\.hu
 [@\/\.\ ]husveti-kaszalas\.com
 [@\/\.\ ]i-winway\.com
