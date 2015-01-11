@@ -13,6 +13,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
+[@\/\.\ ]([\w-]+)?horvatorszag[\w-]+\.TLD
 [@\/\.\ ]([\w-]+)?megoldas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
@@ -809,6 +810,7 @@ healthcare\.co\.uk
 healthexchange\.com
 horkolasnak-vege\.com
 horkolsz\.com
+horvatorszag([\w-]+)?@[\w-]+\.TLD
 http:\/\/(([\w-\]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w]+)
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
