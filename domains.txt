@@ -840,6 +840,7 @@ nyomkoveto[\w-]+\.com
 penz-gyorsan\.com
 penzugyitippek\.com
 praktikustermekek\.com
+raktarkisopres\.com
 riddex([\w-]+)?\.TLD
 shop\.info
 sikeresen\.net
