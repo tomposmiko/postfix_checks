@@ -72,6 +72,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]alap(-)?ado\.com
 [@\/\.\ ]alap\.net
 [@\/\.\ ]alarm(-)?box\.net
+[@\/\.\ ]alddle\.com
 [@\/\.\ ]alhayatgr\.com
 [@\/\.\ ]alternativa\.fr
 [@\/\.\ ]altervista\.org
