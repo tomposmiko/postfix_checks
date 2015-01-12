@@ -551,6 +551,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]outletvip\.us
 [@\/\.\ ]outsellinc\.com
 [@\/\.\ ]oversea-supply\.com
+[@\/\.\ ]pack\.it
 [@\/\.\ ]para(-)?kapu([\w-]+)?\.TLD
 [@\/\.\ ]parkotelgyula\.hu
 [@\/\.\ ]pb(-)?conferenc([\w-]+)?\.com
@@ -778,8 +779,6 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/]([\w-]+)\.(cc|cl|club|info|ir|pro|pw)
 [^w]hitel[\w-]+\.TLD
 ^http:\/\/([\w-]+)\.([\w-]+)\.(com|eu)\/
-^http:\/\/www\.([\w-]+)\.(com|eu)\/\?([\w]+)
-^http:\/\/www\.([\w]+)(-)([\w]+)\.eu\/([\w\/]+)\.html
 adsystem\.com
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
@@ -815,6 +814,7 @@ http:\/\/(([\w-\]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w]+)
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
 http:\/\/www\.([\w-]+)(-([\w]+))?\.in
+http:\/\/www\.([\w-]+)\.(com|eu)\/([0-9-]+)\/([\w\/]+)\.html
 hyaluron[\w-]+\.TLD
 idevnews\.com
 ingyen([\w-]+)?\.hu
