@@ -328,7 +328,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]happyhomecable\.com
 [@\/\.\ ]harper-beck\.com
 [@\/\.\ ]harperbeckagency\.com
-[@\/\.\ ]hasznosdolgok\.hu
+[@\/\.\ ]hasznos([\w-]+)\.hu
 [@\/\.\ ]hcprintery.com
 [@\/\.\ ]healthyshinyhair-tips\.com
 [@\/\.\ ]heitulong\.com
