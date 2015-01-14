@@ -81,6 +81,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]alumnidirector\.com
 [@\/\.\ ]amazonlocal\.com
 [@\/\.\ ]amazonses\.com
+[@\/\.\ ]america(-)?cream\.com
 [@\/\.\ ]american-image\.com
 [@\/\.\ ]amtelmail\.hu
 [@\/\.\ ]anhuaalbums\.com
