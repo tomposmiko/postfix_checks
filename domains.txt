@@ -437,6 +437,8 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]livas\.lv
 [@\/\.\ ]livenaturals\.hu
 [@\/\.\ ]lnke\.in
+[@\/\.\ ]logianalytics\.com
+[@\/\.\ ]logixml\.com
 [@\/\.\ ]lq899\.com
 [@\/\.\ ]lukaszewitz\.de
 [@\/\.\ ]luxurybagsoutletmall\.com
