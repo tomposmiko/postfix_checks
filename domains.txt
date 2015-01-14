@@ -744,6 +744,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]webmarketing123\.com
 [@\/\.\ ]webpronews\.com
 [@\/\.\ ]webrankonline\.com
+[@\/\.\ ]webscareer\.com
 [@\/\.\ ]webshop(-)?[0-9]+\.com
 [@\/\.\ ]websiteinformacio\.hu
 [@\/\.\ ]wedrownicy\.org
