@@ -49,6 +49,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ].*provdn=2Ecom
 [@\/\.\ ]1eko\.com
 [@\/\.\ ]1esource\.com
+[@\/\.\ ]3dpression\.com
 [@\/\.\ ]6500creditcard\.com
 [@\/\.\ ][\w-]+\.utazas\.hu
 [@\/\.\ ]\.(cn|do)\.com
