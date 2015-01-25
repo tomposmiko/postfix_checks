@@ -3,7 +3,7 @@
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
 ([\w-]+)(mail|app)\.info
-(horvat([\w-]+)orszag|adria([\w-]+))@
+(horvat([\w-]+)orszag|adria([\w-]+)|black([\w-]+)friday)@
 Russian.*(girl|wife)
 Subject:.* Christian .*%
 Subject:.* UGG
