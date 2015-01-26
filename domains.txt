@@ -794,7 +794,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]zuggo\.hu
 [@\/]([\w-]+)\.(cc|cl|club|info|ir|pro|pw)
 [^w]hitel[\w-]+\.TLD
-^http:\/\/([\w-]+)\.([\w-]+)\.eu\/
+^http:\/\/([\w-]+)\.([\w-]+)\.(eu|in)\/
 adsystem\.com
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
