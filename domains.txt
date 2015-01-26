@@ -430,6 +430,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]kutya[\w-]+riaszto[\w-]+\.TLD
 [@\/\.\ ]ladybird\.hu
 [@\/\.\ ]latp\.by
+[@\/\.\ ]lead2tech\.com
 [@\/\.\ ]leadformix\.com
 [@\/\.\ ]leadscloud\.TLD
 [@\/\.\ ]leadsvr([\w-]+)\.com
