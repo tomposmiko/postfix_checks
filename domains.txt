@@ -13,7 +13,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
 [@\/\.\ ]([\w-]+)-([\w-]+)-([\w-]+)\.com
 [@\/\.\ ]([\w-]+)?(assist|bargain|candidate|care|company|deal|emergency|funeral|herb|inc|mall|market|perfect|pill|private|pure|purchase|quality|reward|sale|serve|shop|store|supply|systems|value)([\w-]+)?\.ru
-[@\/\.\ ]([\w-]+)?(karacsony|christmas|xmas)([\w-]+)?\.TLD
+[@\/\.\ ]([\w-]+)?(karacsony|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
 [@\/\.\ ]([\w-]+)?horvatorszag[\w-]+\.TLD
