@@ -240,6 +240,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]ecovapor-tips\.TLD
 [@\/\.\ ]edima\.hu
 [@\/\.\ ]edmbing\.com
+[@\/\.\ ]efax\.com
 [@\/\.\ ]ekvident\.hu
 [@\/\.\ ]elabs11\.com
 [@\/\.\ ]elasticemail\.com
