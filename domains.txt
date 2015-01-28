@@ -692,7 +692,6 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]targetleadsus\.com
 [@\/\.\ ]techcello\.com
 [@\/\.\ ]technologynetworks.com
-[@\/\.\ ]tele\.net
 [@\/\.\ ]temkardelenlerkoleji\.com
 [@\/\.\ ]tengchaochem\.com
 [@\/\.\ ]terrapinn\.com
