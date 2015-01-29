@@ -1,12 +1,12 @@
+ (night) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|ru)
 #[@\/\.\ ]
 #[@\/\.\ ]([\w-]+)-([\w-]+)-([\w-]+)\.com
 #[@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
- (night) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|ru)
-http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|ru).* (night) 
 ([\w-]+)(mail|app)\.info
+(horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
 (horvat([\w-]+)orszag|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 Russian.*(girl|wife)
 Subject:.* Christian .*%
@@ -831,6 +831,7 @@ horkolasnak-vege\.com
 horkolsz\.com
 horvatorszag([\w-]+)?@[\w-]+\.TLD
 http:\/\/(([\w-\]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w]+)
+http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|ru).* (night) 
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
 http:\/\/www\.([\w-]+)(-([\w]+))?\.in
