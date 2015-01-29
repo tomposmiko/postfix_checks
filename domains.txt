@@ -1,10 +1,10 @@
 #[@\/\.\ ]
 #[@\/\.\ ]([\w-]+)-([\w-]+)-([\w-]+)\.com
-( night ).*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|ru)
 #[@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
+( night ).*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|ru)
 ([\w-]+)(mail|app)\.info
 (horvat([\w-]+)orszag|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 Russian.*(girl|wife)
@@ -733,6 +733,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]uobgroup\.com
 [@\/\.\ ]url\.ca
 [@\/\.\ ]vaboomz\.com
+[@\/\.\ ]valamihasznosat\.eu
 [@\/\.\ ]variedadextreme\.com
 [@\/\.\ ]vasarlasrafel\.com
 [@\/\.\ ]vasarol([\w-]+)?\.TLD
