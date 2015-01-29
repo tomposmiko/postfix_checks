@@ -4,7 +4,8 @@
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
-( night ).*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|ru)
+ (night) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|ru)
+http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|ru).* (night) 
 ([\w-]+)(mail|app)\.info
 (horvat([\w-]+)orszag|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 Russian.*(girl|wife)
