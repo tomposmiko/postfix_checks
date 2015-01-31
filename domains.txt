@@ -1,4 +1,4 @@
- (bedroom|night|gf|happy) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)
+ (bedroom|night|gf|happy|women) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)
 #[@\/\.\ ]
 #[@\/\.\ ]([\w-]+)-([\w-]+)-([\w-]+)\.com
 #[@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
@@ -832,7 +832,7 @@ horkolasnak-vege\.com
 horkolsz\.com
 horvatorszag([\w-]+)?@[\w-]+\.TLD
 http:\/\/(([\w-\]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w]+)
-http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru).* (bedroom|gf|happy|night) 
+http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru).* (bedroom|gf|happy|night|women) 
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
 http:\/\/www\.([\w-]+)(-([\w]+))?\.in
