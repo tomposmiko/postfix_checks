@@ -30,6 +30,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]([\w-]+)chi.com
 [@\/\.\ ]([\w-]+)contact\.com
 [@\/\.\ ]([\w-]+)engine\.com
+[@\/\.\ ]([\w-]+)eu-mail\.com
 [@\/\.\ ]([\w-]+)guideline\.com
 [@\/\.\ ]([\w-]+)guides\.com
 [@\/\.\ ]([\w-]+)india\.net
@@ -738,6 +739,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]valamihasznosat\.eu
 [@\/\.\ ]variedadextreme\.com
 [@\/\.\ ]vasarlasrafel\.com
+[@\/\.\ ]vasarnapinyitvatartas\.hu
 [@\/\.\ ]vasarol([\w-]+)?\.TLD
 [@\/\.\ ]vemployee\.com
 [@\/\.\ ]vhost\.hu
@@ -799,6 +801,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]zuggo\.hu
 [@\/]([\w-]+)\.(cc|cl|club|info|ir|pro|pw)
 [^w]hitel[\w-]+\.TLD
+\/emailmarketer\/
 ^http:\/\/([\w-]+)\.([\w-]+)\.(be|eu|in)\/
 adsystem\.com
 akcioink\.hu
