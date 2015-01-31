@@ -284,6 +284,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [@\/\.\ ]familyz-protection\.eu
 [@\/\.\ ]faxcorp\.co
 [@\/\.\ ]fblx\.net
+[@\/\.\ ]felaron([\w-]+)\.com
 [@\/\.\ ]fendermail\.com
 [@\/\.\ ]festoallvany\.hu
 [@\/\.\ ]filtress\.com
