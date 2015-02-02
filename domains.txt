@@ -1,4 +1,4 @@
- (bedroom|(to)?night|gf|lady|happy|women) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)
+ (bedroom|(to)?night|gf|lady|happy|women)( |?).*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)
 #[@\/\.\ ]
 #[@\/\.\ ]([\w-]+)-([\w-]+)-([\w-]+)\.com
 #[@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
