@@ -2,6 +2,7 @@
 
 IFS='
 '
+
 dir_postfix_checks="/opt/etc/postfix_checks"
 
 TLD='(com|net)'
