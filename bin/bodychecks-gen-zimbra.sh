@@ -28,6 +28,8 @@ if [ $updated -eq 1 ];
 		sudo /opt/zimbra/postfix/sbin/postfix reload
 fi
 
+echo > body_checks_misc
+
 exit 0
 if [ $updated -eq 1 ];
     then
