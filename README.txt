@@ -8,5 +8,4 @@ It was created for my personal purposes and represents my taste. It may harm you
 
 Usage
 =====
-
-postxonf -e 'pcre:/etc/postfix/postfix_checks/body_checks_urls, pcre:/etc/postfix/postfix_checks/body_checks_misc'
+postconf -e body_checks='pcre:/etc/postfix/postfix_checks/body_checks_urls, pcre:/etc/postfix/postfix_checks/body_checks_misc'
