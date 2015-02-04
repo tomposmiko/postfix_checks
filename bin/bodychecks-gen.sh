@@ -27,6 +27,8 @@ if [ $updated -eq 1 ];
 		sudo /usr/sbin/postfix reload
 fi
 
+exit 0
+
 if [ $updated -eq 1 ];
     then
         for entry in `grep -v ^\# misc.txt`;do
