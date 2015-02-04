@@ -31,7 +31,7 @@ fi
 if [ $updated -eq 1 ];
     then
         for misc in `grep -v ^\# misc.txt`;do
-            echo "/${misc}/   REJECT 'SPAM: ${misc}'"|sed "s;TLD;${TLD};g"
+            echo "/${misc}/   REJECT 'SPAM: `echo ${misc} | tr -d \$`'"|sed "s;TLD;${TLD};g"
         done > body_checks_misc
 
 		#echo > body_checks_misc
