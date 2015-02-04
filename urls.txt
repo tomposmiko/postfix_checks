@@ -622,9 +622,7 @@
 [@\/\.\ ]robertblabl\.de
 [@\/\.\ ]rockpooldmfile\.com
 [@\/\.\ ]rojanavej\.com
-[@\/\.\ ]rs-tk.com
-[@\/\.\ ]rsac3.com
-[@\/\.\ ]rsvp1.com
+[@\/\.\ ]rsvp1\.com
 [@\/\.\ ]runsom\.com
 [@\/\.\ ]s(z)?tarajanlatok\.com
 [@\/\.\ ]s3-(eu|us)-(east|west)-[\d]\.amazonaws.com
