@@ -10,7 +10,7 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [^w]hitel[\w-]+\.TLD
 \/emailmarketer\/
 ^http:\/\/([\w-]+)\.([\w-]+)\.(be|eu|in)\/
-^http:\/\/([\w-]+)\.([\w-]+)\.com$
+#^http:\/\/([\w-]+)\.([\w-]+)\.com$
 adsystem\.com
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
