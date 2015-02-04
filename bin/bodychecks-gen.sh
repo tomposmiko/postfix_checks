@@ -22,7 +22,7 @@ fi
 if [ $updated -eq 1 ];
 	then
 		for url in `grep -v ^\# urls.txt`;do
-			echo "/${ur}([,>\*\/\ ]|$)/   REJECT 'SPAM: `echo ${url}|sed 's,\[\@\\\/\\\.\\\ \],,'`'"|sed "s,TLD,${TLD},g"
+			echo "/${url}([,>\*\/\ ]|$)/   REJECT 'SPAM: `echo ${url}|sed 's,\[\@\\\/\\\.\\\ \],,'`'"|sed "s,TLD,${TLD},g"
 		done > body_checks_urls
 echo > body_checks_urls
 		sudo /usr/sbin/postfix reload
