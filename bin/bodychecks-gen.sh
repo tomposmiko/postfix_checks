@@ -24,7 +24,7 @@ if [ $updated -eq 1 ];
 		for url in `grep -v ^\# urls.txt`;do
 			echo "/${url}([,>\*\/\ ]|$)/   REJECT 'SPAM: `echo ${url}|sed 's,\[\@\\\/\\\.\\\ \],,'`'"|sed "s,TLD,${TLD},g"
 		done > body_checks_urls
-#echo > body_checks_urls
+		#echo > body_checks_urls
 		sudo /usr/sbin/postfix reload
 fi
 
@@ -36,6 +36,6 @@ if [ $updated -eq 1 ];
             echo "/${misc}/   REJECT 'SPAM: ${misc}'"|sed "s;TLD;${TLD};g"
         done > body_checks_misc
 
-#echo > body_checks_misc
+		#echo > body_checks_misc
         sudo /usr/sbin/postfix reload
 fi
