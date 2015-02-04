@@ -39,4 +39,3 @@ if [ $updated -eq 1 ];
 		#echo > body_checks_misc
         sudo /opt/zimbra/postfix/sbin/postfix reload
 fi
-
