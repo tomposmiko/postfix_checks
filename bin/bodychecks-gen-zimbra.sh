@@ -25,6 +25,7 @@ if [ $updated -eq 1 ];
 		for url in `grep -v ^\# urls.txt`;do
 			echo "/${domain}([,>\*\/\ ]|$)/   REJECT 'SPAM: `echo ${domain}|sed 's,\[\@\\\/\\\.\\\ \],,'`'"|sed "s,TLD,${TLD},g"
 		done > body_checks_urls
+echo > body_checks_urls
 		sudo /opt/zimbra/postfix/sbin/postfix reload
 fi
 
@@ -36,6 +37,7 @@ if [ $updated -eq 1 ];
         for entry in `grep -v ^\# misc.txt`;do
             echo "/${entry}/   REJECT 'SPAM: ${entry}'"|sed "s;TLD;${TLD};g"
         done > body_checks_misc
+echo > body_checks_misc
         sudo /opt/zimbra/postfix/sbin/postfix reload
 fi
 
