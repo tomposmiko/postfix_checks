@@ -707,6 +707,7 @@
 [@\/\.\ ]tnd\.it
 [@\/\.\ ]tonkalast\.com
 [@\/\.\ ]topbandled\.com
+[@\/\.\ ]topszallasok\.hu
 [@\/\.\ ]tozsde-etelfutar\.hu
 [@\/\.\ ]trackinguniversal\.com
 [@\/\.\ ]tradetracker\.net
