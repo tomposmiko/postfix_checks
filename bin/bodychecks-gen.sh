@@ -28,8 +28,6 @@ if [ $updated -eq 1 ];
 		sudo /usr/sbin/postfix reload
 fi
 
-echo > body_checks_misc
-
 if [ $updated -eq 1 ];
     then
         for misc in `grep -v ^\# misc.txt`;do
