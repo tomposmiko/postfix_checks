@@ -1,4 +1,4 @@
- (bedroom|(to)?night|gf|gratify|happy|happiness|intimate|lady|love|satisf(action|y)|women)( |?).*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)
+ (bedroom|(to)?night|gf|gratify|happy|happiness|intimate|lady|love|satisf(action|y)|women) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)
 ([\w-]+)(mail|app)\.info
 (horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
 (horvat([\w-]+)orszag|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
