@@ -58,7 +58,7 @@ kosmodisk([\w-]+)?\.TLD
 kovesdnyomon\.TLD
 kuponjaink\.hu
 leertekeles([\w-]+)?\.com
-legjobb[\w-]+.com
+legjobb[\w-]+\.com
 legyen-eleg\.com
 lepeselony\.hu
 list\.ru
