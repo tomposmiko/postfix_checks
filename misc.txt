@@ -42,7 +42,7 @@ healthexchange\.com
 horkolasnak-vege\.com
 horkolsz\.com
 horvatorszag([\w-]+)?@[\w-]+\.TLD
-http:\/\/(([\w-\]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w]+)
+#http:\/\/(([\w-\]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w]+)
 http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru).* (bedroom|gf|gratify|happ(iness|y)|health|intimate|lady|love|(to)?night|satisf(action|y)|women) 
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
