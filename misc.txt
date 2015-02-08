@@ -1,5 +1,6 @@
-(amaze|bedroom|chick|(to)?night(s)?|gf|gratify|happy|happiness|intimate|lady|live|love|satisf(action|y)|wife|women) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)/
+#^http:\/\/([\w-]+)\.([\w-]+)\.com$
 ([\w-]+)(mail|app)\.info
+(amaze|bedroom|chick|(to)?night(s)?|gf|gratify|happy|happiness|intimate|lady|live|love|satisf(action|y)|wife|women) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)/
 (horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
 (horvat([\w-]+)orszag|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 Russian.*(girl|wife)
@@ -10,7 +11,6 @@ Subject:.*Ray(\ )?Ban.*(discount|%)
 [^w]hitel[\w-]+\.TLD
 \/emailmarketer\/
 ^http:\/\/([\w-]+)\.([\w-]+)\.(be|eu|in)\/
-#^http:\/\/([\w-]+)\.([\w-]+)\.com$
 adsystem\.com
 akcioink\.hu
 alkatresz(ar|bolt)\.hu
