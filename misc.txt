@@ -1,4 +1,4 @@
- (amaze|bedroom|chick|(to)?night(s)?|gf|gratify|happy|happiness|intimate|lady|live|love|satisf(action|y)|wife|women) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)/
+(amaze|bedroom|chick|(to)?night(s)?|gf|gratify|happy|happiness|intimate|lady|live|love|satisf(action|y)|wife|women) .*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)/
 ([\w-]+)(mail|app)\.info
 (horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
 (horvat([\w-]+)orszag|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
@@ -43,7 +43,7 @@ horkolasnak-vege\.com
 horkolsz\.com
 horvatorszag([\w-]+)?@[\w-]+\.TLD
 http:\/\/(([\w-]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w]+)
-http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)/ .* (amaze|bedroom|chick|gf|gratify|happ(iness|y)|health|intimate|lady|live|love|(to)?night(s)?|satisf(action|y)|wife|women) 
+http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)/ .*(amaze|bedroom|chick|gf|gratify|happ(iness|y)|health|intimate|lady|live|love|(to)?night(s)?|satisf(action|y)|wife|women)
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
 http:\/\/www\.([\w-]+)(-([\w]+))?\.in
