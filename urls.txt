@@ -301,6 +301,7 @@
 [@\/\.\ ]gabonfmonline\.com
 [@\/\.\ ]gantservices\.com
 [@\/\.\ ]gaopincuihuoshebei\.com
+[@\/\.\ ]gecilista\.com
 [@\/\.\ ]genecust\.eu
 [@\/\.\ ]getfollowers([\w-]+)?\.(com|in)
 [@\/\.\ ]getinterenetmarketingbuzz\.us
