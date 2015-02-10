@@ -33,6 +33,7 @@
 [@\/\.\ ]([\w-]+)medsservice([\w-]+)\.com
 [@\/\.\ ]([\w-]+)mikulas([\w-]+)\.TLD
 [@\/\.\ ]([\w-]+)offers\.com
+[@\/\.\ ]([\w-]+)parkhotel\.hu
 [@\/\.\ ]([\w-]+)plaque(s)?\.com
 [@\/\.\ ]([\w-]+)serviceses\.cn
 [@\/\.\ ]([\w-]+)tanacsado\.eu
@@ -471,6 +472,7 @@
 [@\/\.\ ]medic([\w-]+)?\.ru
 [@\/\.\ ]medscompare.com
 [@\/\.\ ]mega-akciok\.TLD
+[@\/\.\ ]megarespect\.com
 [@\/\.\ ]megtakaritas([\w-]+)?\.TLD
 [@\/\.\ ]mendax\.hu
 [@\/\.\ ]mendy(\d+)?\.com
