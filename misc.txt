@@ -1,7 +1,7 @@
 #^http:\/\/([\w-]+)\.([\w-]+)\.com$
 height="36" width="104" alt="More Info >>" border="0
 ([\w-]+)(mail|app)\.info
-(amaze| babe |bedroom|bigger|chick|(to)?night(s)?|energy|female| gf |gratify|health|heart|happ(iness|y)| her |incredible|intimate|lady| live | love |pleasure|satisf(action|y)| wife |women).*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)\/
+(amaze| babe |bedroom|bigger|chick|(to)?night(s)?|energy|female| gf |gratify|health|heart|happ(iness|y)| her |incredible|intimate|lady| love |pleasure|satisf(action|y)| wife |women).*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)\/
 (horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
 (horvat([\w-]+)orszag|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 Russian.*(girl|wife)
@@ -45,7 +45,7 @@ horkolasnak-vege\.com
 horkolsz\.com
 horvatorszag([\w-]+)?@[\w-]+\.TLD
 http:\/\/(([\w-]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w]+)
-http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)\/ .*(amaze| babe |bedroom|bigger|chick|energy|female| gf |gratify|health|heart|happ(iness|y)| her |incredible|intimate|lady| live |love|(to)?night(s)?|pleasure|satisf(action|y)| wife |women)
+http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)\/ .*(amaze| babe |bedroom|bigger|chick|energy|female| gf |gratify|health|heart|happ(iness|y)| her |incredible|intimate|lady| love|(to)?night(s)?|pleasure|satisf(action|y)| wife |women)
 http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
 http:\/\/www\.([\w-]+)(-([\w]+))?\.in
