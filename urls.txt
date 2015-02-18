@@ -195,7 +195,9 @@
 [@\/\.\ ]coremailing\.org
 [@\/\.\ ]cosmocyte\.com
 [@\/\.\ ]creatingapp\.biz
+[@\/\.\ ]creativecloud.hu
 [@\/\.\ ]creativer\.eu
+[@\/\.\ ]cs6.hu
 [@\/\.\ ]csakittszabadvasarolni\.com
 [@\/\.\ ]csakmafelaron\.com
 [@\/\.\ ]cubby\.com
@@ -682,6 +684,9 @@
 [@\/\.\ ]sweetharmony\.hu
 [@\/\.\ ]syriatelmail\.net
 [@\/\.\ ]szerszamwebaruhaz\.com
+[@\/\.\ ]szoftver.hu
+[@\/\.\ ]szoftverdoki.hu
+[@\/\.\ ]szoftversuli.hu
 [@\/\.\ ]szpcair\.com
 [@\/\.\ ]sztarajanlat([\w-]+)?\.TLD
 [@\/\.\ ]szupertolto\.com
@@ -748,6 +753,7 @@
 [@\/\.\ ]vresp\.com
 [@\/\.\ ]vsnl\.net
 [@\/\.\ ]vxivh\.com
+[@\/\.\ ]wacominfo.hu
 [@\/\.\ ]waimaomaijia\.com
 [@\/\.\ ]wattguard\.hu
 [@\/\.\ ]wctpresents\.org
