@@ -314,6 +314,7 @@
 [@\/\.\ ]global([\w-]+)?marketing\.com
 [@\/\.\ ]globalaidmarket\.com
 [@\/\.\ ]globaloptics\.cn
+[@\/\.\ ]globalsources\.com
 [@\/\.\ ]globalstone\.hu
 [@\/\.\ ]gnt-impex\.hu
 [@\/\.\ ]go(-)?sport([\w-]+)?\.TLD
