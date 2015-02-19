@@ -286,6 +286,7 @@
 [@\/\.\ ]festoallvany\.hu
 [@\/\.\ ]filtress\.com
 [@\/\.\ ]financ([\w-]+)?\.com
+[@\/\.\ ]financesuccessservice\.com
 [@\/\.\ ]fissmail\.us
 [@\/\.\ ]fitnessleadsfast\.com
 [@\/\.\ ]flipmailer\.com
