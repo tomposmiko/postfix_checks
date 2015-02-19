@@ -4,6 +4,7 @@
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
+[@\/\.\ ]([\w-\.]+)\.edu\.ua
 [@\/\.\ ]([\w-]+)?(assist|bargain|candidate|care|company|deal|emergency|funeral|herb|inc|mall|market|perfect|pill|private|pure|purchase|quality|reward|sale|serve|shop|store|supply|systems|value)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
@@ -13,7 +14,6 @@
 [@\/\.\ ]([\w-]+)?penz\.com
 [@\/\.\ ]([\w-]+)\.co\/([\w-]+)
 [@\/\.\ ]([\w-]+)\.com\.(ar|br|hk)
-[@\/\.\ ]([\w-]+)\.edu\.ua
 [@\/\.\ ]([\w-]+)\.gov\.br
 [@\/\.\ ]([\w-]+)\.su
 [@\/\.\ ]([\w-]+)\.us\.com
