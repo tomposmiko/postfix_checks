@@ -249,6 +249,7 @@
 [@\/\.\ ]eletmodhirek\.com
 [@\/\.\ ]eletoltes\.hu
 [@\/\.\ ]email-guru\.net
+[@\/\.\ ]emailleadslist\.com
 [@\/\.\ ]emailsolution([\w-]+)?\.com
 [@\/\.\ ]emi02\.com
 [@\/\.\ ]emsmtp\.info
