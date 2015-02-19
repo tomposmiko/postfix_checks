@@ -698,6 +698,7 @@
 [@\/\.\ ]targetdataproviders\.com
 [@\/\.\ ]targetleadsus\.com
 [@\/\.\ ]techcello\.com
+[@\/\.\ ]techmanagesrvc\.com
 [@\/\.\ ]technologynetworks.com
 [@\/\.\ ]temkardelenlerkoleji\.com
 [@\/\.\ ]tengchaochem\.com
