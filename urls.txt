@@ -93,6 +93,7 @@
 [@\/\.\ ]armada\.hu
 [@\/\.\ ]armastusedm\.com
 [@\/\.\ ]aronalul\.TLD
+[@\/\.\ ]artrozis\.com
 [@\/\.\ ]aruhaz([\w-]+)?\.TLD
 [@\/\.\ ]asiansourcinggift\.com
 [@\/\.\ ]aspet\.org
