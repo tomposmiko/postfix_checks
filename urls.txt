@@ -149,6 +149,7 @@
 [@\/\.\ ]buy-it-now\.me
 [@\/\.\ ]buybrews\.com
 [@\/\.\ ]buyercategories\.com
+[@\/\.\ ]buziness\.co\.za
 [@\/\.\ ]camarela\.org
 [@\/\.\ ]campit([\w-]+)?\.com
 [@\/\.\ ]careerbuildereu\.com
