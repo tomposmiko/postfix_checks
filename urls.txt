@@ -652,6 +652,7 @@
 [@\/\.\ ]seek-studio\.com
 [@\/\.\ ]segitek\.hu
 [@\/\.\ ]selectbio\.com
+[@\/\.\ ]send-efax\.com
 [@\/\.\ ]sendmail([\w-]+).com
 [@\/\.\ ]sendstorm\.biz
 [@\/\.\ ]sendsvr([\w-]+)\.com
