@@ -8,6 +8,7 @@
 [@\/\.\ ]([\w-]+)?(assist|bargain|candidate|care|company|deal|emergency|funeral|herb|inc|mall|market|perfect|pill|private|pure|purchase|quality|reward|sale|serve|shop|store|supply|systems|value)([\w-]+)?\.ru
 [@\/\.\ ]([\w-]+)?(karacsony|xmas)([\w-]+)?\.TLD
 [@\/\.\ ]([\w-]+)?(kedvezo|lehetoseg|torlesztok)([\w-]+)?\.TLD
+[@\/\.\ ]([\w-]+)?\.gen\.in
 [@\/\.\ ]([\w-]+)?gyorshajtas\.TLD
 [@\/\.\ ]([\w-]+)?horvatorszag[\w-]+\.TLD
 [@\/\.\ ]([\w-]+)?megoldas([\w-]+)\.TLD
