@@ -20,7 +20,7 @@ apro(-)?(hir|info|oldal)([\w-]+)?\.hu
 aralatt\.TLD
 arcsokkentesek([\w-]+)?\.com
 babyliss-hu\.com
-best-budapest
+best-budapest\.hu
 biciklis-szett\.com
 bike-alarm\.TLD
 buntetes([\w-]+)?\.net
