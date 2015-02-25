@@ -1,3 +1,4 @@
+#[@\/\.\ ]
 #[@\/\.\ ]([\w-]+)-([\w-]+)-([\w-]+)\.com
 #[@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
 #[@\/\.\ ]\d\d\d\.TLD
@@ -60,6 +61,9 @@
 [@\/\.\ ]actingchina\.com
 [@\/\.\ ]actonsoftware\.com
 [@\/\.\ ]adcall\.tk
+[@\/\.\ ]adosziget.hu
+[@\/\.\ ]adosziget.hu
+[@\/\.\ ]adoszigetujsag.hu
 [@\/\.\ ]adp\.com
 [@\/\.\ ]adria[\w-]+\.TLD
 [@\/\.\ ]advanceyourcomputerskills\.com
@@ -185,6 +189,7 @@
 [@\/\.\ ]cnmetalchemicals\.com
 [@\/\.\ ]cnultrasonic\.com
 [@\/\.\ ]coleparmer\.com
+[@\/\.\ ]commentor.hu
 [@\/\.\ ]commercecq\.com
 [@\/\.\ ]completeeasydiet\.com
 [@\/\.\ ]compliance4all\.com
