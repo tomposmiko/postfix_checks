@@ -581,6 +581,7 @@
 [@\/\.\ ]oversea-supply\.com
 [@\/\.\ ]pack\.it
 [@\/\.\ ]para(-)?kapu([\w-]+)?\.TLD
+[@\/\.\ ]parallel\.hu
 [@\/\.\ ]parkotelgyula\.hu
 [@\/\.\ ]pb(-)?conferenc([\w-]+)?\.com
 [@\/\.\ ]pcb\d-\d\d.com
