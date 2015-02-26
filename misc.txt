@@ -48,7 +48,6 @@ horkolsz\.com
 horvatorszag([\w-]+)?@[\w-]+\.TLD
 http:\/\/(([\w-]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w]+)
 http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)\/ .*(amaze| babe |bedroom|bigger|chick|energy|female| gf |gratify|health|heart|happ(iness|y)| her |incredible|intimate|lady| love|(to)?night(s)?|pleasure|satisf(action|y)| wife |women)
-http:\/\/([\w-]+)\.([\w-]+)\.ru
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
 http:\/\/www\.([\w-]+)\.(com|eu)\/([0-9-]+)\/([\w\/]+)\.html
 hyaluron[\w-]+\.TLD
