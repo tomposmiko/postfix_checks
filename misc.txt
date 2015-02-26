@@ -3,7 +3,7 @@
 ([\w-]+)(mail|app)\.info
 (amaze| babe |bedroom|bigger|chick|(to)?night(s)?|energy|female| gf |gratify|health|heart|happ(iness|y)| her |incredible|intimate|lady| love |pleasure|satisf(action|y)| wife |women).*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)\/
 (horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
-(horvat([\w-]+)orszag|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
+(horvat([\w-]+)orsz([\w-]+)|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 Russian.*(girl|wife)
 Subject:.* Christian .*%
 Subject:.* UGG
