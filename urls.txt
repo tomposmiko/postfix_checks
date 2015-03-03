@@ -62,7 +62,6 @@
 [@\/\.\ ]actonsoftware\.com
 [@\/\.\ ]adcall\.tk
 [@\/\.\ ]adosziget.hu
-[@\/\.\ ]adosziget.hu
 [@\/\.\ ]adoszigetujsag.hu
 [@\/\.\ ]adp\.com
 [@\/\.\ ]adria[\w-]+\.TLD
@@ -442,6 +441,7 @@
 [@\/\.\ ]knowledgematrixinc\.TLD
 [@\/\.\ ]kolcson([\w-]+)?\.TLD
 [@\/\.\ ]konyhaicuccok\.com
+[@\/\.\ ]konyhas-termekek\.com
 [@\/\.\ ]kutya[\w-]+riaszto[\w-]+\.TLD
 [@\/\.\ ]ladybird\.hu
 [@\/\.\ ]latp\.by
