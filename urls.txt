@@ -270,6 +270,7 @@
 [@\/\.\ ]ethicalseoprovider\.com
 [@\/\.\ ]euf\.hu
 [@\/\.\ ]eur-business\.com
+[@\/\.\ ]eurhomejob\.com
 [@\/\.\ ]europ([\w-]+)?(career|job)(s)?\.(com|net)
 [@\/\.\ ]evergage\.com
 [@\/\.\ ]execreps\.com
