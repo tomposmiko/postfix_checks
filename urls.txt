@@ -28,6 +28,7 @@
 [@\/\.\ ]([\w-]+)guideline\.com
 [@\/\.\ ]([\w-]+)guides\.com
 [@\/\.\ ]([\w-]+)india\.net
+[@\/\.\ ]([\w-]+)learazas\.com
 [@\/\.\ ]([\w-]+)mailinfo\.com
 [@\/\.\ ]([\w-]+)marketing\.com
 [@\/\.\ ]([\w-]+)marketing\.hu
