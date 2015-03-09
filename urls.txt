@@ -797,6 +797,7 @@
 [@\/\.\ ]whynot-webshop\.com
 [@\/\.\ ]wifi[\w-]+-hu\.TLD
 [@\/\.\ ]workcenter\.hu
+[@\/\.\ ]workincroatia\.com
 [@\/\.\ ]worldnetclass\.com
 [@\/\.\ ]worldofadrenalin\.com
 [@\/\.\ ]worldphotographiccup\.org
