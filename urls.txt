@@ -353,6 +353,7 @@
 [@\/\.\ ]hasznos([\w-]+)\.hu
 [@\/\.\ ]hcprintery.com
 [@\/\.\ ]healthyshinyhair-tips\.com
+[@\/\.\ ]heedisarn\.com
 [@\/\.\ ]heitulong\.com
 [@\/\.\ ]himaddie\.com
 [@\/\.\ ]hinet\.net
