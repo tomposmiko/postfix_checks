@@ -49,6 +49,7 @@ horvatorszag([\w-]+)?@[\w-]+\.TLD
 http:\/\/(([\w-]+)\.)?([\w-\.]+)med([\w-]+)\.com\/\?([\w]+)
 http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)\/ .*(amaze|amorous| babe |bedroom|bigger|chick|disclose|energy|female| gf |girlfriend|gratify|health|heart|happ(iness|y)| her |incredible|intimate|lad(ies|y)|life( |style)| love|(to)?night(s)?|pleas(ure|ance)|satisf(action|y)|surprise(d)?| wife |women)
 http:\/\/([\w-]+)\.ru\/\?([\w]+)
+http:\/\/pic\.([\w-]+)\.com\/newsletter\/kep\/
 http:\/\/www\.([\w-]+)\.(com|eu)\/([0-9-]+)\/([\w\/]+)\.html
 http:\/\/www\.(pic\.)?([\w-]+)\.com\/newsletter\/kep\/
 hyaluron[\w-]+\.TLD
