@@ -2,8 +2,8 @@
 #http:\/\/www\.([\w-]+)(-([\w]+))?\.in
 ([\w-]+)(mail|app)\.info
 (amaze|amorous| babe |bedroom|bigger|chick|disclose|(to)?night(s)?|energy|female| gf |girlfriend|gratify|health|heart|happ(iness|y)| her |incredible|intimate|lad(|ies|y)|life( |style)| love |pleas(ure|ance)|satisf(action|y)|surprise(d)?| wife |women).*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)\/
-(horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
-(horvat([\w-]+)?orsz([\w-]+)?|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
+From.*(horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
+From.*(horvat([\w-]+)?orsz([\w-]+)?|adria([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 Russian.*(girl|wife)
 Subject:.* Christian .*%
 Subject:.* UGG
