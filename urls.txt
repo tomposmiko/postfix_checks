@@ -44,7 +44,8 @@
 [@\/\.\ ]([\w-]+)thai\.com
 [@\/\.\ ]([\w-]+)trainonline\.com
 [@\/\.\ ]([\w-]+)xsn.com
-[@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
+#[@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
+[@\/\.\ ](adm|clk)(0-9)?\.([\w-]+)\.(com|info)
 [@\/\.\ ](el|ki)rak\.net
 [@\/\.\ ](i)?europe\.com
 [@\/\.\ ].*provdn=2Ecom
