@@ -321,7 +321,6 @@
 [@\/\.\ ]genecust\.eu
 [@\/\.\ ]getfollowers([\w-]+)?\.(com|in)
 [@\/\.\ ]getinterenetmarketingbuzz\.us
-[@\/\.\ ]getresponse\.com
 [@\/\.\ ]giga-akciok\.com
 [@\/\.\ ]glce\.eu
 [@\/\.\ ]global([\w-]+)?marketing\.com
