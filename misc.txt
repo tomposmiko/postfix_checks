@@ -6,7 +6,7 @@
 From.*(horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
 From.*(horvat([\w-]+)?orsz([\w-]+)?|adriai([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 Russian.*(girl|wife)
-Subject: ([\w])+( Jobs | allas| alkalmazott)([\w])+ num:
+Subject: ([\w])+( Jobs | allas| alkalmazott| dolgoz)([\w])+ num:
 Subject:.* Christian .*%
 Subject:.* UGG
 Subject:.*(bags|drugstore).*(%|discount|sale)
