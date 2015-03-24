@@ -6,14 +6,13 @@
 From.*(horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
 From.*(horvat([\w-]+)?orsz([\w-]+)?|adriai([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 Russian.*(girl|wife)
-Subject: ([\w])+( Jobs | allas| alkalmazott| dolgoz)([\w])+ num:
 Subject:.* Christian .*%
 Subject:.* UGG
 Subject:.*(bags|drugstore).*(%|discount|sale)
 Subject:.*Ray(\ )?Ban.*(discount|%)
 [^w]hitel[\w-]+\.TLD
 \/emailmarketer\/
-^Subject:.* (allas|karrier|munka).* ID:[0-9]+
+^Subject:.* (alkalmazott|allas|dolgoz|jobs|karrier|munka).* (ID|num):[0-9]+
 ^http:\/\/([\w-]+)\.([\w-]+)\.(be|eu|in)\/$
 adsystem\.com
 akcioink\.hu
