@@ -1,6 +1,7 @@
 #[@\/\.\ ]
 #[@\/\.\ ]([\w-]+)-([\w-]+)-([\w-]+)\.com
 #[@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
+#[@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
 #[@\/\.\ ]\d\d\d\.TLD
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
@@ -44,7 +45,6 @@
 [@\/\.\ ]([\w-]+)thai\.com
 [@\/\.\ ]([\w-]+)trainonline\.com
 [@\/\.\ ]([\w-]+)xsn.com
-#[@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
 [@\/\.\ ](adm|clk)(0-9)?\.([\w-]+)\.(com|info)
 [@\/\.\ ](el|ki)rak\.net
 [@\/\.\ ](i)?europe\.com
@@ -633,6 +633,7 @@
 [@\/\.\ ]readytalk\.com
 [@\/\.\ ]reasonstobeer\.com
 [@\/\.\ ]recipientmail\.co\.uk
+[@\/\.\ ]recruitmentlegal\.com
 [@\/\.\ ]recyclingcenternearme\.com
 [@\/\.\ ]reesitebusiness\.com
 [@\/\.\ ]repara\.hu
