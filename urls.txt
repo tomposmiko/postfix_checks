@@ -3,6 +3,7 @@
 #[@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
 #[@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
 #[@\/\.\ ]\d\d\d\.TLD
+#[@\/\.\ ]myplanearns\.com
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
 [@\/\.(=2E|\ )]jigsy(=2E|\.)com
