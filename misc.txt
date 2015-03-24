@@ -12,7 +12,7 @@ Subject:.*(bags|drugstore).*(%|discount|sale)
 Subject:.*Ray(\ )?Ban.*(discount|%)
 [^w]hitel[\w-]+\.TLD
 \/emailmarketer\/
-^Subject:.* (alkalmazott|allas|dolgoz|jobs|karrier|munka).* (ID|num):[0-9]+
+^Subject:.* (alkalmazott|allas|ceg |dolgoz|jobs|karrier|munka).* (ID|num):[0-9]+
 ^http:\/\/([\w-]+)\.([\w-]+)\.(be|eu|in)\/$
 adsystem\.com
 akcioink\.hu
