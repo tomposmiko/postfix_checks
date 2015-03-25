@@ -161,6 +161,7 @@
 [@\/\.\ ]buziness\.co\.za
 [@\/\.\ ]camarela\.org
 [@\/\.\ ]campit([\w-]+)?\.com
+[@\/\.\ ]careerandcash\.com
 [@\/\.\ ]careerbuildereu\.com
 [@\/\.\ ]cargodigital\.net
 [@\/\.\ ]carrollsirishgifts\.com
