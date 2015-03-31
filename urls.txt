@@ -75,6 +75,7 @@
 [@\/\.\ ]affiliate(-)?ajanlatok\.TLD
 [@\/\.\ ]agcswelpjv\.us
 [@\/\.\ ]age(star|rast)\.com
+[@\/\.\ ]aim-medical\.hu
 [@\/\.\ ]akarokegyilyet\.hu
 [@\/\.\ ]akcio([\w-]+)\.com
 [@\/\.\ ]akneweg\.com
