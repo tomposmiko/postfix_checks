@@ -541,6 +541,7 @@
 [@\/\.\ ]napi\.hu
 [@\/\.\ ]napkinghkdfr\.me
 [@\/\.\ ]napkollektor-napelem\.hu
+[@\/\.\ ]napvar\.ml
 [@\/\.\ ]nathansay\.com
 [@\/\.\ ]naturalmedicina\.ru
 [@\/\.\ ]naturebrown\.com
