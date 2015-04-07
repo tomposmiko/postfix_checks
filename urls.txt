@@ -452,6 +452,7 @@
 [@\/\.\ ]konyhaicuccok\.com
 [@\/\.\ ]konyhas-termekek\.com
 [@\/\.\ ]kutya[\w-]+riaszto[\w-]+\.TLD
+[@\/\.\ ]la7\.org
 [@\/\.\ ]ladybird\.hu
 [@\/\.\ ]latp\.by
 [@\/\.\ ]lead2tech\.com
