@@ -1,8 +1,13 @@
 #[@\/\.\ ]
 #[@\/\.\ ]([\w-]+)-([\w-]+)-([\w-]+)\.com
+#[@\/\.\ ]([\w-]+)-([\w-]+)-([\w-]+)\.com
+#[@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
 #[@\/\.\ ]([\w-]+)\.([a-z]){4}\.ru
 #[@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
+#[@\/\.\ ](adm|click|clk)(0-9)?\.([\w-]+)\.(com|info)
 #[@\/\.\ ]\d\d\d\.TLD
+#[@\/\.\ ]\d\d\d\.TLD
+#[@\/\.\ ]myplanearns\.com
 #[@\/\.\ ]myplanearns\.com
 #[@\/\.\ ]qq\.com
 #[@\/\.\ ]t\.co
@@ -88,6 +93,7 @@
 [@\/\.\ ]altervista\.org
 [@\/\.\ ]alto-labs\.com
 [@\/\.\ ]alumnidirector\.com
+[@\/\.\ ]alwayscareer\.com
 [@\/\.\ ]amazonlocal\.com
 [@\/\.\ ]amazonses\.com
 [@\/\.\ ]america(-)?cream\.com
