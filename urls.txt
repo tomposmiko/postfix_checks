@@ -68,6 +68,7 @@
 [@\/\.\ ]actingchina\.com
 [@\/\.\ ]actonsoftware\.com
 [@\/\.\ ]adcall\.tk
+[@\/\.\ ]admail\.hu
 [@\/\.\ ]admin\.com
 [@\/\.\ ]adosziget.hu
 [@\/\.\ ]adoszigetujsag.hu
@@ -531,6 +532,7 @@
 [@\/\.\ ]mow\.so
 [@\/\.\ ]mrc77\.org
 [@\/\.\ ]msgfocus\.com
+[@\/\.\ ]multipoly\.hu
 [@\/\.\ ]multiview\.com
 [@\/\.\ ]munka-hu\.com
 [@\/\.\ ]munkaugyilevelek\.hu
