@@ -4,7 +4,7 @@
 #http:\/\/www\.([\w-]+)(-([\w]+))?\.in
 ([\w-]+)(mail|app)\.info
 (amaze|amorous| babe |bedroom|bigger|chick|desire|disclose|(to)?night(s)?|energy|female| gain | gf |girlfriend|gratify|health|heart|happ(iness|y)| her |incredible|intimate|lad(|ies|y)|life( |style)| love |pleas(ure|ance)|potence|satisf(action|y)|surprise(d)?| wife |women).*http:\/\/([\w-]+)\.([\w-]+)\.(be|com|eu|in|ru)\/
-C.R.G.P.*\%
+C(.)?R(.)?G(.)?P.*\%
 From.*(horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
 From.*(horvat([\w-]+)?orsz([\w-]+)?|adriai([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 From: ([\w-.]+)?(aruhaz|raktar)([\w-]+)?@
