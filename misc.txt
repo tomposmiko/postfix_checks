@@ -9,7 +9,7 @@ From: ([\w-.]+)?(aruhaz|raktar)([\w-]+)?@
 From: ([\w-.]+)?(januar|februar|marcius|majus|junius|augusztus|szeptember|oktober|november|december)([\w-]+)?@
 From:.*(horv&aacute;torsz&aacute;gi|horvatorszag).*apartman
 From:.*(horvat([\w-]+)?orsz([\w-]+)?|adriai([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
-From:.*kiar([\w-]+@
+#From:.*kiar([\w-]+@
 Russian.*(girl|wife)
 Subject:.* Christian .*%
 Subject:.* UGG
