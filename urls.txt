@@ -838,4 +838,4 @@
 [@\/\.\ ]ziffdavismail\.com
 [@\/\.\ ]ztouvalve\.com
 [@\/\.\ ]zuggo\.hu
-[@\/]([\w-]+)\.(cc|cl|club|info|ir|pro|pw)
+[@\/]([\w-]+)\.(cc|club|info|ir|pro|pw)
