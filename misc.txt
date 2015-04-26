@@ -1,4 +1,4 @@
-#From.*(horv([\w-]+)?orsz([\w-]+)?|adrian([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
+#From.*(horv([\w-]+)?(hu|orsz)([\w-]+)?|adrian([\w-]+)|black([\w-]+)friday|free([\w-]+)shipping)@
 #^http:\/\/([\w-]+)\.([\w-]+)\.com$
 #http:\/\/img\.(([\w-]+)\.com\/([\w]+)-([\w]+)-([\w]+)-([\w-]+)\.jpg
 #http:\/\/www\.([\w-]+)(-([\w]+))?\.in
