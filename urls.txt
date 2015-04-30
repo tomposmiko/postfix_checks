@@ -365,6 +365,7 @@
 [@\/\.\ ]harper-beck\.com
 [@\/\.\ ]harperbeckagency\.com
 [@\/\.\ ]hasznos([\w-]+)\.hu
+[@\/\.\ ]hasznosdolgok\.com
 [@\/\.\ ]hcprintery.com
 [@\/\.\ ]healthyshinyhair-tips\.com
 [@\/\.\ ]heedisarn\.com
