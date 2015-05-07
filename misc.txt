@@ -40,7 +40,6 @@ doctor([\w-]+)?\.ru
 drogteszt([\w-]+)?\.TLD
 e(-)?cigi.*\.com
 elalvas(-)?stop\.com
-email\.eu
 ertesites\.com
 eur(ope)?job([\w-]+)?\.(com|org)
 gaymassage([\w-]+)?\.com
