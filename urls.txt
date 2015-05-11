@@ -504,7 +504,6 @@
 [@\/\.\ ]marketacquisition\.com
 [@\/\.\ ]maxwhite([\w-]+)?\.com
 [@\/\.\ ]mdxtsauls\.us
-[@\/\.\ ]mediacenter\.hu
 [@\/\.\ ]medic([\w-]+)?\.ru
 [@\/\.\ ]medscompare.com
 [@\/\.\ ]mega-akciok\.TLD
