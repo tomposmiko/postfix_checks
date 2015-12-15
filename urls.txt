@@ -1,2 +1,3 @@
-[@\/\.\ ]hotelellato\.hu
 [@\/\.\ ]ad([\w-]+)\.email
+[@\/\.\ ]hotelellato\.hu
+[@\/\.\ ]mail2best\.com
