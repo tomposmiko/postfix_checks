@@ -1,0 +1,2 @@
+[^w]hitel[\w-]+\.TLD
+[^w]szekhely[\w-]+\.TLD
