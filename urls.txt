@@ -1,3 +1,4 @@
 [@\/\.\ ]ad([\w-]+)\.email
+[@\/\.\ ]boldogsag\.tk
 [@\/\.\ ]hotelellato\.hu
 [@\/\.\ ]mail2best\.com
