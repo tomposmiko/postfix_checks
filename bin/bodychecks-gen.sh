@@ -4,7 +4,7 @@ IFS='
 '
 dir_postfix_checks="/etc/postfix/postfix_checks"
 
-TLD='(com|net)'
+TLD='(com|eu|net)'
 cd $dir_postfix_checks || exit 1
 
 if git pull|grep -q 'Already up-to-date';
