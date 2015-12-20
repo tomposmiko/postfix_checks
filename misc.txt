@@ -1,2 +1,3 @@
+From:.*@([0-9a-z-.]+)\.top
 [^w]hitel[\w-]+\.TLD
 [^w]szekhely[\w-]+\.TLD
