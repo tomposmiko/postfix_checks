@@ -1,6 +1,9 @@
 [@\/\.\ ]ad([\w-]+)\.email
+[@\/\.\ ]bizroom\.com
 [@\/\.\ ]boldogsag\.tk
+[@\/\.\ ]cegesinfok\.hu
 [@\/\.\ ]hotelellato\.hu
 [@\/\.\ ]legaltanacsado.TLD
 [@\/\.\ ]mail2best\.com
 [@\/\.\ ]netmozi\.club
+[@\/\.\ ]yandex\.com

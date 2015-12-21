@@ -1,3 +1,7 @@
+From:.*@([0-9a-z-.]+)\.co\.in
+From:.*@([0-9a-z-.]+)\.in\.net
+From:.*@([0-9a-z-.]+)\.net\.il
 From:.*@([0-9a-z-.]+)\.top
+Subject: Re:Medical store here
 [^w]hitel[\w-]+\.TLD
 [^w]szekhely[\w-]+\.TLD
