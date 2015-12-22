@@ -1,4 +1,5 @@
 From:.*@([0-9a-z-.]+)\.co\.in
+From:.*@([0-9a-z-.]+)\.date
 From:.*@([0-9a-z-.]+)\.in\.net
 From:.*@([0-9a-z-.]+)\.net\.il
 From:.*@([0-9a-z-.]+)\.top
