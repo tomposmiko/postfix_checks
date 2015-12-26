@@ -5,6 +5,7 @@ From:.*@([0-9a-z-.]+)\.in\.net
 From:.*@([0-9a-z-.]+)\.net\.il
 From:.*@([0-9a-z-.]+)\.ru
 From:.*@([0-9a-z-.]+)\.top
+From:.*@([0-9a-z-.]+)\.xyz
 Subject: Re:Medical[w- ]+store
 [^w]hitel[\w-]+\.TLD
 [^w]szekhely[\w-]+\.TLD
