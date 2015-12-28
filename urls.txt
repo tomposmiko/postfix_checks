@@ -1,4 +1,3 @@
-[@\/\.\ ]([\w-.]+)shop\.ru
 [@\/\.\ ]ad([\w-]+)\.email
 [@\/\.\ ]bizroom\.com
 [@\/\.\ ]boldogsag\.tk
