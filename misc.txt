@@ -1,3 +1,4 @@
+From: Net MOZI Club
 From:.*@([0-9a-z-.]+)\.club($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.in($|>|,)
 From:.*@([0-9a-z-.]+)\.com\.au($|>|,)
