@@ -9,4 +9,5 @@
 [@\/\.\ ]service\.com
 [@\/\.\ ]sports-tracker\.com
 [@\/\.\ ]support\.com
+[@\/\.\ ]xn--[\w-]+\.[\w]
 [@\/\.\ ]yandex\.com
