@@ -16,6 +16,7 @@ From:.*@([0-9a-z-.]+)\.top($|>|,)
 From:.*@([0-9a-z-.]+)\.xyz($|>|,)
 Subject: FW:Re:.*(HEALTH|MEDICAL)
 Subject: Fw: new message
+Subject: Incoming Fax
 Subject: Re:Medical[w- ]+(health|store)
 [^w]hitel[\w-]+\.TLD
 [^w]szekhely[\w-]+\.TLD
