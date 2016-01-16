@@ -20,3 +20,4 @@ Subject: Incoming Fax
 Subject: Re:Medical[w- ]+(health|store)
 [^w]hitel[\w-]+\.TLD
 [^w]szekhely[\w-]+\.TLD
+netMOZI Club
