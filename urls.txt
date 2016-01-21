@@ -11,4 +11,5 @@
 [@\/\.\ ]support\.com
 [@\/\.\ ]syria(l)?\.com
 [@\/\.\ ]xn--[\w-]+\.[\w]
+[@\/\.\ ]yahoo\.com\.(cn|hk)
 [@\/\.\ ]yandex\.com
