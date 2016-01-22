@@ -1,4 +1,6 @@
+#[@\/\.\ ]
 [@\/\.\ ]ad([\w-]+)\.email
+[@\/\.\ ]bigline\.hu
 [@\/\.\ ]bizroom\.com
 [@\/\.\ ]boldogsag\.tk
 [@\/\.\ ]cegesinfok\.hu
