@@ -1,6 +1,7 @@
 #[@\/\.\ ]
 [@\/\.\ ]([\w-])+dating\.com
 [@\/\.\ ]ad([\w-]+)\.email
+[@\/\.\ ]asia-mail\.com
 [@\/\.\ ]bigline\.hu
 [@\/\.\ ]bizroom\.com
 [@\/\.\ ]boldogsag\.tk
