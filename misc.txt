@@ -18,7 +18,7 @@ From:.*@([0-9a-z-.]+)\.xyz($|>|,)
 [^w]szekhely[\w-]+\.TLD
 ^Subject: .*f?ck
 ^Subject: FW:Re:.*(HEALTH|MEDICAL)
-^Subject: Fw: (important|new) message
+^Subject: Fw: [w-]+ (important|new) message
 ^Subject: Incoming Fax
 ^Subject: Re:Medical[w- ]+(health|store)
 netMOZI Club
