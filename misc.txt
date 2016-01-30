@@ -25,3 +25,4 @@ From:.*@([0-9a-z-.]+)\.xyz($|>|,)
 ^Subject: Re:Medical[w- ]+(health|store)
 http:\/\/([w-]+)\.ru
 netMOZI Club
+webgalamb
