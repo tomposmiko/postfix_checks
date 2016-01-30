@@ -20,6 +20,7 @@ From:.*@([0-9a-z-.]+)\.xyz($|>|,)
 ^Subject: FW:Re:.*(HEALTH|MEDICAL)
 ^Subject: Fw: [w-]+ (important|new) message
 ^Subject: Incoming Fax
+^Subject: Re:Drugstore online
 ^Subject: Re:Medical[w- ]+(health|store)
 http:\/\/([w-]+)\.ru
 netMOZI Club
