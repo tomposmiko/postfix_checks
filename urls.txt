@@ -1,5 +1,6 @@
 #[@\/\.\ ]
 [@\/\.\ ]([\w-])+dating\.com
+[@\/\.\ ]([\w-]+)xn--([\w-]+)\.[\w]
 [@\/\.\ ]ad([\w-]+)\.email
 [@\/\.\ ]adria([w-])+\.com
 [@\/\.\ ]asia-mail\.com
@@ -21,6 +22,5 @@
 [@\/\.\ ]sports-tracker\.com
 [@\/\.\ ]support\.com
 [@\/\.\ ]syria(l)?\.com
-[@\/\.\ ]xn--[\w-]+\.[\w]
 [@\/\.\ ]yahoo\.com\.(cn|hk)
 [@\/\.\ ]yandex\.com
