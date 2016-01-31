@@ -4,6 +4,7 @@
 [@\/\.\ ]([\w-]+)xn--([\w-]+)\.[\w]
 [@\/\.\ ]ad([\w-]+)\.email
 [@\/\.\ ]adria([w-])+\.com
+[@\/\.\ ]adriaedm\.com
 [@\/\.\ ]asia-mail\.com
 [@\/\.\ ]bigline\.hu
 [@\/\.\ ]bizroom\.com
