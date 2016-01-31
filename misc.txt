@@ -19,6 +19,7 @@ From:.*@([0-9a-z-.]+)\.xyz($|>|,)
 ^Subject: .*f?ck
 ^Subject: FW:Re:.*(HEALTH|MEDICAL)
 ^Subject: Fw: [w-]+ (important|new) message
+^Subject: Fw: new message
 ^Subject: Incoming Fax
 ^Subject: Message for you
 ^Subject: Re:Drugstore online
