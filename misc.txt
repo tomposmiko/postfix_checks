@@ -24,6 +24,6 @@ From:.*@([0-9a-z-.]+)\.xyz($|>|,)
 ^Subject: Message for you
 ^Subject: Re:Drugstore online
 ^Subject: Re:Medical[w- ]+(health|store)
-http:\/\/([\w-]+)\.ru
+http:\/\/([\w\.-]+)\.ru
 netMOZI Club
 webgalamb
