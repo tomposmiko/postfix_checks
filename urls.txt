@@ -3,7 +3,7 @@
 [@\/\.\ ]([\w-]+)(adult|porn)([\w-]+)\.com
 [@\/\.\ ]([\w-]+)xn--([\w-]+)\.[\w]
 [@\/\.\ ]ad([\w-]+)\.email
-[@\/\.\ ]adria([w-])+\.com
+[@\/\.\ ]adria([\w-])+\.com
 [@\/\.\ ]adriaedm\.com
 [@\/\.\ ]asia-mail\.com
 [@\/\.\ ]bigline\.hu
