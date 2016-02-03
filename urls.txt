@@ -24,5 +24,6 @@
 [@\/\.\ ]sports-tracker\.com
 [@\/\.\ ]support\.com
 [@\/\.\ ]syria(l)?\.com
+[@\/\.\ ]test\.com
 [@\/\.\ ]yahoo\.com\.(cn|hk)
 [@\/\.\ ]yandex\.com
