@@ -6,6 +6,7 @@ From:.*@([0-9a-z-.]+)\.club($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.in($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.kr($|>|,)
 From:.*@([0-9a-z-.]+)\.com\.au($|>|,)
+From:.*@([0-9a-z-.]+)\.com\.ua($|>|,)
 From:.*@([0-9a-z-.]+)\.date($|>|,)
 From:.*@([0-9a-z-.]+)\.download($|>|,)
 From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
@@ -24,6 +25,6 @@ From:.*@([0-9a-z-.]+)\.xyz($|>|,)
 ^Subject: Message for you
 ^Subject: Re:Drugstore online
 ^Subject: Re:Medical([\w- ]+)(health|store)
+ebgalamb
 http:\/\/([\w\.-]+)\.ru[ ,$]
 netMOZI Club
-ebgalamb
