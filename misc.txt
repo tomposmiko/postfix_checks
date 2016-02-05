@@ -4,7 +4,7 @@ From: Net MOZI Club
 From:.*@([0-9a-z-.]+)\.biz($|>|,)
 From:.*@([0-9a-z-.]+)\.club($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
-From:.*@([0-9a-z-.]+)\.com\.(au|tw|ua)($|>|,)
+From:.*@([0-9a-z-.]+)\.com\.(au|tr|tw|ua)($|>|,)
 From:.*@([0-9a-z-.]+)\.date($|>|,)
 From:.*@([0-9a-z-.]+)\.download($|>|,)
 From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
