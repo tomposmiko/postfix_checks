@@ -17,14 +17,14 @@ From:.*@([0-9a-z-.]+)\.ru($|>|,)
 From:.*@([0-9a-z-.]+)\.th($|>|,)
 From:.*@([0-9a-z-.]+)\.top($|>|,)
 From:.*@([0-9a-z-.]+)\.xyz($|>|,)
+^Subject: .*FW:Re:.*(HEALTH|MEDICAL)
+^Subject: .*Fw: [\w-]+ (important|new) message
+^Subject: .*Fw: new message
+^Subject: .*Incoming Fax
+^Subject: .*Message for you
+^Subject: .*Re:Drugstore online
+^Subject: .*Re:Medical([\w- ]+)(health|store)
 ^Subject: .*f.ck
-^Subject: FW:Re:.*(HEALTH|MEDICAL)
-^Subject: Fw: [\w-]+ (important|new) message
-^Subject: Fw: new message
-^Subject: Incoming Fax
-^Subject: Message for you
-^Subject: Re:Drugstore online
-^Subject: Re:Medical([\w- ]+)(health|store)
 ebgalamb
 http:\/\/([\w\.-]+)\.ru[ ,$]
 netMOZI Club
