@@ -1,20 +1,11 @@
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
 From: Net MOZI Club
-From:.*@([0-9a-z-.]+)\.(ua|biz)($|>|,)
-From:.*@([0-9a-z-.]+)\.club($|>|,)
+From:.*@([0-9a-z-.]+)\.(biz|club|date|download|my|racing|ru|th|top|ua|xyz)($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
 From:.*@([0-9a-z-.]+)\.com\.(au|tr|tw)($|>|,)
-From:.*@([0-9a-z-.]+)\.date($|>|,)
-From:.*@([0-9a-z-.]+)\.download($|>|,)
 From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
-From:.*@([0-9a-z-.]+)\.my($|>|,)
 From:.*@([0-9a-z-.]+)\.net\.il($|>|,)
-From:.*@([0-9a-z-.]+)\.racing($|>|,)
-From:.*@([0-9a-z-.]+)\.ru($|>|,)
-From:.*@([0-9a-z-.]+)\.th($|>|,)
-From:.*@([0-9a-z-.]+)\.top($|>|,)
-From:.*@([0-9a-z-.]+)\.xyz($|>|,)
 ^Subject: .*FW:Re:.*(HEALTH|MEDICAL)
 ^Subject: .*Fw: [\w- ]+ (important|new) message
 ^Subject: .*Fw: new message
@@ -23,6 +14,7 @@ From:.*@([0-9a-z-.]+)\.xyz($|>|,)
 ^Subject: .*Re:Drugstore online
 ^Subject: .*Re:Medical([\w- ]+)(health|store)
 ^Subject: .*f.ck
-ebgalamb
 http:\/\/([\w\.-]+)\.ru[ ,$\/]
-netMOZI Club
+http:\/\/.* pleasance
+pleasance .* http:\/\/
+webgalamb
