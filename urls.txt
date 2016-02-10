@@ -5,6 +5,7 @@
 [@\/\.\ ]ad([\w-]+)\.email
 [@\/\.\ ]adria([\w-])+\.com
 [@\/\.\ ]adriaedm\.com
+[@\/\.\ ]allativasar\.hu
 [@\/\.\ ]asia-mail\.com
 [@\/\.\ ]bank\.org
 [@\/\.\ ]bigline\.hu
