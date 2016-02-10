@@ -6,6 +6,7 @@
 [@\/\.\ ]adria([\w-])+\.com
 [@\/\.\ ]adriaedm\.com
 [@\/\.\ ]asia-mail\.com
+[@\/\.\ ]bank\.org
 [@\/\.\ ]bigline\.hu
 [@\/\.\ ]bizroom\.com
 [@\/\.\ ]boldogsag\.tk
