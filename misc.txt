@@ -1,6 +1,6 @@
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
-From: .*buddy.*
+From: .*buddy
 From: Net MOZI Club
 From:.*@([0-9a-z-.]+)\.(biz|club|date|download|my|racing|ru|th|top|ua|xyz)($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
