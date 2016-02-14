@@ -4,7 +4,7 @@ From: .*buddy
 From: Net MOZI Club
 From:.*@([0-9a-z-.]+)\.(biz|club|date|download|my|racing|ru|th|top|ua|xyz)($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
-From:.*@([0-9a-z-.]+)\.com\.(au|tr|tw)($|>|,)
+From:.*@([0-9a-z-.]+)\.com\.(ar|au|tr|tw)($|>|,)
 From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
 From:.*@([0-9a-z-.]+)\.info($|>|,)
 ^Subject: .*FW: important message
