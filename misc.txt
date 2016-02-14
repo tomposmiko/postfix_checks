@@ -7,6 +7,7 @@ From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
 From:.*@([0-9a-z-.]+)\.com\.(au|tr|tw)($|>|,)
 From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
 From:.*@([0-9a-z-.]+)\.net\.il($|>|,)
+^Subject: .*FW: important message
 ^Subject: .*FW:Re:.*(HEALTH|MEDICAL)
 ^Subject: .*Fw: [\w- ]+ (important|new) message
 ^Subject: .*Fw: new message
