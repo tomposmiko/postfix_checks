@@ -19,7 +19,7 @@ From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
 ^Subject:.*attention
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
-http:\/\/([\w\.-]+)\.(pai|ru)[ ,$\/]
+http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
 http:\/\/.* pleasance
 pleasance .* http:\/\/
 webgalamb
