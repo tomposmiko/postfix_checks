@@ -2,7 +2,7 @@
 ([^w-]+)szekhely[\w-]+\.TLD
 From: .*buddy
 From: Net MOZI Club
-From:.*@([0-9a-z-.]+)\.(biz|club|date|download|my|racing|ru|th|top|ua|xyz)($|>|,)
+From:.*@([0-9a-z-.]+)\.(bid|biz|club|date|download|my|racing|ru|th|top|ua|xyz)($|>|,)
 From:.*@([0-9a-z-.]+)\.(tech|info)($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
 From:.*@([0-9a-z-.]+)\.com\.(ar|au|tr|tw)($|>|,)
