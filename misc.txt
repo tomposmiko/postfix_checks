@@ -15,6 +15,7 @@ From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
 ^Subject: .*Message for you
 ^Subject: .*Re:Drugstore online
 ^Subject: .*Re:Medical([\w- ]+)(health|store)
+^Subject: .*buddy.*waiting
 ^Subject: .*f.ck
 ^Subject:.*attention
 ^Subject:.*m[e3]d[i1]c[i1]n
