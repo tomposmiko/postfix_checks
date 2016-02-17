@@ -21,7 +21,8 @@ From:.*@([0-9a-z-.]+)\.net\.tr($|>|,)
 ^Subject:.*attention
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
-http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/\#]
+http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
 http:\/\/.* pleasance
+https://www.google.com/url\?q=http\%3A\%2F\%2F([\w\.-]+).ru\%23
 pleasance .* http:\/\/
 webgalamb
