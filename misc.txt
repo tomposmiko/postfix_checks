@@ -7,18 +7,19 @@ From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
 From:.*@([0-9a-z-.]+)\.com\.(ar|au|tr|tw)($|>|,)
 From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
 From:.*@([0-9a-z-.]+)\.net\.tr($|>|,)
-Subject: .*[a-z0-9]buddy
-^Subject: .*FW: important message
-^Subject: .*FW:Re:.*(HEALTH|MEDICAL)
-^Subject: .*Fw: [\w- ]+ (important|new) message
-^Subject: .*Fw: new message
-^Subject: .*Incoming Fax
-^Subject: .*Message for you
-^Subject: .*Re:Drugstore online
-^Subject: .*Re:Medical([\w- ]+)(health|store)
-^Subject: .*buddy.*waiting
-^Subject: .*f.ck
+^Subject:.*FW: important message
+^Subject:.*FW:Re:.*(HEALTH|MEDICAL)
+^Subject:.*Fw: [\w- ]+ (important|new) message
+^Subject:.*Fw: new message
+^Subject:.*Incoming Fax
+^Subject:.*Message for you
+^Subject:.*Neues Fax von
+^Subject:.*Re:Drugstore online
+^Subject:.*Re:Medical([\w- ]+)(health|store)
+^Subject:.*[a-z0-9]buddy
 ^Subject:.*attention
+^Subject:.*buddy.*waiting
+^Subject:.*f.ck
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
