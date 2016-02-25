@@ -1,12 +1,13 @@
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
-From: MOZI.*Club
 From:.*@([0-9a-z-.]+)\.(bid|biz|click|club|date|download|my|pro|racing|ru|th|top|ua|xyz)($|>|,)
 From:.*@([0-9a-z-.]+)\.(tech|info)($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
 From:.*@([0-9a-z-.]+)\.com\.(ar|au|tr|tw)($|>|,)
 From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
 From:.*@([0-9a-z-.]+)\.net\.tr($|>|,)
+From:.*MOZI.*Club
+From:.*scanner@
 ^Subject:.*FW: important message
 ^Subject:.*FW:Re:.*(HEALTH|MEDICAL)
 ^Subject:.*Fw: [\w- ]+ (important|new) message
