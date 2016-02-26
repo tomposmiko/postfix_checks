@@ -1,6 +1,6 @@
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
-From:.*@([0-9a-z-.]+)\.(bid|biz|click|club|date|download|gq|my|pro|racing|ru|th|top|ua|xyz)($|>|,)
+From:.*@([0-9a-z-.]+)\.(bid|biz|click|club|date|download|gq|ml|my|pro|racing|ru|th|top|ua|xyz)($|>|,)
 From:.*@([0-9a-z-.]+)\.(tech|info)($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
 From:.*@([0-9a-z-.]+)\.com\.(ar|au|tr|tw)($|>|,)
