@@ -33,5 +33,6 @@
 [@\/\.\ ]support\.com
 [@\/\.\ ]syria(l)?\.com
 [@\/\.\ ]test\.com
+[@\/\.\ ]worldbank\.org
 [@\/\.\ ]yahoo\.com\.(cn|hk)
 [@\/\.\ ]yandex\.com
