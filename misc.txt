@@ -22,6 +22,7 @@ From:.*scanner@
 ^Subject:.*attention
 ^Subject:.*buddy.*waiting
 ^Subject:.*f.ck
+^Subject:.*loan(s)\ 
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
