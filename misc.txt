@@ -1,5 +1,6 @@
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
+(pleasance|gratify) .* http:\/\/
 From:.*@([0-9a-z-.]+)\.(bid|biz|click|club|date|download|gq|ml|my|pro|racing|ru|th|top|ua|vu|xyz)($|>|,)
 From:.*@([0-9a-z-.]+)\.(tech|info)($|>|,)
 From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
@@ -24,7 +25,6 @@ From:.*scanner@
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
-http:\/\/.* pleasance
+http:\/\/.* (pleasance|gratify)
 https://www.google.com/url\?q=http\%3A\%2F\%2F([\w\.-]+).ru\%23
-pleasance .* http:\/\/
 webgalamb
