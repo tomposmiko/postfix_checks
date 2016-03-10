@@ -1,11 +1,11 @@
 #[@\/\.\ ]
+[@\/\.\ ]([\w-\.\"])+\.(bid|biz|click|club|date|download|gq|ml|my|pro|racing|ru|th|top|ua|vu|xyz)($|>|,)
+[@\/\.\ ]([\w-\.\"])+\.(tech|info)($|>|,)
+[@\/\.\ ]([\w-\.\"])+\.co\.(in|kr)($|>|,)
+[@\/\.\ ]([\w-\.\"])+\.com\.(ar|au|tr|tw)($|>|,)
+[@\/\.\ ]([\w-\.\"])+\.in\.net($|>|,)
+[@\/\.\ ]([\w-\.\"])+\.net\.tr($|>|,)
 [@\/\.\ ]([\w-\.])+(adult|porn)([\w-]+)\.com
-[@\/\.\ ]([\w-\.])+\.(bid|biz|click|club|date|download|gq|ml|my|pro|racing|ru|th|top|ua|vu|xyz)($|>|,)
-[@\/\.\ ]([\w-\.])+\.(tech|info)($|>|,)
-[@\/\.\ ]([\w-\.])+\.co\.(in|kr)($|>|,)
-[@\/\.\ ]([\w-\.])+\.com\.(ar|au|tr|tw)($|>|,)
-[@\/\.\ ]([\w-\.])+\.in\.net($|>|,)
-[@\/\.\ ]([\w-\.])+\.net\.tr($|>|,)
 [@\/\.\ ]([\w-\.])+bank\.com
 [@\/\.\ ]([\w-\.])+dating\.com
 [@\/\.\ ]([\w-\.])+xn--([\w-]+)\.[\w]
