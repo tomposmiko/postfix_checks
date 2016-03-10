@@ -1,12 +1,12 @@
+#From:.*@([0-9a-z-.]+)\.(bid|biz|click|club|date|download|gq|ml|my|pro|racing|ru|th|top|ua|vu|xyz)($|>|,)
+#From:.*@([0-9a-z-.]+)\.(tech|info)($|>|,)
+#From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
+#From:.*@([0-9a-z-.]+)\.com\.(ar|au|tr|tw)($|>|,)
+#From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
+#From:.*@([0-9a-z-.]+)\.net\.tr($|>|,)
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
 (pleasance|gratify) .* http:\/\/
-From:.*@([0-9a-z-.]+)\.(bid|biz|click|club|date|download|gq|ml|my|pro|racing|ru|th|top|ua|vu|xyz)($|>|,)
-From:.*@([0-9a-z-.]+)\.(tech|info)($|>|,)
-From:.*@([0-9a-z-.]+)\.co\.(in|kr)($|>|,)
-From:.*@([0-9a-z-.]+)\.com\.(ar|au|tr|tw)($|>|,)
-From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
-From:.*@([0-9a-z-.]+)\.net\.tr($|>|,)
 From:.*MOZI.*Club
 From:.*scanner@
 ^Subject:.*FW: important message
