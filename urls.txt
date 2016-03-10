@@ -1,5 +1,4 @@
 #[@\/\.\ ]
-#
 [@\/\.\ ]([\w-\.\"])+\.(bid|biz|click|club|date|download|gq|id|ml|my|pro|racing|ru|th|top|sa|ua|vu|xyz)($|>|,)
 [@\/\.\ ]([\w-\.\"])+\.(tech|info)($|>|,)
 [@\/\.\ ]([\w-\.\"])+\.co\.(in|kr)($|>|,)
