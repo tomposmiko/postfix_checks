@@ -11,6 +11,7 @@ From:.*MOZI.*Club
 From:.*scanner@
 ^Subject:.*FW: important message
 ^Subject:.*FW:Re:.*(HEALTH|MEDICAL)
+^Subject:.*Funds
 ^Subject:.*Fw: [\w- ]+ (important|new) message
 ^Subject:.*Fw: new message
 ^Subject:.*Incoming Fax
