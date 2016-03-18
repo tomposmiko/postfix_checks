@@ -1,10 +1,8 @@
 #[@\/\.\ ]
-[@\/\.\ ]([\w-\.\"])+\.(bid|biz|click|club|date|download|ec|gq|id|ml|my|online|pk|pro|racing|ru|th|tk|top|sa|site|ua|vn|vu|xyz)($|>|,)
-[@\/\.\ ]([\w-\.\"])+\.(tech|info)($|>|,)
-[@\/\.\ ]([\w-\.\"])+\.co\.(in|kr)($|>|,)
-[@\/\.\ ]([\w-\.\"])+\.com\.(ar|au|br|tr|tw)($|>|,)
+[@\/\.\ ]([\w-\.\"])+\.(ar|au|bid|biz|br|click|club|date|download|ec|gq|id|info|kr|ml|my|online|pk|pro|tech|tr|tw|racing|ru|th|tk|top|sa|site|ua|vn|vu|xyz)($|>|,)
+[@\/\.\ ]([\w-\.\"])+\.co\.(in)($|>|,)
+[@\/\.\ ]([\w-\.\"])+\.com\.(cn)($|>|,)
 [@\/\.\ ]([\w-\.\"])+\.in\.net($|>|,)
-[@\/\.\ ]([\w-\.\"])+\.net\.tr($|>|,)
 [@\/\.\ ]([\w-\.])+(adult|porn)([\w-]+)\.com
 [@\/\.\ ]([\w-\.])+bank\.com
 [@\/\.\ ]([\w-\.])+dating\.com
