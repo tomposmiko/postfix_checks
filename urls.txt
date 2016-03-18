@@ -1,5 +1,5 @@
 #[@\/\.\ ]
-[@\/\.\ ]([\w-\.\"])+\.(bid|biz|click|club|date|download|ec|gq|id|ml|my|online|pk|pro|racing|ru|th|tk|top|sa|site|ua|vu|xyz)($|>|,)
+[@\/\.\ ]([\w-\.\"])+\.(bid|biz|click|club|date|download|ec|gq|id|ml|my|online|pk|pro|racing|ru|th|tk|top|sa|site|ua|vn|vu|xyz)($|>|,)
 [@\/\.\ ]([\w-\.\"])+\.(tech|info)($|>|,)
 [@\/\.\ ]([\w-\.\"])+\.co\.(in|kr)($|>|,)
 [@\/\.\ ]([\w-\.\"])+\.com\.(ar|au|br|tr|tw)($|>|,)
