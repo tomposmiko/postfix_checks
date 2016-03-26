@@ -22,13 +22,13 @@ From:.*scanner@
 ^Subject:.*[a-z0-9]buddy
 ^Subject:.*attention
 ^Subject:.*buddy.*waiting
-^Subject:.*degree
 ^Subject:.*diabetes
 ^Subject:.*f.ck
 ^Subject:.*loan
 ^Subject:.*loan(s)\ 
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
+free private
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
 http:\/\/.* (addiction|energy|initimate|love|nights|pleasance|satisfy|gratify|woman)
 https://www.google.com/url\?q=http\%3A\%2F\%2F([\w\.-]+).ru\%23
