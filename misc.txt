@@ -9,6 +9,7 @@
 (addiction|energy|generics|intimate|love|nights|pleasance|remed|satisfy|gratify|woman).* http:\/\/
 From:.*MOZI.*Club
 From:.*scanner@
+^Subject:.* ID:[0-9][0-9]+
 ^Subject:.*FW: important message
 ^Subject:.*FW:Re:.*(HEALTH|MEDICAL)
 ^Subject:.*Funds
