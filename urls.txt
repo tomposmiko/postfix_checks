@@ -1,6 +1,6 @@
 #[@\/\.\ ]
 [@\/\.\ ]([\w-\.\"])+\.(ar|au|bid|biz|br|click|club|date|download|ec|gq|id|in|info|kr|ly|ml|my|online|party|pk|pro|tech|tr|tw|racing|ru|th|tk|top|sa|site|ua|vn|vu|xyz|za)($|>|,)
-[@\/\.\ ]([\w-\.\"])+\.co\.(in)($|>|,)
+[@\/\.\ ]([\w-\.\"])+\.co\.(in|jp)($|>|,)
 [@\/\.\ ]([\w-\.\"])+\.com\.(cn)($|>|,)
 [@\/\.\ ]([\w-\.\"])+\.in\.net($|>|,)
 [@\/\.\ ]([\w-\.])+(adult|porn)([\w-]+)\.com
