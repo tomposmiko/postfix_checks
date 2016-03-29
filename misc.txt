@@ -32,5 +32,5 @@ From:.*scanner@
 free private
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
 http:\/\/.* (addiction|energy|generics|initimate|love|nights|pleasance|remed|satisfy|gratify|woman)
-https://www.google.com/url\?q=http\%3A\%2F\%2F([\w\.-]+).ru\%23
+https:\/\/www.google.com\/url\?q=http\%3A\%2F\%2F([\w\.-]+).ru\%23
 webgalamb
