@@ -6,7 +6,7 @@
 #From:.*@([0-9a-z-.]+)\.net\.tr($|>|,)
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
-(addiction|energy|generics|intimate|love|nights|pleasance|remed|satisfy|gratify|woman).* http:\/\/
+(addiction|energy| fungenerics|intimate|love|nights|pleasance|remed|satisfy|gratify|woman).* http:\/\/
 From:.*MOZI.*Club
 From:.*scanner@
 ^Subject:.* ID:[0-9][0-9]+
@@ -32,6 +32,7 @@ From:.*scanner@
 free private
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
 http:\/\/.* (addiction|energy|generics|initimate|love|nights|pleasance|remed|satisfy|gratify|woman)
+http:\/\/.* (addiction|energy|fun generics|initimate|love|nights|pleasance|remed|satisfy|gratify|woman)
 https:\/\/www.google.com\/url\?q=http\%3A\%2F\%2F([\w\.-]+).ru\%23
 webgalamb
 \/click
