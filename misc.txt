@@ -26,6 +26,7 @@ From:.*scanner@
 ^Subject:.*diabetes
 ^Subject:.*f.ck
 ^Subject:.*loan
+^Subject:.*Auto Response: 
 ^Subject:.*loan(s)\ 
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
