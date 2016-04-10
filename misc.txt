@@ -33,6 +33,6 @@ From:.*scanner@
 free private
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
 http:\/\/.* (addiction|babe|energy|fun |generics|initimate|love|nights|pleas(d|ance)|remed|satisfy|gratify|woman)
-https:\/\/www.google.com\/url\?q=http\%3A\%2F\%2F([\w\.-]+).ru\%23
+https:\/\/www.google.com\/url\?q=http
 webgalamb
 \/click
