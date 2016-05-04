@@ -35,6 +35,6 @@ Hi tompos how are you?
 free private
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
 http:\/\/.* (addiction|babe|energy|flaccid|fun |generics| gf |initimate|love|nights|pleas(d|ance)|potence|remed|satisfy|gratify|woman)
-http:\/\/img\.[w-]+\.com/m[0-9][0-9]\.jpg
+http:\/\/img\.[w-]+\.com\/m[0-9][0-9]\.jpg
 https:\/\/www.google.com\/url\?q=http
 webgalamb
