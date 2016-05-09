@@ -6,7 +6,7 @@
 #From:.*@([0-9a-z-.]+)\.net\.tr($|>|,)
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
-(addiction|babe|energy|flaccid| fun|generics| gf |happiness|health|intimate|love|nights|pleas(ance|ed|ure)|partner|potence|remed|satisfy|gratify|woman).* http:\/\/
+(addiction|babe|energy|flaccid| fun|generics| gf |happiness|health|intimate|love|nights|pleas(ance|ed|ure)|partner|potence|remed|satisf(action|y)|gratify|woman).* http:\/\/
 From:.*MOZI.*Club
 From:.*scanner@
 Hi tompos how are you? 
@@ -34,7 +34,7 @@ Hi tompos how are you?
 ^Subject:.*online store
 free private
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
-http:\/\/.* (addiction|babe|energy|flaccid|fun |generics| gf |happiness|health|intimate|love|nights|pleas(ance|ed|ure)|partner|potence|remed|satisfy|gratify|woman)
+http:\/\/.* (addiction|babe|energy|flaccid|fun |generics| gf |happiness|health|intimate|love|nights|pleas(ance|ed|ure)|partner|potence|remed|satisf(action|y)|gratify|woman)
 http:\/\/img\.[\w-]+\.com\/m[0-9][0-9]\.jpg
 https:\/\/www.google.com\/url\?q=http
 webgalamb
