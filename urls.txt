@@ -7,6 +7,7 @@
 [@\/\.\ ]([\w-\.])+bank\.(com|org)
 [@\/\.\ ]([\w-\.])+dating\.com
 [@\/\.\ ]([\w-\.])+xn--([\w-]+)\.[\w]
+[@\/\.\ ].*tits\.com
 [@\/\.\ ]ad([\w-])+\.email
 [@\/\.\ ]adria([\w-])+\.com
 [@\/\.\ ]adriaedm\.com
