@@ -26,6 +26,7 @@
 [@\/\.\ ]cegesinfok\.hu
 [@\/\.\ ]doingbusiness\.ro
 [@\/\.\ ]egyesulet-besz\.hu
+[@\/\.\ ]email-sending\.com
 [@\/\.\ ]go2cloud\.org
 [@\/\.\ ]healthy-wheatgrass\.com
 [@\/\.\ ]hotelellato\.hu
