@@ -1,4 +1,4 @@
-#[@\/\.\ ]
+#[@\/\. ]
 [@\/\.\ ]([\w-\.\"])+\.(ar|au|bid|biz|br|click|club|cn|co|date|do|download|ec|faith|gdn|ge|gq|hk|id|in|info|kr|link|ly|ninja|ml|my|mx|online|party|pe|pk|press|pro|pt|tech|tr|tw|racing|ru|th|tk|top|sa|site|su|ua|uno|vn|vu|work|xyz|za|zw)
 [@\/\.\ ]([\w-\.\"])+\.co\.(in|jp)
 [@\/\.\ ]([\w-\.\"])+\.com\.(cn)
@@ -28,6 +28,7 @@
 [@\/\.\ ]egyesulet-besz\.hu
 [@\/\.\ ]email-sending\.com
 [@\/\.\ ]go2cloud\.org
+[@\/\.\ ]goextra\.hu
 [@\/\.\ ]healthy-wheatgrass\.com
 [@\/\.\ ]hotelellato\.hu
 [@\/\.\ ]inesales-alex01\.info
