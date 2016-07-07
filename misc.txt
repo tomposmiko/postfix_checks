@@ -32,6 +32,7 @@ Hi tompos how are you?
 ^Subject:.*loan(s)\ 
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
+aburov52@gmail.com
 free private
 http:\/\/([\w-\.]+)?sex([\w-\.]+)?\.com\/
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
