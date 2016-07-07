@@ -6,7 +6,7 @@
 #From:.*@([0-9a-z-.]+)\.net\.tr($|>|,)
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
-(addiction|babe|energy|flaccid| fun|generics| gf |gorgeous|happiness|health|intimate|love|medic[a-z]+|nights|pleas(ance|ed|ure)|partner|potence|remed|satisf(action|y)|gratify|wife|woman).* http:\/\/
+(addiction|attack|babe|energy|flaccid| fun|generics| gf |gorgeous|happiness|health|intimate|love|medic[a-z]+|nights|pleas(ance|ed|ure)|partner|potence|remed|satisf(action|y)|gratify|wife|woman).* http:\/\/
 From:.*MOZI.*Club
 From:.*scanner@
 Hi tompos how are you? 
@@ -36,7 +36,7 @@ free private
 http:\/\/([\w-\.]+)?sex([\w-\.]+)?\.com\/
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
 http:\/\/([\w\.-]+)\/wp-content\/
-http:\/\/.* (addiction|babe|energy|flaccid|fun |generics| gf |gorgeous|happiness|health|intimate|love|medic[a-z]+|nights|pleas(ance|ed|ure)|partner|potence|remed|satisf(action|y)|gratify|woman|wife)
+http:\/\/.* (addiction|attack|babe|energy|flaccid|fun |generics| gf |gorgeous|happiness|health|intimate|love|medic[a-z]+|nights|pleas(ance|ed|ure)|partner|potence|remed|satisf(action|y)|gratify|woman|wife)
 http:\/\/[\w-\.]+\/(deal|i|oem)\/
 http:\/\/img\.[\w-]+\.com\/m[0-9][0-9]\.jpg
 https:\/\/www.google.com\/url\?q=http
