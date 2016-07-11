@@ -36,6 +36,7 @@ aburov52@gmail.com
 free private
 http:\/\/([\w-\.]+)?sex([\w-\.]+)?\.com\/
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
+http:\/\/([\w\.-]+)\/tmp\/
 http:\/\/([\w\.-]+)\/wp-(content|includes)\/
 http:\/\/.* (addiction|attack|babe|energy|flaccid|fun |generics| gf |gorgeous|happiness|health|intimate|love|medic[a-z]+|nights|pleas(ance|ed|ure)|partner|potence|remed|satisf(action|y)|gratify|woman|wife)
 http:\/\/[\w-\.]+\/(deal|i|oem)\/
