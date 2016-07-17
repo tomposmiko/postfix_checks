@@ -47,6 +47,7 @@
 [@\/\.\ ]mail2best\.com
 [@\/\.\ ]mail\.com
 [@\/\.\ ]mail\.ru
+[@\/\.\ ]mailbox\.sk
 [@\/\.\ ]maileon\.hu
 [@\/\.\ ]mailerprox\.com
 [@\/\.\ ]naturalmax\.eu
