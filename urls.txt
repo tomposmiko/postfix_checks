@@ -22,6 +22,7 @@
 [@\/\.\ ]bank\.org
 [@\/\.\ ]bigline\.hu
 [@\/\.\ ]bizroom\.com
+[@\/\.\ ]blackservice\.hu
 [@\/\.\ ]boldogsag\.tk
 [@\/\.\ ]businessleaders\.ml
 [@\/\.\ ]cegesinfok\.hu
