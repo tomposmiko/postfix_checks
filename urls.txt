@@ -6,6 +6,7 @@
 [@\/\.\ ]([\w-\.])+(adult|porn)([\w-]+)\.com
 [@\/\.\ ]([\w-\.])+bank\.(com|org)
 [@\/\.\ ]([\w-\.])+dating\.com
+[@\/\.\ ]([\w-\.])+fashion.eu
 [@\/\.\ ]([\w-\.])+hook([\w-\.])+\.(com|org)
 [@\/\.\ ]([\w-\.])+xn--([\w-]+)\.[\w]
 [@\/\.\ ].*girls\.com
@@ -30,6 +31,7 @@
 [@\/\.\ ]doingbusiness\.ro
 [@\/\.\ ]egyesulet-besz\.hu
 [@\/\.\ ]email-sending\.com
+[@\/\.\ ]fashionup\.ro
 [@\/\.\ ]fnt-forditoiroda\.hu
 [@\/\.\ ]go2cloud\.org
 [@\/\.\ ]goextra\.hu
