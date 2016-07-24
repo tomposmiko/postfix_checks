@@ -45,5 +45,6 @@ http:\/\/[\w-\.]+\/(deal|i|oem)\/
 http:\/\/img\.[\w-]+\.com\/m[0-9][0-9]\.jpg
 https:\/\/www.google.com\/url\?q=http
 itechbt
+newsletter_otm
 visit our web page
 webgalamb
