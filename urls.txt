@@ -9,10 +9,10 @@
 [@\/\.\ ]([\w-\.])+fashion.eu
 [@\/\.\ ]([\w-\.])+hook([\w-\.])+\.(com|org)
 [@\/\.\ ]([\w-\.])+xn--([\w-]+)\.[\w]
-[@\/\.\ ].*girls\.com
-[@\/\.\ ].*pill\.com
+[@\/\.\ ].*girls\.(com|org)
+[@\/\.\ ].*pill(s)?\.(com|org)
 [@\/\.\ ].*russia\.ru
-[@\/\.\ ].*tits\.com
+[@\/\.\ ].*tits\.(com|org)
 [@\/\.\ ]ad([\w-])+\.email
 [@\/\.\ ]adria([\w-])+\.com
 [@\/\.\ ]adriaedm\.com
