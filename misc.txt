@@ -41,6 +41,7 @@ Our Site
 aburov52@gmail.com
 free private
 http:\/\/([\w-\.]+)?sex([\w-\.]+)?\.com\/
+http:\/\/([\w-]+)\.([\w-]+)?(pill)([\w-]+)?\.([\w-]){2,3}\/
 http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
 http:\/\/([\w\.-]+)\/tmp\/
 http:\/\/([\w\.-]+)\/wp-(content|includes)\/
