@@ -12,6 +12,7 @@ From:.*scanner@
 Hi tompos how are you? 
 If you are interested in this offer
 Our Site
+Receipt\.zip
 [0-9]+_[0-9]_[0-9]+_[0-9]_[\w-]+\.zip
 [0-9]{4,}\.zip
 \/ImageThumb\/
