@@ -13,6 +13,7 @@ Hi tompos how are you?
 If you are interested in this offer
 Our Site
 Receipt\.zip
+Subject: Tam([a-z])+s papp Kisk([a-z])+re u. 18. I./6.
 [0-9]+_[0-9]_[0-9]+_[0-9]_[\w-]+\.zip
 [0-9]{4,}\.zip
 \/ImageThumb\/
