@@ -69,6 +69,7 @@
 [@\/\.\ ]szak-forditas\.hu 
 [@\/\.\ ]test\.com
 [@\/\.\ ]tozsdeforum\.eu
+[@\/\.\ ]usaa\.com
 [@\/\.\ ]worldbank\.org
 [@\/\.\ ]yahoo\.com\.(cn|hk)
 [@\/\.\ ]yandex\.com
