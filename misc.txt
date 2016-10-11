@@ -14,6 +14,7 @@ If you are interested in this offer
 Our Site
 Receipt\.zip
 Subject: Tam([a-z])+s papp Kisk([a-z])+re u. 18. I./6.
+You can easily find me here at this site \<a href=\"https:\/\/goo\.gl\/[\w]+\">site<\/a>
 [0-9]+_[0-9]_[0-9]+_[0-9]_[\w-]+\.zip
 [0-9]{4,}\.zip
 \/ImageThumb\/
