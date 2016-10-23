@@ -4,8 +4,6 @@
 #From:.*@([0-9a-z-.]+)\.com\.(ar|au|tr|tw)($|>|,)
 #From:.*@([0-9a-z-.]+)\.in\.net($|>|,)
 #From:.*@([0-9a-z-.]+)\.net\.tr($|>|,)
-#You .* (accept|find) me .* https:\/\/goo\.gl\/[\w]+
-#You can easily find me here at this site \<a href=\"https:\/\/goo\.gl\/[\w]+\">site<\/a>
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
 (addiction|amaz(e|ing)|attack|babe|bedroom|disapoint|disappear|energy|elarg[a-z]+|flaccid| fun|gain |generics| gf |girlfriend|gorgeous|happiness|health| her |intimate|lov(e|ing)|medic[a-z]+|(to)?night(s)?|pleas(ance|ed|ure)|partner|potence|relation([a-z]+)?|remed|satisf(action|y)|gratify|xxx|wife|wom(a|e)n).* (<)?http:\/\/
@@ -16,6 +14,7 @@ If you are interested in this offer
 Our Site
 Receipt\.zip
 Subject: Tam([a-z])+s papp Kisk([a-z])+re u. 18. I./6.
+You .* (accept|find) me .* https:\/\/goo\.gl\/[\w]+
 [0-9]+_[0-9]_[0-9]+_[0-9]_[\w-]+\.zip
 [0-9]{4,}\.zip
 \"https:\/\/goo\.gl\/[\w]+\">site<\/a>
