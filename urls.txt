@@ -21,6 +21,7 @@
 [@\/\.\ ]asia-mail\.com
 [@\/\.\ ]b2-sky-sc\.com
 [@\/\.\ ]bank\.org
+[@\/\.\ ]berkoltsegcsokkentes\.hu
 [@\/\.\ ]bigline\.hu
 [@\/\.\ ]bizroom\.com
 [@\/\.\ ]blackservice\.hu
