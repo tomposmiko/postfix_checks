@@ -73,6 +73,7 @@
 [@\/\.\ ]test\.com
 [@\/\.\ ]tozsdeforum\.eu
 [@\/\.\ ]usaa\.com
+[@\/\.\ ]v-msoftware.com
 [@\/\.\ ]worldbank\.org
 [@\/\.\ ]yahoo\.com\.(cn|hk)
 [@\/\.\ ]yandex\.com
