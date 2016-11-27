@@ -17,7 +17,6 @@
 [@\/\.\ ]adria([\w-])+\.com
 [@\/\.\ ]adriaedm\.com
 [@\/\.\ ]allativasar\.hu
-[@\/\.\ ]amazonses\.com
 [@\/\.\ ]asia-mail\.com
 [@\/\.\ ]b2-sky-sc\.com
 [@\/\.\ ]bank\.org
