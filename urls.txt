@@ -28,6 +28,7 @@
 [@\/\.\ ]businessleaders\.ml
 [@\/\.\ ]cegesinfok\.hu
 [@\/\.\ ]cserebirodalom\.hu
+[@\/\.\ ]delmails\.com
 [@\/\.\ ]dhll\.org
 [@\/\.\ ]doingbusiness\.ro
 [@\/\.\ ]egyesulet-besz\.hu
