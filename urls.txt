@@ -49,7 +49,7 @@
 [@\/\.\ ]jolinformalt\.hu
 [@\/\.\ ]justslscars\.com
 [@\/\.\ ]legaltanacsado.TLD
-[@\/\.\ ]live\.com
+#[@\/\.\ ]live\.com
 [@\/\.\ ]m-e-n\.hu
 [@\/\.\ ]mail2best\.com
 [@\/\.\ ]mail\.com
