@@ -1,4 +1,5 @@
 #[@\/\.\ ]
+#[@\/\.\ ]live\.com
 [@\/\.\ ]([\w-\.\"])+\.(ar|au|bid|biz|br|cl|click|club|cn|co|date|do|download|ec|faith|gd(n)?|ge|gq|hk|id|in|info|il|kr|link|lk|loan|ly|ninja|now|me(n)?|ml|my|mx|online|party|pe|pk|press|pro|pt|tech|tr|tw|racing|ru|th|tk|tv|top|us|pw|sa|site|stream|su|ua|uno|vn|vu|webcam|win|work|xyz|za|zw)
 [@\/\.\ ]([\w-\.\"])+\.co\.(in|jp)
 [@\/\.\ ]([\w-\.\"])+\.com\.(cn)
@@ -49,7 +50,6 @@
 [@\/\.\ ]jolinformalt\.hu
 [@\/\.\ ]justslscars\.com
 [@\/\.\ ]legaltanacsado.TLD
-#[@\/\.\ ]live\.com
 [@\/\.\ ]m-e-n\.hu
 [@\/\.\ ]mail2best\.com
 [@\/\.\ ]mail\.com
@@ -65,6 +65,7 @@
 [@\/\.\ ]perfect-whitening\.com
 [@\/\.\ ]porvainn\.eu
 [@\/\.\ ]qq\.com
+[@\/\.\ ]ringcsoport\.hu
 [@\/\.\ ]s-spg-h\.com
 [@\/\.\ ]service\.com
 [@\/\.\ ]soskozpontonline\.net
@@ -78,3 +79,4 @@
 [@\/\.\ ]worldbank\.org
 [@\/\.\ ]yahoo\.com\.(cn|hk)
 [@\/\.\ ]yandex\.com
+[@\/\.\ ]zefgug\.hu
