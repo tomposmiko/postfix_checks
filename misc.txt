@@ -57,7 +57,7 @@ http:\/\/www\.([\w-\.]+)\.(com|org)\/[\w-\.]+\.php?[a-z0-9][a-z0-9][a-z0-9][a-z0
 https:\/\/www.google.com\/url\?q=http
 itechbt
 newsletter_otm
+pharm@cy|phaarmacy
 vi(i)?(a|@)gra|ci(a|@)(a)?l(i\|)(s|\$)|lev(v)?it(t)?r(a|@)|levirta
 visit our (web page|web-site)
 webgalamb
-pharm@(a)?cy
