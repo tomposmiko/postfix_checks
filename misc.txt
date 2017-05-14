@@ -60,3 +60,4 @@ newsletter_otm
 vi(i)?(a|@)gra|ci(a|@)(a)?l(i\|)(s|\$)|lev(v)?it(t)?r(a|@)|levirta
 visit our (web page|web-site)
 webgalamb
+pharm@cy
