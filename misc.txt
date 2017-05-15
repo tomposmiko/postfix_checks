@@ -58,6 +58,6 @@ https:\/\/www.google.com\/url\?q=http
 itechbt
 newsletter_otm
 pharm@cy|phaarmacy
-vi(i)?(a|@)gra|ci(a|@)(a)?l(i\|)(s|\\$)|lev(v)?it(t)?r(a|@)|levirta
+vi(i)?(a|@)g(g)?ra|ci(a|@)(a)?l(i\|)(s|\\$)|cilais|lev(v)?it(t)?r(a|@)|levirta|levtira
 visit our (web page|web-site)
 webgalamb
