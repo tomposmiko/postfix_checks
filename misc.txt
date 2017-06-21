@@ -56,7 +56,7 @@ http:\/\/.* (addiction|amaz(e|ing)|attack|babe|bedroom|disapoint|disappear|energ
 http:\/\/[\w-\.]+\/(deal|i|oem)\/
 http:\/\/img\.[\w-]+\.com\/m[0-9][0-9]\.jpg
 http:\/\/www\.([\w-\.]+)\.(com|org)\/[\w-\.]+\.php?[a-z0-9][a-z0-9][a-z0-9][a-z0-9]$
-http:\/\/www\.[\w-]+\.(com|de)\/(images\/)?[0-9][0-9][0-9][0-9]+\.html
+http:\/\/www\.[\w-]+\.(com|de)\/(images\/)?[0-9a-z][0-9a-z][0-9a-z][0-9a-z]+\.html$
 https:\/\/www.google.com\/url\?q=http
 itechbt
 lev(v)?(i|\|)t(t)?r(a|@)|levirta|levtira
