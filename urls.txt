@@ -59,6 +59,7 @@
 [@\/\.\ ]mailbox\.sk
 [@\/\.\ ]maileon\.hu
 [@\/\.\ ]mailerprox\.com
+[@\/\.\ ]mens-health\.eu
 [@\/\.\ ]naturalmax\.eu
 [@\/\.\ ]news2inbox\.eu
 [@\/\.\ ]newsletters\.com
