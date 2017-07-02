@@ -66,6 +66,7 @@
 [@\/\.\ ]newstoinbox-mail\.eu
 [@\/\.\ ]nicemaner\.eu
 [@\/\.\ ]ntoinb\.eu
+[@\/\.\ ]one(-)?two(-)?slim([\w-\.])?\.[a-z][a-z]([a-z])?
 [@\/\.\ ]onetwoslim\.eu
 [@\/\.\ ]perfect-whitening\.com
 [@\/\.\ ]porvainn\.eu
