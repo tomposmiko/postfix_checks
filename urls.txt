@@ -9,6 +9,7 @@
 [@\/\.\ ]([\w-\.])+fashion.eu
 [@\/\.\ ]([\w-\.])+hook([\w-\.])+\.(com|org)
 [@\/\.\ ]([\w-\.])+xn--([\w-]+)\.[\w]
+[@\/\.\ ].*alcobarrier\.eu
 [@\/\.\ ].*girls\.(com|org)
 [@\/\.\ ].*pill(s)?\.(com|org)
 [@\/\.\ ].*russia\.ru
@@ -35,6 +36,7 @@
 [@\/\.\ ]egyesulet-besz\.hu
 [@\/\.\ ]email-sending\.com
 [@\/\.\ ]fashionup\.ro
+[@\/\.\ ]fibrotexe\.eu
 [@\/\.\ ]fnt-forditoiroda\.hu
 [@\/\.\ ]go2cloud\.org
 [@\/\.\ ]goextra\.hu
