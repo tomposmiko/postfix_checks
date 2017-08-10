@@ -35,6 +35,7 @@
 [@\/\.\ ]doingbusiness\.ro
 [@\/\.\ ]egyesulet-besz\.hu
 [@\/\.\ ]email-sending\.com
+[@\/\.\ ]emailonacid\.com
 [@\/\.\ ]fashionup\.ro
 [@\/\.\ ]fibrotexe\.eu
 [@\/\.\ ]fnt-forditoiroda\.hu
