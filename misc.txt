@@ -49,6 +49,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject:.*online store
 aburov52@gmail.com
 ci(i)?(a|@)(a)?l(l)?(i\|)(s|\\$)|cilais
+f\*ckbuddy
 free private
 http:\/\/([\w-\.]+)?sex([\w-\.]+)?\.com\/
 http:\/\/([\w-]+)\.([\w-]+)?(pill)([\w-]+)?\.([\w-]){2,3}\/
