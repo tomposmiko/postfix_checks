@@ -66,6 +66,7 @@ itechbt
 lev(v)?(i|\|)t(t)?r(a|@)|levirta|levtira
 name="pic\.jpeg"
 newsletter_otm
+p\*ussy
 pharm@cy|phaarmacy
 vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@)
 visit our (web page|web-site)
