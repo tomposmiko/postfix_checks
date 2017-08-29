@@ -75,6 +75,7 @@
 [@\/\.\ ]ntoinb\.eu
 [@\/\.\ ]one(-)?two(-)?slim([\w-\.])?\.[a-z][a-z]([a-z])?
 [@\/\.\ ]onetwoslim\.eu
+[@\/\.\ ]optimusz\.hu
 [@\/\.\ ]perfect-whitening\.com
 [@\/\.\ ]porvainn\.eu
 [@\/\.\ ]qq\.com
