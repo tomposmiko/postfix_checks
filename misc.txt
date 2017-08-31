@@ -8,18 +8,10 @@
 ([^w-]+)szekhely[\w-]+\.TLD
 (addiction|amaz(e|ing)|attack|babe|bedroom|disapoint|disappear|energy|elarg[a-z]+|(fe)?male|flaccid| fun|gain |generics| gf |girlfriend|gorgeous|happiness|health| her |intimate|lady|lov(e|ing)|medic[a-z]+|(to)?night(s)?|pleas(ance|ed|ure)|partner|potence|relation([a-z]+)?|remed|satisf(action|y)|gratify|xxx|wife|wom(a|e)n).* (<)?http:\/\/
 Access Here Now
-From:.*MOZI.*Club
-From:.*scanner@
 Hi tompos how are you? 
 If you are interested in this offer
 Our Site
 Receipt\.zip
-Subject: Copy of Invoice
-Subject: Emailing: Payment_
-Subject: Hey\!
-Subject: Payment Receipt_
-Subject: Payment[\#-][0-9][0-9][0-9]
-Subject: Tam([a-z])+s papp Kisk([a-z])+re u. 18. I.\/6.
 You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 [0-9]+_[0-9]_[0-9]+_[0-9]_[\w-]+\.zip
 [0-9]{4,}\.zip
@@ -28,6 +20,15 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 \/click
 \/link\.php
 ^ here$
+^From:.*MOZI.*Club
+^From:.*scanner@
+^Subject: Copy of Invoice
+^Subject: Emailed Invoice - 
+^Subject: Emailing: Payment_
+^Subject: Hey\!
+^Subject: Payment Receipt_
+^Subject: Payment[\#-][0-9][0-9][0-9]
+^Subject: Tam([a-z])+s papp Kisk([a-z])+re u. 18. I.\/6.
 ^Subject:.* ID:[0-9][0-9]+
 ^Subject:.*Auto Response: 
 ^Subject:.*FW: important message
