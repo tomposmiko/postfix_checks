@@ -68,6 +68,7 @@
 [@\/\.\ ]massmail\.hu
 [@\/\.\ ]mellingrush\.eu
 [@\/\.\ ]mens-health\.eu
+[@\/\.\ ]mortons\.hu
 [@\/\.\ ]naturalmax\.eu
 [@\/\.\ ]news2inbox\.eu
 [@\/\.\ ]newsletters\.com
@@ -95,6 +96,7 @@
 [@\/\.\ ]tozsdeforum\.eu
 [@\/\.\ ]usaa\.com
 [@\/\.\ ]worldbank\.org
+[@\/\.\ ]xqueue\.com
 [@\/\.\ ]yahoo\.com\.(cn|hk)
 [@\/\.\ ]yandex\.com
 [@\/\.\ ]zefgug\.hu
