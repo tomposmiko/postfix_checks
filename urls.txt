@@ -95,6 +95,7 @@
 [@\/\.\ ]test\.com
 [@\/\.\ ]tozsdeforum\.eu
 [@\/\.\ ]usaa\.com
+[@\/\.\ ]vspooling\.eu
 [@\/\.\ ]worldbank\.org
 [@\/\.\ ]xqueue\.com
 [@\/\.\ ]yahoo\.com\.(cn|hk)
