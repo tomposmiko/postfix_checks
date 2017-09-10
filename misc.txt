@@ -21,6 +21,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 \/ImageThumb\/
 \/click
 \/link\.php
+\/ru\/
 ^ here$
 ^From:.*MOZI.*Club
 ^From:.*scanner@
