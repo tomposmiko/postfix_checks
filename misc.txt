@@ -20,6 +20,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 \"https:\/\/goo\.gl\/[\w]+\">site<\/a>
 \/ImageThumb\/
 \/click
+\/dropbox\.html
 \/link\.php
 \/ru\/
 ^ here$
