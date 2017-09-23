@@ -68,6 +68,7 @@
 [@\/\.\ ]massmail\.hu
 [@\/\.\ ]mellingrush\.eu
 [@\/\.\ ]mens-health\.eu
+[@\/\.\ ]merkapt.(hu|sk)
 [@\/\.\ ]mortons\.hu
 [@\/\.\ ]naturalmax\.eu
 [@\/\.\ ]news2inbox\.eu
