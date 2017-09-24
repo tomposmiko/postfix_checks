@@ -75,6 +75,7 @@
 [@\/\.\ ]newsletters\.com
 [@\/\.\ ]newstoinbox-mail\.eu
 [@\/\.\ ]nicemaner\.eu
+[@\/\.\ ]ntlworld.com
 [@\/\.\ ]ntoinb\.eu
 [@\/\.\ ]one(-)?two(-)?slim([\w-\.])?\.[a-z][a-z]([a-z])?
 [@\/\.\ ]onetwoslim\.eu
