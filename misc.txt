@@ -14,9 +14,7 @@ OneTwoSlim
 Our Site
 Receipt\.zip
 You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
-[0-9]+-Bill.7z
 [0-9]+_[0-9]_[0-9]+_[0-9]_[\w-]+\.zip
-[0-9][0-9][0-9][0-9]\.7z
 [0-9]{4,}\.zip
 \"https:\/\/goo\.gl\/[\w]+\">site<\/a>
 \/ImageThumb\/
@@ -60,6 +58,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 aburov52@gmail.com
 ci(i)?(a|@)(a)?l(l)?(i\|)(s|\\$)|cilais
 f\*ckbuddy
+filename=.*[0-9][0-9][0-9][0-9]\.7z
 free private
 http:\/\/([\w-\.]+)?sex([\w-\.]+)?\.com\/
 http:\/\/([\w-]+)\.([\w-]+)?(pill)([\w-]+)?\.([\w-]){2,3}\/
