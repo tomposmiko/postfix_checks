@@ -13,6 +13,7 @@ If you are interested in this offer
 OneTwoSlim
 Our Site
 Receipt\.zip
+Subject: Tam\?\?s papp Kisk\?\?re u\. 18\. I\.\/6\. 
 You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 [0-9]+_[0-9]_[0-9]+_[0-9]_[\w-]+\.zip
 [0-9]{4,}\.zip
