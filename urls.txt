@@ -38,6 +38,7 @@
 [@\/\.\ ]doingbusiness\.ro
 [@\/\.\ ]egyesulet-besz\.hu
 [@\/\.\ ]email-sending\.com
+[@\/\.\ ]emailgrid\.com
 [@\/\.\ ]emailonacid\.com
 [@\/\.\ ]fashionup\.ro
 [@\/\.\ ]fibrotexe\.eu
@@ -95,6 +96,7 @@
 [@\/\.\ ]support\.com
 [@\/\.\ ]syria(l)?\.com
 [@\/\.\ ]szak-forditas\.hu 
+[@\/\.\ ]szerszamkell\.hu
 [@\/\.\ ]test\.com
 [@\/\.\ ]tozsdeforum\.eu
 [@\/\.\ ]usaa\.com
