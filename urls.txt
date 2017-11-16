@@ -95,12 +95,14 @@
 [@\/\.\ ]service\.com
 [@\/\.\ ]soskozpontonline\.net
 [@\/\.\ ]sports-tracker\.com
+[@\/\.\ ]sports-wear\.hu
 [@\/\.\ ]support\.com
 [@\/\.\ ]syria(l)?\.com
 [@\/\.\ ]szak-forditas\.hu 
 [@\/\.\ ]szerszamkell\.hu
 [@\/\.\ ]test\.com
 [@\/\.\ ]tozsdeforum\.eu
+[@\/\.\ ]trops-sport\.hu
 [@\/\.\ ]usaa\.com
 [@\/\.\ ]vspooling\.eu
 [@\/\.\ ]worldbank\.org
