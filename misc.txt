@@ -14,6 +14,7 @@ OneTwoSlim
 Our Site
 Receipt\.zip
 Subject: Tam\?\?s papp Kisk\?\?re u\. 18\. I\.\/6\. 
+X-Mailer: PHPMailer \(phpmailer.sourceforge.net\)
 You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 [0-9]+_[0-9]_[0-9]+_[0-9]_[\w-]+\.zip
 [0-9]{4,}\.zip
