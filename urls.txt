@@ -34,6 +34,7 @@
 [@\/\.\ ]deforcema\.eu
 [@\/\.\ ]delmails\.com
 [@\/\.\ ]dhll\.org
+[@\/\.\ ]digitalinfluence\.hu
 [@\/\.\ ]dmhirlevel.hu
 [@\/\.\ ]doingbusiness\.ro
 [@\/\.\ ]egyesulet-besz\.hu
@@ -81,6 +82,7 @@
 [@\/\.\ ]nicemaner\.eu
 [@\/\.\ ]ntlworld.com
 [@\/\.\ ]ntoinb\.eu
+[@\/\.\ ]nyerjaneten\.hu
 [@\/\.\ ]one(-)?two(-)?slim([\w-\.])?\.[a-z][a-z]([a-z])?
 [@\/\.\ ]onetwoslim\.eu
 [@\/\.\ ]optimusz\.hu
