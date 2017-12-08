@@ -99,6 +99,8 @@
 [@\/\.\ ]sports-tracker\.com
 [@\/\.\ ]sports-wear\.hu
 [@\/\.\ ]support\.com
+[@\/\.\ ]sweetharmony\.hu
+[@\/\.\ ]swhm\.hu
 [@\/\.\ ]syria(l)?\.com
 [@\/\.\ ]szak-forditas\.hu 
 [@\/\.\ ]szerszamkell\.hu
