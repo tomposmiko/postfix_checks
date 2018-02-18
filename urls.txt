@@ -108,6 +108,7 @@
 [@\/\.\ ]test\.com
 [@\/\.\ ]tozsdeforum\.eu
 [@\/\.\ ]trops-sport\.hu
+[@\/\.\ ]twoomail\.com
 [@\/\.\ ]usaa\.com
 [@\/\.\ ]vspooling\.eu
 [@\/\.\ ]worldbank\.org
