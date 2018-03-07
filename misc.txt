@@ -83,7 +83,6 @@ name="pic\.jpeg"
 newsletter_otm
 p\*ussy
 pharm@cy|phaarmacy
-pill(s)?
 potency
 vi(a|@)gr(a|@)|v(i|l)(a|@)gr(a|@)
 viarga|vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@)
