@@ -58,8 +58,8 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
 aburov52@gmail.com
-ci(a|@)(\||l)i(s|\$)
-ci(i)?(a|@)(a)?l(l)?(i\|)(s|\\$)|cilais|ciialis
+(ci(a|@)(\||l)i(s|\$)) 
+(ci(i)?(a|@)(a)?l(l)?(i\|)(s|\\$)|cilais|ciialis) 
 f\*ckbuddy
 filename=.*[0-9][0-9][0-9][0-9]\.7z
 free private
@@ -84,7 +84,7 @@ newsletter_otm
 p\*ussy
 pharm@cy|phaarmacy
 potency
-vi(a|@)gr(a|@)|v(i|l)(a|@)gr(a|@)
-viarga|vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@)
+(vi(a|@)gr(a|@)|v(i|l)(a|@)gr(a|@)) 
+(viarga|vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@)) 
 visit our (web page|web-site)
 webgalamb
