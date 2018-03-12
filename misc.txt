@@ -8,6 +8,12 @@
 ([^w-])+hitel[\w-]+\.TLD
 ([^w-]+)szekhely[\w-]+\.TLD
 (addiction|amaz(e|ing)|attack|babe|bedroom|disapoint|disappear|energy|elarg[a-z]+|(fe)?male|flaccid| fun|gain |generics| gf |girlfriend|gorgeous|happiness|health| her |intimate|lady|lov(e|ing)|medic[a-z]+|(to)?night(s)?|pleas(ance|ed|ure)|partner|potence|relation([a-z]+)?|remed|satisf(action|y)|gratify|xxx|wife|wom(a|e)n).* (<)?http:\/\/
+(ci(a|@)(\||l)i(s|\$))(\*| )
+(ci(i)?(a|@)(a)?l(l)?(i\|)(s|\\$)|cilais|ciialis)(\*| )
+(leivtra|\|evitr(a|@))(\*| )
+(lev(v)?(i|\|)t(t)?r(a|@)|levirta|levtira|lveitra)(\*| )
+(vi(a|@)gr(a|@)|v(i|l)(a|@)gr(a|@))(\*| )
+(viarga|vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@))(\*| )
 Access Here Now
 Hi tompos how are you? 
 If you are interested in this offer
@@ -58,8 +64,6 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
 aburov52@gmail.com
-(ci(a|@)(\||l)i(s|\$)) 
-(ci(i)?(a|@)(a)?l(l)?(i\|)(s|\\$)|cilais|ciialis) 
 f\*ckbuddy
 filename=.*[0-9][0-9][0-9][0-9]\.7z
 free private
@@ -77,14 +81,10 @@ http:\/\/www\.([\w-\.]+)\.(com|org)\/[\w-\.]+\.php?[a-z0-9][a-z0-9][a-z0-9][a-z0
 http:\/\/www\.[\w-]+\.(com|de)\/(images\/)?[0-9a-z][0-9a-z][0-9a-z][0-9a-z]+\.html$
 https:\/\/www.google.com\/url\?q=http
 itechbt
-leivtra|\|evitr(a|@)
-lev(v)?(i|\|)t(t)?r(a|@)|levirta|levtira|lveitra
 name="pic\.jpeg"
 newsletter_otm
 p\*ussy
 pharm@cy|phaarmacy
 potency
-(vi(a|@)gr(a|@)|v(i|l)(a|@)gr(a|@)) 
-(viarga|vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@)) 
 visit our (web page|web-site)
 webgalamb
