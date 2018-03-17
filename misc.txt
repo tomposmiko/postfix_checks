@@ -1,3 +1,5 @@
+ in bed
+ in the bedroom  
  pill 
 #From:.*@([0-9a-z-.]+)\.(bid|biz|click|club|date|download|gq|ml|my|name|pro|racing|ru|th|top|ua|vu|xyz)($|>|,)
 #From:.*@([0-9a-z-.]+)\.(tech|info)($|>|,)
@@ -90,4 +92,3 @@ pharm@cy|phaarmacy
 potency
 visit our (web page|web-site)
 webgalamb
- in bed 
