@@ -33,6 +33,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 \/ImageThumb\/
 \/click
 \/dropbox\.html
+\/google_cache\/
 \/link\.php
 ^ here$
 ^From:.*MOZI.*Club
