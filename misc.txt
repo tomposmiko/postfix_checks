@@ -1,4 +1,4 @@
-   http:\/\/www\.[a-z]+\.org/.*\.php\?(p|u|v)=[0-9]{7}
+   http:\/\/www\.[a-z]+\.org/.*\.php\?(p|u|v)(=)?[0-9]{7}
  in bed
  in the bedroom  
  pill 
