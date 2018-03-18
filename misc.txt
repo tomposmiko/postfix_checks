@@ -1,4 +1,4 @@
-   http:\/\/www\.[a-z]+\.org/.*\.php\?u=8340697
+   http:\/\/www\.[a-z]+\.org/.*\.php\?u=[0-9]{7}
  in bed
  in the bedroom  
  pill 
