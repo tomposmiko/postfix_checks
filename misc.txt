@@ -31,6 +31,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 [0-9]{4,}\.zip
 \"https:\/\/goo\.gl\/[\w]+\">site<\/a>
 \/ImageThumb\/
+\/c(||i)al(l|i)s\/
 \/click
 \/dropbox\.html
 \/google_cache\/
@@ -87,10 +88,12 @@ http:\/\/www\.([\w-\.]+)\.(com|org)\/[\w-\.]+\.php?[a-z0-9][a-z0-9][a-z0-9][a-z0
 http:\/\/www\.[\w-]+\.(com|de)\/(images\/)?[0-9a-z][0-9a-z][0-9a-z][0-9a-z]+\.html$
 https:\/\/www.google.com\/url\?q=http
 itechbt
+leevitra
 name="pic\.jpeg"
 newsletter_otm
 p\*ussy
 pharm@cy|phaarmacy
 potency
+v(l|i)agr(@|a)
 visit our (web page|web-site)
 webgalamb
