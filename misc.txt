@@ -18,7 +18,7 @@
 (leivtra|\|evitr(a|@))(\*| )
 (lev(v)?(i|\|)t(t)?r(a|@)|levirta|levtira|lveitra)(\*| )
 (levitra|(1|\|)evitr@)
-(vi(i)?(a|@)gr(a|@)|v(i|l)(a|@)gr(a|@))(\*| )
+(v(i|1)(i)?(a|@)gr(a|@)|v(i|l)(a|@)gr(a|@))(\*| )
 (viarga|vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@))(\*| )
 Access Here Now
 Hi tompos how are you? 
