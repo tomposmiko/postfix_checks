@@ -68,6 +68,7 @@
 [@\/\.\ ]jade-campaign\.com
 [@\/\.\ ]jolinformalt\.hu
 [@\/\.\ ]justslscars\.com
+[@\/\.\ ]kozossegimobilflotta\.hu
 [@\/\.\ ]legaltanacsado.TLD
 [@\/\.\ ]liluinc\.eu
 [@\/\.\ ]m-e-n\.hu
@@ -109,6 +110,7 @@
 [@\/\.\ ]support\.com
 [@\/\.\ ]sweetharmony\.hu
 [@\/\.\ ]swhm\.hu
+[@\/\.\ ]synapsemailer\.com
 [@\/\.\ ]syria(l)?\.com
 [@\/\.\ ]szak-forditas\.hu 
 [@\/\.\ ]szerszamkell\.hu
