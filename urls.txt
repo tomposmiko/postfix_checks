@@ -34,6 +34,7 @@
 [@\/\.\ ]caramellpremiumresort\.hu
 [@\/\.\ ]cdftravel\.eu
 [@\/\.\ ]cegesinfok\.hu
+[@\/\.\ ]cirkonhidak\.hu
 [@\/\.\ ]cserebirodalom\.hu
 [@\/\.\ ]deforcema\.eu
 [@\/\.\ ]delmails\.com
@@ -76,6 +77,7 @@
 [@\/\.\ ]mailbox\.sk
 [@\/\.\ ]maileon\.hu
 [@\/\.\ ]mailerprox\.com
+[@\/\.\ ]mailgo\.hu
 [@\/\.\ ]massmail\.hu
 [@\/\.\ ]mellingrush\.eu
 [@\/\.\ ]mens-health\.eu
