@@ -38,7 +38,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 \/dropbox\.html
 \/google_cache\/
 \/link\.php
-\/ru\/\unsubscribe\/
+\/ru\/unsubscribe\/
 ^ here$
 ^From:.*MOZI.*Club
 ^From:.*scanner@
