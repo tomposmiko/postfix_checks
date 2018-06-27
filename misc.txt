@@ -73,6 +73,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject:.*m[e3]d[i1]c[i1]n
 ^Subject:.*online store
 aburov52@gmail.com
+cailis
 cia(l|\|)(l|\|)\$
 disappointment in the bed
 f\*ckbuddy
@@ -97,7 +98,7 @@ newsletter_otm
 p\*ussy
 pharm@cy|phaarmacy
 potency
-v(l|i)agr(@|a)
+v(l|i)(a|@)gr(@|a)
 viaagra
 visit our (web page|web-site)
 webgalamb
