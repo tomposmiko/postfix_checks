@@ -14,12 +14,12 @@
 (ci(a|@)(\||l)i(s|\$))(\*|\/|-| )
 (ci(i)?(a|@)(a)?l(l)?(i\|)(s|\\$)|cilais|ciialis)(\*|\/|-| )
 (le(e)?vitra|lveitra)
-(leivtra|\|evi(i)?tr(a|@))(\*|\/|-| |\+)
+(leivtra|\|evi(i)?tr(a|@))(\*|\/|-| )
 (lev(v)?(i|\|)(i)?t(t)?r(a|@)|levirta|levtira|lveitra)
-(levitra|(1|\|)evitr@|\+)
-(v(a|@)(i|1|\|)gr(a|@|\+)
-(v(i|1|l)(i)?(a|@)g(g)?r(a|@)|v(i|l)(a|@)gr(a|@))(\*|\/|-| |\+)
-(viarga|vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@))(\*|\/|%|-| |\+)
+(levitra|(1|\|)evitr@)
+(v(a|@)(i|1|\|)gr(a|@)
+(v(i|1|l)(i)?(a|@)g(g)?r(a|@)|v(i|l)(a|@)gr(a|@))(\*|\/|-| )
+(viarga|vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@))(\*|\/|%|-| )
 Access Here Now
 Hi tompos how are you? 
 If you are interested in this offer
