@@ -17,7 +17,7 @@
 (leivtra|\|evi(i)?tr(a|@))(\*|\/|-| )
 (lev(v)?(i|\|)(i)?t(t)?r(a|@)|levirta|levtira|lveitra)
 (levitra|(1|\|)evitr@)
-(v(a|@)(i|1|\|)gr(a|@)
+(v(a|@)(i|1|\|)gr(a|@))
 (v(i|1|l)(i)?(a|@)g(g)?r(a|@)|v(i|l)(a|@)gr(a|@))(\*|\/|-| )
 (viarga|vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@))(\*|\/|%|-| )
 Access Here Now
