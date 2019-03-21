@@ -117,6 +117,7 @@
 [@\/\.\ ]szak-forditas\.hu 
 [@\/\.\ ]szerszamkell\.hu
 [@\/\.\ ]test\.com
+[@\/\.\ ]thepost\.hu
 [@\/\.\ ]tozsdeforum\.eu
 [@\/\.\ ]trops-sport\.hu
 [@\/\.\ ]twoomail\.com
