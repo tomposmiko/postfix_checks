@@ -42,6 +42,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^ here$
 ^From:.*MOZI.*Club
 ^From:.*scanner@
+^Subject: .* Attack hackers to your account
 ^Subject: Account compromised
 ^Subject: Copy of Invoice
 ^Subject: Emailed Invoice - 
