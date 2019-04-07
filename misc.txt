@@ -48,6 +48,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject: Emailed Invoice - 
 ^Subject: Emailing: Payment_
 ^Subject: Hey\!
+^Subject: High level of danger. Your account was under attack.
 ^Subject: I am free for you now
 ^Subject: Invoice INV-
 ^Subject: Payment Receipt_
