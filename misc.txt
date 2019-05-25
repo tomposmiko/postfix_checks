@@ -55,6 +55,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject: Invoice INV-
 ^Subject: Payment Receipt_
 ^Subject: Payment[\#-][0-9][0-9][0-9]
+^Subject: Security Alert. Your accounts was compromised. You need change password\!
 ^Subject: Security Notice. Someone have access to your system.
 ^Subject: Tam([a-z])+s papp Kisk([a-z])+re u. 18. I.\/6.
 ^Subject: We hacked your system
