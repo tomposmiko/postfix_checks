@@ -1,0 +1,113 @@
+   http:\/\/www\.[a-z]+\.org\/.*\.php\?(p|t|u|v)(=)?[0-9]{7}
+ in bed
+ in the bedroom  
+ pill 
+([^w-])+hitel[\w-]+\.TLD
+([^w-]+)szekhely[\w-]+\.TLD
+(addiction|amaz(e|ing)|attack|babe|bedroom|disapoint|disappear|energy|elarg[a-z]+|(fe)?male|flaccid| fun|gain |generics| gf |girlfriend|gorgeous|happiness|health| her |intimate|lady|lov(e|ing)|medic[a-z]+|(to)?night(s)?|pleas(ance|ed|ure)|partner|potence|relation([a-z]+)?|remed|satisf(action|y)|gratify|xxx|wife|wom(a|e)n).* (<)?http:\/\/
+(ci(a|@)(\||l)i(s|\$))(\*|\/|-| )
+(ci(i)?(a|@)(a)?l(l)?(i\|)(s|\\$)|cilais|ciialis)(\*|\/|-| )
+(le(e)?vitra|lveitra)
+(leivtra|\|evi(i)?tr(a|@))(\*|\/|-| )
+(lev(v)?(i|\|)(i)?t(t)?r(a|@)|levirta|levtira|lveitra)
+(levitra|(1|\|)evitr@)
+(v(a|@)(i|1|\|)gr(a|@))
+(v(i|1|l)(i)?(a|@)g(g)?r(a|@)|v(i|l)(a|@)gr(a|@))(\*|\/|-| )
+(viarga|vigara|vaigra|v(i|1|\|)(i)?(a|@)(a)?g(g)?r(a|@))(\*|\/|%|-| )
+Access Here Now
+Hi tompos how are you? 
+If you are interested in this offer
+OneTwoSlim
+Our Site
+Receipt\.zip
+Subject: Tam\?\?s papp Kisk\?\?re u\. 18\. I\.\/6\. 
+X-Mailer: PHPMailer \(phpmailer.sourceforge.net\)
+You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
+[0-9]+_[0-9]_[0-9]+_[0-9]_[\w-]+\.zip
+[0-9]{4,}\.zip
+\"https:\/\/goo\.gl\/[\w]+\">site<\/a>
+\/ImageThumb\/
+\/c(||i)al(l|i)s\/
+\/click
+\/dropbox\.html
+\/google_cache\/
+\/link\.php
+\/ru\/unsubscribe\/
+^ here$
+^From:.*MOZI.*Club
+^From:.*scanner@
+^Subject: ([a-z]+)@([a-z.]+) =\?utf-8\?B\?
+^Subject: .* Attack hackers to your account
+^Subject: A fiokod szaggatott
+^Subject: .*@.* has been compromised
+^Subject: Account compromised
+^Subject: Copy of Invoice
+^Subject: Emailed Invoice - 
+^Subject: Emailing: Payment_
+^Subject: Hey\!
+^Subject: High level of danger. Your account was under attack.
+^Subject: I am free for you now
+^Subject: Invoice INV-
+^Subject: Payment Receipt_
+^Subject: Payment[\#-][0-9][0-9][0-9]
+^Subject: Security Alert. Your accounts was compromised. You need change password\!
+^Subject: Security Notice. Someone have access to your system.
+^Subject: Tam([a-z])+s papp Kisk([a-z])+re u. 18. I.\/6.
+^Subject: We hacked your system
+^Subject: Your account is being used by another person
+^Subject: Your account was under attack
+^Subject: [0-9]+ - True Telecom Invoice
+^Subject: can you meet me tomorrow\?
+^Subject: what are your plans for the weekend
+^Subject:.* ID:[0-9][0-9]+
+^Subject:.*Auto Response: 
+^Subject:.*FW: important message
+^Subject:.*FW:Re:.*(HEALTH|MEDICAL)
+^Subject:.*Funds
+^Subject:.*Fw: [\w- ]+ (important|new) message
+^Subject:.*Fw: new message
+^Subject:.*Incoming Fax
+^Subject:.*Message for you
+^Subject:.*Neues Fax von
+^Subject:.*Re:Drugstore online
+^Subject:.*Re:Medical([\w- ]+)(health|store)
+^Subject:.*[a-z0-9]buddy
+^Subject:.*attention
+^Subject:.*buddy.*waiting
+^Subject:.*diabetes
+^Subject:.*f.ck
+^Subject:.*has been hacked, change your password ASAP
+^Subject:.*loan
+^Subject:.*loan(s)\ 
+^Subject:.*m[e3]d[i1]c[i1]n
+^Subject:.*online store
+aburov52@gmail.com
+cailis
+cia(l|\|)(l|\|)\$
+disappointment in the bed
+f\*ckbuddy
+filename=.*[0-9][0-9][0-9][0-9]\.7z
+free private
+http:\/\/([\w-\.]+)?sex([\w-\.]+)?\.com\/
+http:\/\/([\w-]+)\.([\w-]+)?(pill)([\w-]+)?\.([\w-]){2,3}\/
+http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
+http:\/\/([\w\.-]+)\/tmp\/
+http:\/\/([\w\.-]+)\/wp-(content|includes)\/
+http:\/\/.* (addiction|amaz(e|ing)|attack|babe|bedroom|disapoint|disappear|energy|(fe)?male|flaccid|fun |gain |generics| gf |girlfriend|gorgeous|happiness|health| her |intimate|lady|lov(e|ing)|medic[a-z]+|(to)?night(s)?|pleas(ance|ed|ure)|partner|potence|relation([a-z]+)?|remed|satisf(action|y)|gratify|xxx|wom(a|e)n|wife)
+http:\/\/.*\/ru\/
+http:\/\/.*generics.*
+http:\/\/[\w-\.]+\/(deal|i|oem)\/
+http:\/\/img\.[\w-]+\.com\/m[0-9][0-9]\.jpg
+http:\/\/www\.([\w-\.]+)\.(com|org)\/[\w-\.]+\.php?[a-z0-9][a-z0-9][a-z0-9][a-z0-9]$
+http:\/\/www\.[\w-]+\.(com|de)\/(images\/)?[0-9a-z][0-9a-z][0-9a-z][0-9a-z]+\.html$
+https:\/\/www.google.com\/url\?q=http
+itechbt
+name="pic\.jpeg"
+newsletter_otm
+p\*ussy
+pharm@cy|phaarmacy
+potency
+v(l|i)(a|@)gr(@|a)
+viaagra
+visit our (web page|web-site)
+webgalamb
