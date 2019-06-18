@@ -44,6 +44,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^From:.*scanner@
 ^Subject: ([a-z]+)@([a-z.]+) =\?utf-8\?B\?
 ^Subject: .* Attack hackers to your account
+^Subject: A fiokod szaggatott
 ^Subject: Account compromised
 ^Subject: Copy of Invoice
 ^Subject: Emailed Invoice - 
