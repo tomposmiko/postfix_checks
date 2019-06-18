@@ -44,7 +44,11 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^From:.*scanner@
 ^Subject: ([a-z]+)@([a-z.]+) =\?utf-8\?B\?
 ^Subject: .* Attack hackers to your account
+<<<<<<< HEAD
 ^Subject: A fiokod szaggatott
+=======
+^Subject: .*@.* has been compromised
+>>>>>>> 3c0ba16d12886e4a1e9691bd9b5d95bba93aa7a0
 ^Subject: Account compromised
 ^Subject: Copy of Invoice
 ^Subject: Emailed Invoice - 
@@ -55,6 +59,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject: Invoice INV-
 ^Subject: Payment Receipt_
 ^Subject: Payment[\#-][0-9][0-9][0-9]
+^Subject: Security Alert. Your accounts was compromised. You need change password\!
 ^Subject: Security Notice. Someone have access to your system.
 ^Subject: Tam([a-z])+s papp Kisk([a-z])+re u. 18. I.\/6.
 ^Subject: We hacked your system
