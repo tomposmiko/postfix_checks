@@ -84,6 +84,7 @@
 [@\/\.\ ]mens-health\.eu
 [@\/\.\ ]merkapt.(hu|sk)
 [@\/\.\ ]mortons\.hu
+[@\/\.\ ]mta2.net
 [@\/\.\ ]naturalmax\.eu
 [@\/\.\ ]news2inbox\.eu
 [@\/\.\ ]newsletters\.com
@@ -122,6 +123,7 @@
 [@\/\.\ ]trops-sport\.hu
 [@\/\.\ ]twoomail\.com
 [@\/\.\ ]usaa\.com
+[@\/\.\ ]utburkolas\.eu
 [@\/\.\ ]vspooling\.eu
 [@\/\.\ ]worldbank\.org
 [@\/\.\ ]xqueue\.com
