@@ -93,6 +93,7 @@
 [@\/\.\ ]ntlworld.com
 [@\/\.\ ]ntoinb\.eu
 [@\/\.\ ]nyerjaneten\.hu
+[@\/\.\ ]okos-vallalkozo\.com
 [@\/\.\ ]one(-)?two(-)?slim([\w-\.])?\.[a-z][a-z]([a-z])?
 [@\/\.\ ]onetwoslim\.eu
 [@\/\.\ ]optimusz\.hu
