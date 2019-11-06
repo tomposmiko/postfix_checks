@@ -27,7 +27,6 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 \"https:\/\/goo\.gl\/[\w]+\">site<\/a>
 \/ImageThumb\/
 \/c(||i)al(l|i)s\/
-\/click
 \/dropbox\.html
 \/google_cache\/
 \/link\.php
