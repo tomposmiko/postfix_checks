@@ -90,7 +90,6 @@ filename=.*[0-9][0-9][0-9][0-9]\.7z
 free private
 http:\/\/([\w-\.]+)?sex([\w-\.]+)?\.com\/
 http:\/\/([\w-]+)\.([\w-]+)?(pill)([\w-]+)?\.([\w-]){2,3}\/
-http:\/\/([\w\.-]+)\.(xn--p1ai|ru)[ ,$\/]
 http:\/\/([\w\.-]+)\/tmp\/
 http:\/\/([\w\.-]+)\/wp-(content|includes)\/
 http:\/\/.* (addiction|amaz(e|ing)|attack|babe|bedroom|disapoint|disappear|energy|(fe)?male|flaccid|fun |gain |generics| gf |girlfriend|gorgeous|happiness|health| her |intimate|lady|lov(e|ing)|medic[a-z]+|(to)?night(s)?|pleas(ance|ed|ure)|partner|potence|relation([a-z]+)?|remed|satisf(action|y)|gratify|xxx|wom(a|e)n|wife)
