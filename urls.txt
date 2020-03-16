@@ -1,7 +1,7 @@
 #[@\/\.\ ]
 #[@\/\.\ ]live\.com
 #[@\/\.\ ]mail\.ru
-[@\/\.\ ]([\w-\.\"])+\.(adsl|ar|au|bid|biz|biz\.ua|bo|br|by|cl|click|club|cmu\.edu|date|do|download|ec|expert|faith|gd(n)?|ge|gq|hk|id|info|il|ir|kg|kr|kz|link|lk|loan|ly|ninja|now|me(n)?|ml|my|name|online|party|pe|pk|press|pro|pt|tech|tr|tw|racing|th|tk|top|us|pw|sa|stream|su|ua|uno|vn|vu|webcam|win|work|xyz|zw)
+[@\/\.\ ]([\w-\.\"])+\.(adsl|ar|au|bid|biz|biz\.ua|bo|br|by|cl|click|club|cmu\.edu|date|do|download|ec|expert|faith|gd(n)?|ge|gq|hk|id|info|il|ir|kg|kr|kz|link|lk|loan|ly|ninja|now|ml|my|name|online|party|pe|pk|press|pro|pt|tech|tr|tw|racing|th|tk|top|us|pw|sa|stream|su|ua|uno|vn|vu|webcam|win|work|xyz|zw)
 [@\/\.\ ]([\w-\.\"])+\.co\.(in)
 [@\/\.\ ]([\w-\.\"])+\.com\.(cn)
 [@\/\.\ ]([\w-\.\"])+\.in\.net
