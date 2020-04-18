@@ -26,7 +26,7 @@ if [ "$updated" -eq 1 ];
                     echo "/${url}([,>\*\/\ ]|$)/   REJECT 'SPAM: $(echo "${url}"|sed 's,\[\@\\\/\\\.\\\ \],,' | tr -d \$)'"|sed "s,TLD,${TLD},g"
 		done > body_checks_urls
 		#echo > body_checks_urls
-		sudo /usr/sbin/postfix reload
+		/usr/sbin/postfix reload
 fi
 
 if [ $updated -eq 1 ];
@@ -36,5 +36,5 @@ if [ $updated -eq 1 ];
         done > body_checks_misc
 
 		#echo > body_checks_misc
-        sudo /usr/sbin/postfix reload
+        /usr/sbin/postfix reload
 fi
