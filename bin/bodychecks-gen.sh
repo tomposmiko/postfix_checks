@@ -8,7 +8,7 @@ dir_postfix_checks="/etc/postfix/postfix_checks"
 TLD='(com|eu|net)'
 cd $dir_postfix_checks || exit 1
 
-if git pull|grep -q 'Already up-to-date';
+if git pull | egrep -q '(Already up to date|Already up-to-date)';
 	then
 		updated=0
 	else
