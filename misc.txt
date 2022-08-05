@@ -1,7 +1,7 @@
    http:\/\/www\.[a-z]+\.org\/.*\.php\?(p|t|u|v)(=)?[0-9]{7}
  in bed
- in the bedroom  
- pill 
+ in the bedroom
+ pill
 ( ci(a|@)(\||l)i(s|\$))(\*|\/|-| )
 ( ci(i)?(a|@)(a)?l(l)?(i\|)(s|\\$)|cilais|ciialis)(\*|\/|-| )
 ( v(a|@)(i|1|\|)gr(a|@))
@@ -15,11 +15,11 @@
 (lev(v)?(i|\|)(i)?t(t)?r(a|@)|levirta|levtira|lveitra)
 (levitra|(1|\|)evitr@)
 Access Here Now
-Hi tompos how are you? 
+Hi tompos how are you?
 If you are interested in this offer
 OneTwoSlim
 Receipt\.zip
-Subject: Tam\?\?s papp Kisk\?\?re u\. 18\. I\.\/6\. 
+Subject: Tam\?\?s papp Kisk\?\?re u\. 18\. I\.\/6\.
 X-Mailer: PHPMailer \(phpmailer.sourceforge.net\)
 You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 [0-9]+_[0-9]_[0-9]+_[0-9]_[\w-]+\.zip
@@ -41,7 +41,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject: A hackerek hozzaferhetnek az On fiokjahoz.Jelszava serult.
 ^Subject: Account compromised
 ^Subject: Copy of Invoice
-^Subject: Emailed Invoice - 
+^Subject: Emailed Invoice -
 ^Subject: Emailing: Payment_
 ^Subject: Hey\!
 ^Subject: High level of danger. Your account was under attack.
@@ -60,7 +60,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject: can you meet me tomorrow\?
 ^Subject: what are your plans for the weekend
 ^Subject:.* ID:[0-9][0-9]+
-^Subject:.*Auto Response: 
+^Subject:.*Auto Response:
 ^Subject:.*FW: important message
 ^Subject:.*FW:Re:.*(HEALTH|MEDICAL)
 ^Subject:.*Funds
@@ -78,8 +78,7 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject:.*f.ck
 ^Subject:.*has been hacked, change your password ASAP
 ^Subject:.*loan
-^Subject:.*loan(s)\ 
-^Subject:.*m[e3]d[i1]c[i1]n
+^Subject:.*loan(s)\
 ^Subject:.*online store
 aburov52@gmail.com
 cailis
