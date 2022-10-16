@@ -1,7 +1,6 @@
    http:\/\/www\.[a-z]+\.org\/.*\.php\?(p|t|u|v)(=)?[0-9]{7}
  in bed
  in the bedroom
- pill
 ( ci(a|@)(\||l)i(s|\$))(\*|\/|-| )
 ( ci(i)?(a|@)(a)?l(l)?(i\|)(s|\\$)|cilais|ciialis)(\*|\/|-| )
 ( v(a|@)(i|1|\|)gr(a|@))
