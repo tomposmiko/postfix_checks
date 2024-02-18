@@ -77,7 +77,6 @@ You .* (accept|add|find) me .* https:\/\/goo\.gl\/[\w]+
 ^Subject:.*f.ck
 ^Subject:.*has been hacked, change your password ASAP
 ^Subject:.*loan
-^Subject:.*loan(s)\
 ^Subject:.*online store
 aburov52@gmail.com
 cailis
